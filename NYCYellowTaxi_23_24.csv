@@ -1,0 +1,917 @@
+,RiderID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,RatecodeID,PULocationID,PUBorough,PUZone,DOLocationID,DOBorough,DOZone,payment_type,fare_amount,extra,mta_tax,tip_amount,tolls_amount,total_amount,congestion_surcharge
+0,1,2024-07-31 10:43:31,2024-07-31 11:05:08,1.0,1.4,1.0,229,Manhattan,Sutton Place/Turtle Bay North,170,Manhattan,Murray Hill,1,17.0,2.5,0.5,3.5,0.0,24.5,2.5
+1,2,2024-07-30 21:11:17,2024-07-30 21:24:36,1.0,1.43,1.0,79,Manhattan,East Village,170,Manhattan,Murray Hill,1,12.8,1.0,0.5,3.2,0.0,21.0,2.5
+2,3,2024-07-30 19:01:24,2024-07-30 19:19:28,1.0,1.44,1.0,162,Manhattan,Midtown East,48,Manhattan,Clinton East,1,16.3,2.5,0.5,4.56,0.0,27.36,2.5
+3,4,2024-07-30 16:32:53,2024-07-30 16:39:20,1.0,0.62,1.0,237,Manhattan,Upper East Side South,142,Manhattan,Lincoln Square East,1,7.2,2.5,0.5,2.74,0.0,16.44,2.5
+4,5,2024-07-30 10:54:06,2024-07-30 11:12:39,1.0,1.71,1.0,142,Manhattan,Lincoln Square East,237,Manhattan,Upper East Side South,1,17.0,0.0,0.5,4.2,0.0,25.2,2.5
+5,6,2024-07-30 07:25:33,2024-07-30 07:29:23,1.0,0.9,1.0,164,Manhattan,Midtown South,230,Manhattan,Times Sq/Theatre District,1,6.5,0.0,0.5,2.1,0.0,12.6,2.5
+6,7,2024-07-29 21:34:56,2024-07-29 21:46:40,1.0,1.2,1.0,230,Manhattan,Times Sq/Theatre District,162,Manhattan,Midtown East,2,10.7,3.5,0.5,0.0,0.0,15.7,2.5
+7,8,2024-07-29 17:15:57,2024-07-29 17:22:26,1.0,1.07,1.0,161,Manhattan,Midtown Center,90,Manhattan,Flatiron,1,7.9,2.5,0.5,2.16,0.0,16.56,2.5
+8,9,2024-07-29 12:41:27,2024-07-29 12:53:56,2.0,1.65,1.0,74,Manhattan,East Harlem North,75,Manhattan,East Harlem South,1,12.8,0.0,0.5,3.58,0.0,17.88,0.0
+9,10,2024-07-27 19:04:40,2024-07-27 19:23:14,1.0,3.02,1.0,231,Manhattan,TriBeCa/Civic Center,33,Brooklyn,Brooklyn Heights,1,18.4,0.0,0.5,4.48,0.0,26.88,2.5
+10,11,2024-07-26 23:07:37,2024-07-26 23:13:04,1.0,1.1,1.0,146,Queens,Long Island City/Queens Plaza,7,Queens,Astoria,1,6.5,1.0,0.5,2.0,0.0,11.0,0.0
+11,12,2024-07-26 06:33:09,2024-07-26 06:50:26,2.0,11.0,1.0,132,Queens,JFK Airport,154,Brooklyn,Marine Park/Floyd Bennett Field,2,41.5,1.75,0.5,0.0,0.0,44.75,0.0
+12,13,2024-07-25 16:54:44,2024-07-25 17:51:49,1.0,12.7,99.0,14,Brooklyn,Bay Ridge,72,Brooklyn,East Flatbush/Remsen Village,1,41.5,0.0,0.5,0.0,6.94,48.94,0.0
+13,14,2024-07-25 14:35:40,2024-07-25 14:41:49,2.0,0.93,1.0,170,Manhattan,Murray Hill,137,Manhattan,Kips Bay,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+14,15,2024-07-24 22:02:13,2024-07-24 22:22:47,1.0,4.0,1.0,142,Manhattan,Lincoln Square East,79,Manhattan,East Village,1,19.8,3.5,0.5,2.0,0.0,26.8,2.5
+15,16,2024-07-24 20:57:06,2024-07-24 21:18:44,2.0,3.45,1.0,231,Manhattan,TriBeCa/Civic Center,170,Manhattan,Murray Hill,1,21.2,1.0,0.5,6.55,0.0,32.75,2.5
+16,17,2024-07-24 17:55:11,2024-07-24 18:04:09,2.0,1.06,1.0,114,Manhattan,Greenwich Village South,148,Manhattan,Lower East Side,2,10.0,2.5,0.5,0.0,0.0,16.5,2.5
+17,18,2024-07-24 11:04:37,2024-07-24 11:14:23,2.0,1.25,1.0,170,Manhattan,Murray Hill,113,Manhattan,Greenwich Village North,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+18,19,2024-07-23 19:23:01,2024-07-23 19:30:14,1.0,1.57,1.0,141,Manhattan,Lenox Hill West,263,Manhattan,Yorkville West,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+19,20,2024-07-23 15:06:11,2024-07-23 15:33:44,1.0,2.77,1.0,43,Manhattan,Central Park,164,Manhattan,Midtown South,1,23.3,0.0,0.5,5.46,0.0,32.76,2.5
+20,21,2024-07-22 13:32:58,2024-07-22 14:14:39,2.0,25.18,2.0,132,Queens,JFK Airport,170,Manhattan,Murray Hill,1,70.0,0.0,0.5,16.54,6.94,99.23,2.5
+21,22,2024-07-21 18:49:25,2024-07-21 18:56:23,1.0,1.54,1.0,137,Manhattan,Kips Bay,162,Manhattan,Midtown East,1,9.3,0.0,0.5,2.66,0.0,15.96,2.5
+22,23,2024-07-20 23:47:51,2024-07-21 00:03:03,2.0,2.45,1.0,148,Manhattan,Lower East Side,186,Manhattan,Penn Station/Madison Sq West,1,16.3,1.0,0.5,4.26,0.0,25.56,2.5
+23,24,2024-07-20 09:18:31,2024-07-20 09:27:02,1.0,1.96,1.0,142,Manhattan,Lincoln Square East,43,Manhattan,Central Park,2,12.1,0.0,0.5,0.0,0.0,16.1,2.5
+24,25,2024-07-19 21:48:43,2024-07-19 22:15:17,1.0,2.7,1.0,249,Manhattan,West Village,233,Manhattan,UN/Turtle Bay South,1,21.2,3.5,0.5,2.0,0.0,28.2,2.5
+25,26,2024-07-19 14:40:16,2024-07-19 14:47:52,6.0,1.73,1.0,13,Manhattan,Battery Park City,88,Manhattan,Financial District South,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+26,27,2024-07-19 10:45:59,2024-07-19 10:58:25,1.0,1.73,1.0,249,Manhattan,West Village,231,Manhattan,TriBeCa/Civic Center,1,12.8,0.0,0.5,3.36,0.0,20.16,2.5
+27,28,2024-07-18 23:37:37,2024-07-18 23:54:07,1.0,4.4,1.0,143,Manhattan,Lincoln Square West,75,Manhattan,East Harlem South,1,21.9,3.5,0.5,5.35,0.0,32.25,2.5
+28,29,2024-07-18 19:31:23,2024-07-18 19:41:21,1.0,1.49,1.0,246,Manhattan,West Chelsea/Hudson Yards,234,Manhattan,Union Sq,1,10.7,2.5,0.5,4.3,0.0,21.5,2.5
+29,30,2024-07-18 07:40:24,2024-07-18 07:46:08,1.0,0.6,1.0,74,Manhattan,East Harlem North,41,Manhattan,Central Harlem,1,5.8,0.0,0.5,2.0,0.0,9.3,0.0
+30,31,2024-07-17 14:06:00,2024-07-17 14:40:30,1.0,3.16,1.0,211,Manhattan,SoHo,163,Manhattan,Midtown North,1,28.9,0.0,0.5,5.0,0.0,37.9,2.5
+31,32,2024-07-16 22:42:51,2024-07-16 22:54:02,1.0,1.3,1.0,68,Manhattan,East Chelsea,163,Manhattan,Midtown North,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+32,33,2024-07-16 19:54:09,2024-07-16 20:02:22,2.0,1.39,1.0,211,Manhattan,SoHo,158,Manhattan,Meatpacking/West Village West,1,10.0,2.5,0.5,3.3,0.0,19.8,2.5
+33,34,2024-07-16 16:30:28,2024-07-16 16:43:58,1.0,1.25,1.0,161,Manhattan,Midtown Center,164,Manhattan,Midtown South,1,12.8,2.5,0.5,1.0,0.0,20.3,2.5
+34,35,2024-07-16 07:24:14,2024-07-16 08:16:26,1.0,19.33,2.0,142,Manhattan,Lincoln Square East,132,Queens,JFK Airport,1,70.0,0.0,0.5,16.19,6.94,97.13,2.5
+35,36,2024-07-15 16:32:20,2024-07-15 16:38:48,1.0,1.1,1.0,163,Manhattan,Midtown North,237,Manhattan,Upper East Side South,1,7.9,2.5,0.5,2.88,0.0,17.28,2.5
+36,37,2024-07-14 16:08:48,2024-07-14 16:40:56,1.0,10.57,1.0,163,Manhattan,Midtown North,138,Queens,LaGuardia Airport,1,48.5,5.0,0.5,12.89,6.94,77.33,2.5
+37,38,2024-07-14 00:17:25,2024-07-14 00:26:31,1.0,0.92,1.0,107,Manhattan,Gramercy,90,Manhattan,Flatiron,1,9.3,1.0,0.5,2.86,0.0,17.16,2.5
+38,39,2024-07-13 21:48:51,2024-07-13 22:03:18,1.0,1.1,1.0,90,Manhattan,Flatiron,79,Manhattan,East Village,1,12.8,3.5,0.5,3.55,0.0,21.35,2.5
+39,40,2024-07-13 13:11:19,2024-07-13 13:26:10,1.0,3.03,1.0,236,Manhattan,Upper East Side North,166,Manhattan,Morningside Heights,1,17.7,0.0,0.5,0.0,0.0,21.7,2.5
+40,41,2024-07-13 11:28:32,2024-07-13 11:41:03,1.0,1.05,1.0,234,Manhattan,Union Sq,107,Manhattan,Gramercy,1,12.1,0.0,0.5,1.0,0.0,17.1,2.5
+41,42,2024-07-12 19:09:35,2024-07-12 19:14:59,1.0,0.7,1.0,237,Manhattan,Upper East Side South,237,Manhattan,Upper East Side South,1,6.5,5.0,0.5,1.5,0.0,14.5,2.5
+42,43,2024-07-12 15:03:38,2024-07-12 15:03:48,2.0,0.0,2.0,68,Manhattan,East Chelsea,68,Manhattan,East Chelsea,3,-70.0,0.0,-0.5,0.0,0.0,-74.0,-2.5
+43,44,2024-07-11 20:37:38,2024-07-11 21:02:21,1.0,4.12,1.0,114,Manhattan,Greenwich Village South,48,Manhattan,Clinton East,1,26.1,1.0,0.5,5.6,0.0,36.7,2.5
+44,45,2024-07-11 19:27:01,2024-07-11 19:38:36,1.0,1.49,1.0,90,Manhattan,Flatiron,170,Manhattan,Murray Hill,1,11.4,2.5,0.5,3.58,0.0,21.48,2.5
+45,46,2024-07-11 13:03:35,2024-07-11 13:30:21,1.0,3.75,1.0,233,Manhattan,UN/Turtle Bay South,75,Manhattan,East Harlem South,1,24.0,0.0,0.5,8.4,0.0,36.4,2.5
+46,47,2024-07-10 18:50:41,2024-07-10 18:53:57,1.0,0.6,1.0,239,Manhattan,Upper West Side South,239,Manhattan,Upper West Side South,1,5.1,5.0,0.5,2.3,0.0,13.9,2.5
+47,48,2024-07-10 18:49:05,2024-07-10 18:57:03,1.0,2.34,1.0,237,Manhattan,Upper East Side South,74,Manhattan,East Harlem North,1,11.4,2.5,0.5,3.58,0.0,21.48,2.5
+48,49,2024-07-10 16:51:45,2024-07-10 16:56:14,1.0,0.24,1.0,140,Manhattan,Lenox Hill East,140,Manhattan,Lenox Hill East,1,5.8,2.5,0.5,1.0,0.0,13.3,2.5
+49,50,2024-07-09 17:16:46,2024-07-09 17:27:08,2.0,0.52,1.0,170,Manhattan,Murray Hill,230,Manhattan,Times Sq/Theatre District,1,10.0,2.5,0.5,2.5,0.0,19.0,2.5
+50,51,2024-07-08 20:00:11,2024-07-08 20:08:00,1.0,1.48,1.0,48,Manhattan,Clinton East,249,Manhattan,West Village,2,10.0,1.0,0.5,0.0,0.0,15.0,2.5
+51,52,2024-07-08 16:34:31,2024-07-08 16:34:37,1.0,0.0,1.0,264,Unknown,,264,Unknown,,3,3.0,2.5,0.5,0.0,0.0,7.0,0.0
+52,53,2024-07-08 15:36:54,2024-07-08 15:41:27,1.0,0.72,1.0,162,Manhattan,Midtown East,141,Manhattan,Lenox Hill West,2,6.5,0.0,0.5,0.0,0.0,10.5,2.5
+53,54,2024-07-07 21:41:51,2024-07-07 22:07:09,1.0,5.28,1.0,234,Manhattan,Union Sq,151,Manhattan,Manhattan Valley,1,28.2,1.0,0.5,3.32,0.0,36.52,2.5
+54,55,2024-07-07 19:49:47,2024-07-07 20:31:12,1.0,15.5,2.0,132,Queens,JFK Airport,170,Manhattan,Murray Hill,1,70.0,4.25,0.5,16.53,6.94,99.22,2.5
+55,56,2024-07-07 12:38:27,2024-07-07 12:50:21,1.0,1.71,1.0,125,Manhattan,Hudson Sq,107,Manhattan,Gramercy,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+56,57,2024-07-06 19:52:19,2024-07-06 20:09:29,1.0,3.58,1.0,163,Manhattan,Midtown North,41,Manhattan,Central Harlem,2,20.5,0.0,0.5,0.0,0.0,24.5,2.5
+57,58,2024-07-06 16:06:00,2024-07-06 16:14:24,2.0,2.44,1.0,132,Queens,JFK Airport,219,Queens,Springfield Gardens South,2,12.8,0.0,0.5,0.0,0.0,16.05,0.0
+58,59,2024-07-06 13:43:25,2024-07-06 13:55:50,1.0,0.87,1.0,246,Manhattan,West Chelsea/Hudson Yards,48,Manhattan,Clinton East,1,12.1,0.0,0.5,2.42,0.0,18.52,2.5
+59,60,2024-07-05 19:04:48,2024-07-05 19:17:46,1.0,3.0,1.0,264,Unknown,,264,Unknown,,1,16.3,5.0,0.5,4.55,0.0,27.35,2.5
+60,61,2024-07-05 14:23:39,2024-07-05 14:32:21,5.0,1.83,1.0,43,Manhattan,Central Park,163,Manhattan,Midtown North,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+61,62,2024-07-04 22:30:02,2024-07-04 22:48:00,1.0,2.1,1.0,48,Manhattan,Clinton East,234,Manhattan,Union Sq,1,13.5,3.5,0.5,0.0,0.0,18.5,2.5
+62,63,2024-07-04 11:55:14,2024-07-04 12:02:52,3.0,2.06,1.0,231,Manhattan,TriBeCa/Civic Center,90,Manhattan,Flatiron,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+63,64,2024-07-02 19:36:51,2024-07-02 19:46:00,1.0,1.5,1.0,90,Manhattan,Flatiron,170,Manhattan,Murray Hill,1,10.7,2.5,0.5,3.44,0.0,20.64,2.5
+64,65,2024-07-02 17:50:31,2024-07-02 18:03:15,1.0,2.01,1.0,249,Manhattan,West Village,170,Manhattan,Murray Hill,1,13.5,2.5,0.5,0.0,0.0,20.0,2.5
+65,66,2024-07-01 15:55:25,2024-07-01 16:11:38,1.0,1.71,1.0,163,Manhattan,Midtown North,170,Manhattan,Murray Hill,2,-14.9,0.0,-0.5,0.0,0.0,-18.9,-2.5
+66,67,2024-06-29 18:56:49,2024-06-29 19:06:20,2.0,2.27,1.0,262,Manhattan,Yorkville East,229,Manhattan,Sutton Place/Turtle Bay North,1,12.8,0.0,0.5,3.36,0.0,20.16,2.5
+67,68,2024-06-29 16:56:43,2024-06-29 17:00:57,1.0,0.7,1.0,237,Manhattan,Upper East Side South,162,Manhattan,Midtown East,1,6.5,0.0,0.5,1.0,0.0,11.5,2.5
+68,69,2024-06-28 20:27:14,2024-06-28 20:37:56,1.0,1.9,1.0,79,Manhattan,East Village,162,Manhattan,Midtown East,2,12.1,5.0,0.5,0.0,0.0,18.6,2.5
+69,70,2024-06-28 15:15:04,2024-06-28 15:32:38,1.0,1.6,1.0,161,Manhattan,Midtown Center,186,Manhattan,Penn Station/Madison Sq West,1,15.6,2.5,0.5,3.9,0.0,23.5,2.5
+70,71,2024-06-28 12:25:43,2024-06-28 12:30:51,1.0,0.86,1.0,143,Manhattan,Lincoln Square West,143,Manhattan,Lincoln Square West,2,7.2,0.0,0.5,0.0,0.0,11.2,2.5
+71,72,2024-06-26 10:55:08,2024-06-26 11:09:34,2.0,1.96,1.0,170,Manhattan,Murray Hill,114,Manhattan,Greenwich Village South,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+72,73,2024-06-25 23:37:35,2024-06-25 23:50:28,1.0,2.51,1.0,164,Manhattan,Midtown South,148,Manhattan,Lower East Side,1,14.9,1.0,0.5,3.98,0.0,23.88,2.5
+73,74,2024-06-25 14:52:20,2024-06-25 15:00:09,2.0,0.92,1.0,68,Manhattan,East Chelsea,246,Manhattan,West Chelsea/Hudson Yards,1,8.6,0.0,0.5,2.0,0.0,14.6,2.5
+74,75,2024-06-25 09:05:59,2024-06-25 09:12:07,1.0,1.18,1.0,236,Manhattan,Upper East Side North,141,Manhattan,Lenox Hill West,1,7.9,0.0,0.5,1.25,0.0,13.15,2.5
+75,76,2024-06-25 07:24:38,2024-06-25 08:05:55,1.0,10.3,99.0,228,Brooklyn,Sunset Park West,229,Manhattan,Sutton Place/Turtle Bay North,1,36.5,0.0,0.5,0.0,6.94,44.94,0.0
+76,77,2024-06-25 00:55:19,2024-06-25 01:24:12,1.0,9.27,1.0,132,Queens,JFK Airport,56,Queens,Corona,4,-44.3,-1.0,-0.5,0.0,-6.94,-55.49,0.0
+77,78,2024-06-24 21:16:41,2024-06-24 21:29:34,1.0,2.89,1.0,79,Manhattan,East Village,229,Manhattan,Sutton Place/Turtle Bay North,1,15.6,1.0,0.5,2.0,0.0,22.6,2.5
+78,79,2024-06-24 08:39:16,2024-06-24 08:54:02,1.0,2.23,1.0,140,Manhattan,Lenox Hill East,170,Manhattan,Murray Hill,1,15.6,0.0,0.5,2.94,0.0,22.54,2.5
+79,80,2024-06-23 23:34:29,2024-06-23 23:34:40,4.0,0.02,5.0,63,Brooklyn,Cypress Hills,76,Brooklyn,East New York,1,50.0,0.0,0.0,1.0,0.0,52.0,0.0
+80,81,2024-06-23 18:38:53,2024-06-23 18:52:23,1.0,2.36,1.0,246,Manhattan,West Chelsea/Hudson Yards,231,Manhattan,TriBeCa/Civic Center,1,15.6,0.0,0.5,3.92,0.0,23.52,2.5
+81,82,2024-06-23 13:32:29,2024-06-23 13:37:46,1.0,0.8,1.0,237,Manhattan,Upper East Side South,237,Manhattan,Upper East Side South,2,6.5,2.5,0.5,0.0,0.0,10.5,2.5
+82,83,2024-06-23 11:10:35,2024-06-23 11:20:04,2.0,0.9,1.0,186,Manhattan,Penn Station/Madison Sq West,230,Manhattan,Times Sq/Theatre District,2,10.0,2.5,0.5,0.0,0.0,14.0,2.5
+83,84,2024-06-23 10:19:42,2024-06-23 11:04:10,1.0,0.0,99.0,116,Manhattan,Hamilton Heights,76,Brooklyn,East New York,1,50.5,0.0,0.5,0.0,6.94,58.94,0.0
+84,85,2024-06-22 17:41:51,2024-06-22 17:56:12,1.0,2.9,1.0,161,Manhattan,Midtown Center,262,Manhattan,Yorkville East,1,16.3,2.5,0.5,3.05,0.0,23.35,2.5
+85,86,2024-06-22 01:48:49,2024-06-22 01:58:14,1.0,1.28,1.0,113,Manhattan,Greenwich Village North,148,Manhattan,Lower East Side,1,10.7,1.0,0.5,3.14,0.0,18.84,2.5
+86,87,2024-06-21 22:30:24,2024-06-21 22:44:10,2.0,2.57,1.0,264,Unknown,,264,Unknown,,1,15.6,1.0,0.5,4.12,0.0,24.72,2.5
+87,88,2024-06-21 21:39:14,2024-06-21 21:45:52,2.0,1.1,1.0,231,Manhattan,TriBeCa/Civic Center,114,Manhattan,Greenwich Village South,1,8.6,3.5,0.5,1.0,0.0,14.6,2.5
+88,89,2024-06-21 18:57:29,2024-06-21 19:03:43,1.0,1.7,1.0,239,Manhattan,Upper West Side South,151,Manhattan,Manhattan Valley,2,9.3,5.0,0.5,0.0,0.0,15.8,2.5
+89,90,2024-06-20 15:51:40,2024-06-20 15:58:44,1.0,0.77,1.0,161,Manhattan,Midtown Center,229,Manhattan,Sutton Place/Turtle Bay North,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+90,91,2024-06-20 15:23:32,2024-06-20 15:44:50,2.0,3.73,1.0,231,Manhattan,TriBeCa/Civic Center,107,Manhattan,Gramercy,1,22.6,0.0,0.5,5.0,0.0,31.6,2.5
+91,92,2024-06-20 13:48:04,2024-06-20 13:57:22,1.0,0.89,1.0,237,Manhattan,Upper East Side South,161,Manhattan,Midtown Center,1,10.0,0.0,0.5,2.0,0.0,16.0,2.5
+92,93,2024-06-20 11:42:54,2024-06-20 11:49:46,1.0,0.55,1.0,249,Manhattan,West Village,249,Manhattan,West Village,2,7.9,0.0,0.5,0.0,0.0,11.9,2.5
+93,94,2024-06-20 08:38:34,2024-06-20 08:41:42,1.0,0.47,1.0,186,Manhattan,Penn Station/Madison Sq West,90,Manhattan,Flatiron,2,5.1,0.0,0.5,0.0,0.0,9.1,2.5
+94,95,2024-06-19 20:34:20,2024-06-19 20:55:01,2.0,8.83,1.0,138,Queens,LaGuardia Airport,164,Manhattan,Midtown South,1,35.9,6.0,0.5,10.57,6.94,65.16,2.5
+95,96,2024-06-19 14:48:13,2024-06-19 15:26:24,1.0,9.3,1.0,138,Queens,LaGuardia Airport,186,Manhattan,Penn Station/Madison Sq West,1,45.0,5.0,0.5,15.23,6.94,77.92,2.5
+96,97,2024-06-18 16:39:34,2024-06-18 16:49:07,1.0,2.26,1.0,263,Manhattan,Yorkville West,140,Manhattan,Lenox Hill East,1,12.1,2.5,0.5,3.72,0.0,22.32,2.5
+97,98,2024-06-18 16:21:24,2024-06-18 16:35:05,1.0,0.88,1.0,162,Manhattan,Midtown East,229,Manhattan,Sutton Place/Turtle Bay North,1,12.8,2.5,0.5,3.86,0.0,23.16,2.5
+98,99,2024-06-18 16:06:21,2024-06-18 16:19:01,1.0,1.36,1.0,186,Manhattan,Penn Station/Madison Sq West,163,Manhattan,Midtown North,1,12.1,2.5,0.5,4.65,0.0,23.25,2.5
+99,100,2024-06-18 15:47:01,2024-06-18 15:53:08,3.0,0.89,1.0,166,Manhattan,Morningside Heights,151,Manhattan,Manhattan Valley,1,7.9,0.0,0.5,2.82,0.0,12.22,0.0
+100,101,2024-06-18 11:57:01,2024-06-18 12:10:44,1.0,0.6,1.0,163,Manhattan,Midtown North,230,Manhattan,Times Sq/Theatre District,1,12.1,2.5,0.5,3.2,0.0,19.3,2.5
+101,102,2024-06-17 16:25:41,2024-06-17 16:44:15,2.0,2.98,1.0,141,Manhattan,Lenox Hill West,238,Manhattan,Upper West Side North,1,19.1,2.5,0.5,5.12,0.0,30.72,2.5
+102,103,2024-06-17 13:28:07,2024-06-17 13:33:09,1.0,0.49,1.0,161,Manhattan,Midtown Center,90,Manhattan,Flatiron,1,6.5,0.0,0.5,2.1,0.0,12.6,2.5
+103,104,2024-06-17 13:18:18,2024-06-17 13:27:25,1.0,1.36,1.0,142,Manhattan,Lincoln Square East,238,Manhattan,Upper West Side North,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+104,105,2024-06-17 12:07:11,2024-06-17 12:41:19,1.0,6.1,99.0,75,Manhattan,East Harlem South,4,Manhattan,Alphabet City,1,28.5,0.0,0.5,0.0,0.0,29.0,0.0
+105,106,2024-06-17 06:21:37,2024-06-17 06:26:46,1.0,1.06,1.0,107,Manhattan,Gramercy,137,Manhattan,Kips Bay,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+106,107,2024-06-16 16:33:15,2024-06-16 16:52:35,2.0,6.26,1.0,209,Manhattan,Seaport,163,Manhattan,Midtown North,1,28.2,0.0,0.5,6.44,0.0,38.64,2.5
+107,108,2024-06-16 15:28:09,2024-06-16 15:37:55,4.0,1.68,1.0,43,Manhattan,Central Park,161,Manhattan,Midtown Center,2,11.4,0.0,0.5,0.0,0.0,15.4,2.5
+108,109,2024-06-15 21:48:34,2024-06-15 21:52:33,1.0,0.67,1.0,107,Manhattan,Gramercy,79,Manhattan,East Village,2,6.5,1.0,0.5,0.0,0.0,11.5,2.5
+109,110,2024-06-15 20:18:52,2024-06-15 20:23:38,3.0,0.6,1.0,239,Manhattan,Upper West Side South,238,Manhattan,Upper West Side North,1,6.5,3.5,0.5,2.3,0.0,13.8,2.5
+110,111,2024-06-15 11:05:38,2024-06-15 11:14:49,1.0,1.4,1.0,75,Manhattan,East Harlem South,262,Manhattan,Yorkville East,1,10.0,2.5,0.5,3.5,0.0,17.5,2.5
+111,112,2024-06-14 11:12:47,2024-06-14 11:25:37,1.0,1.36,1.0,237,Manhattan,Upper East Side South,142,Manhattan,Lincoln Square East,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+112,113,2024-06-13 15:18:04,2024-06-13 15:25:16,1.0,1.26,1.0,236,Manhattan,Upper East Side North,75,Manhattan,East Harlem South,1,9.3,0.0,0.5,1.0,0.0,14.3,2.5
+113,114,2024-06-13 14:54:22,2024-06-13 15:03:11,1.0,0.5,1.0,163,Manhattan,Midtown North,163,Manhattan,Midtown North,1,7.9,2.5,0.5,2.4,0.0,14.3,2.5
+114,115,2024-06-12 22:17:34,2024-06-12 22:24:23,1.0,1.36,1.0,142,Manhattan,Lincoln Square East,238,Manhattan,Upper West Side North,2,8.6,1.0,0.5,0.0,0.0,13.6,2.5
+115,116,2024-06-12 11:33:47,2024-06-12 11:49:12,1.0,2.86,1.0,50,Manhattan,Clinton West,236,Manhattan,Upper East Side North,1,17.7,0.0,0.5,16.0,0.0,37.7,2.5
+116,117,2024-06-12 11:33:24,2024-06-12 11:51:46,2.0,1.69,1.0,142,Manhattan,Lincoln Square East,140,Manhattan,Lenox Hill East,1,17.0,0.0,0.5,6.0,0.0,27.0,2.5
+117,118,2024-06-11 09:34:17,2024-06-11 10:21:29,1.0,17.52,2.0,230,Manhattan,Times Sq/Theatre District,132,Queens,JFK Airport,1,70.0,0.0,0.5,0.0,6.94,80.94,2.5
+118,119,2024-06-10 13:08:05,2024-06-10 13:42:22,1.0,4.0,1.0,261,Manhattan,World Trade Center,230,Manhattan,Times Sq/Theatre District,1,30.3,2.5,0.5,6.85,0.0,41.15,2.5
+119,120,2024-06-10 09:13:14,2024-06-10 09:18:33,1.0,1.01,1.0,238,Manhattan,Upper West Side North,236,Manhattan,Upper East Side North,3,7.9,0.0,0.5,0.0,0.0,11.9,2.5
+120,121,2024-06-09 15:47:18,2024-06-09 15:58:09,1.0,1.74,1.0,237,Manhattan,Upper East Side South,263,Manhattan,Yorkville West,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+121,122,2024-06-09 12:51:10,2024-06-09 12:59:50,2.0,1.13,1.0,164,Manhattan,Midtown South,230,Manhattan,Times Sq/Theatre District,2,9.3,0.0,0.5,0.0,0.0,13.3,2.5
+122,123,2024-06-08 20:27:53,2024-06-08 20:41:22,1.0,1.97,1.0,239,Manhattan,Upper West Side South,262,Manhattan,Yorkville East,1,14.2,1.0,0.5,3.84,0.0,23.04,2.5
+123,124,2024-06-08 19:19:34,2024-06-08 19:24:31,1.0,0.7,1.0,170,Manhattan,Murray Hill,162,Manhattan,Midtown East,1,5.1,2.5,0.5,2.0,0.0,11.1,2.5
+124,125,2024-06-08 18:17:56,2024-06-08 18:31:31,4.0,3.41,1.0,107,Manhattan,Gramercy,146,Queens,Long Island City/Queens Plaza,4,17.0,0.0,0.5,0.0,0.0,21.0,2.5
+125,126,2024-06-08 01:10:24,2024-06-08 01:15:30,5.0,0.83,1.0,249,Manhattan,West Village,113,Manhattan,Greenwich Village North,1,7.2,1.0,0.5,2.44,0.0,14.64,2.5
+126,127,2024-06-07 17:30:11,2024-06-07 17:45:59,1.0,1.1,1.0,161,Manhattan,Midtown Center,186,Manhattan,Penn Station/Madison Sq West,1,12.8,5.0,0.5,2.0,0.0,21.3,2.5
+127,128,2024-06-07 16:04:20,2024-06-07 16:13:56,2.0,1.57,1.0,262,Manhattan,Yorkville East,237,Manhattan,Upper East Side South,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+128,129,2024-06-07 00:18:12,2024-06-07 00:52:33,1.0,16.51,1.0,132,Queens,JFK Airport,188,Brooklyn,Prospect-Lefferts Gardens,4,-64.6,-1.0,-0.5,0.0,0.0,-68.85,0.0
+129,130,2024-06-06 09:32:50,2024-06-06 09:36:32,2.0,0.62,1.0,239,Manhattan,Upper West Side South,238,Manhattan,Upper West Side North,1,5.8,0.0,0.5,1.0,0.0,10.8,2.5
+130,131,2024-06-06 05:21:29,2024-06-06 05:28:29,1.0,2.1,1.0,236,Manhattan,Upper East Side North,161,Manhattan,Midtown Center,1,11.4,3.5,0.5,2.46,0.0,18.86,2.5
+131,132,2024-06-05 09:43:52,2024-06-05 09:48:43,0.0,0.9,1.0,141,Manhattan,Lenox Hill West,141,Manhattan,Lenox Hill West,1,7.2,2.5,0.5,2.24,0.0,13.44,2.5
+132,133,2024-06-04 18:04:38,2024-06-04 18:14:58,1.0,1.22,1.0,163,Manhattan,Midtown North,142,Manhattan,Lincoln Square East,1,10.7,2.5,0.5,5.16,0.0,22.36,2.5
+133,134,2024-06-04 17:49:28,2024-06-04 18:03:11,1.0,0.9,1.0,142,Manhattan,Lincoln Square East,43,Manhattan,Central Park,1,13.5,5.0,0.5,4.0,0.0,24.0,2.5
+134,135,2024-06-04 13:56:27,2024-06-04 14:02:21,5.0,0.81,1.0,233,Manhattan,UN/Turtle Bay South,137,Manhattan,Kips Bay,2,7.2,0.0,0.5,0.0,0.0,11.2,2.5
+135,136,2024-06-04 12:34:06,2024-06-04 12:46:35,1.0,0.85,1.0,237,Manhattan,Upper East Side South,237,Manhattan,Upper East Side South,1,12.1,0.0,0.5,4.83,0.0,20.93,2.5
+136,137,2024-06-04 10:26:29,2024-06-04 10:33:20,1.0,0.66,1.0,161,Manhattan,Midtown Center,161,Manhattan,Midtown Center,1,7.9,0.0,0.5,2.0,0.0,13.9,2.5
+137,138,2024-06-03 10:38:48,2024-06-03 10:43:54,1.0,0.76,1.0,233,Manhattan,UN/Turtle Bay South,162,Manhattan,Midtown East,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+138,139,2024-06-02 22:24:17,2024-06-02 23:00:46,1.0,10.22,1.0,164,Manhattan,Midtown South,188,Brooklyn,Prospect-Lefferts Gardens,1,47.1,1.0,0.5,2.0,0.0,54.1,2.5
+139,140,2024-06-02 12:28:30,2024-06-02 14:12:03,1.0,21.54,2.0,132,Queens,JFK Airport,48,Manhattan,Clinton East,2,70.0,0.0,0.5,0.0,6.94,82.69,2.5
+140,141,2024-06-02 03:26:58,2024-06-02 03:38:38,1.0,2.19,1.0,148,Manhattan,Lower East Side,68,Manhattan,East Chelsea,1,13.5,1.0,0.5,3.7,0.0,22.2,2.5
+141,142,2024-06-01 19:45:11,2024-06-01 19:57:33,1.0,1.62,1.0,68,Manhattan,East Chelsea,234,Manhattan,Union Sq,1,12.8,0.0,0.5,2.0,0.0,18.8,2.5
+142,143,2024-06-01 14:41:33,2024-06-01 14:48:04,1.0,0.6,1.0,239,Manhattan,Upper West Side South,239,Manhattan,Upper West Side South,1,6.5,2.5,0.5,2.1,0.0,12.6,2.5
+143,144,2024-06-01 07:20:32,2024-06-01 07:27:28,1.0,2.28,1.0,142,Manhattan,Lincoln Square East,24,Manhattan,Bloomingdale,1,11.4,0.0,0.5,2.0,0.0,17.4,2.5
+144,145,2024-05-31 23:45:22,2024-06-01 00:12:00,1.0,8.42,1.0,138,Queens,LaGuardia Airport,233,Manhattan,UN/Turtle Bay South,1,38.7,6.0,0.5,11.13,6.94,68.52,2.5
+145,146,2024-05-31 20:24:07,2024-05-31 20:31:22,1.0,1.03,1.0,113,Manhattan,Greenwich Village North,186,Manhattan,Penn Station/Madison Sq West,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+146,147,2024-05-31 14:59:16,2024-05-31 15:26:34,2.0,3.8,1.0,43,Manhattan,Central Park,113,Manhattan,Greenwich Village North,1,25.4,0.0,0.5,5.88,0.0,35.28,2.5
+147,148,2024-05-31 12:28:43,2024-05-31 12:38:54,1.0,2.9,1.0,236,Manhattan,Upper East Side North,233,Manhattan,UN/Turtle Bay South,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+148,149,2024-05-31 07:45:54,2024-05-31 07:52:05,1.0,0.61,1.0,230,Manhattan,Times Sq/Theatre District,161,Manhattan,Midtown Center,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+149,150,2024-05-31 07:36:57,2024-05-31 07:48:22,2.0,2.2,1.0,43,Manhattan,Central Park,143,Manhattan,Lincoln Square West,1,13.5,2.5,0.5,0.12,0.0,17.62,2.5
+150,151,2024-05-31 02:15:31,2024-05-31 02:27:03,1.0,3.0,1.0,255,Brooklyn,Williamsburg (North Side),148,Manhattan,Lower East Side,1,15.6,1.0,0.5,4.12,0.0,24.72,2.5
+151,152,2024-05-30 18:13:49,2024-05-30 18:30:44,1.0,2.6,1.0,100,Manhattan,Garment District,79,Manhattan,East Village,1,17.0,5.0,0.5,4.7,0.0,28.2,2.5
+152,153,2024-05-30 14:13:18,2024-05-30 14:21:57,1.0,0.6,1.0,234,Manhattan,Union Sq,164,Manhattan,Midtown South,1,7.9,2.5,0.5,2.4,0.0,14.3,2.5
+153,154,2024-05-30 12:05:02,2024-05-30 12:09:00,1.0,0.4,1.0,263,Manhattan,Yorkville West,263,Manhattan,Yorkville West,2,5.8,0.0,0.5,0.0,0.0,9.8,2.5
+154,155,2024-05-30 11:51:51,2024-05-30 12:10:00,1.0,1.06,1.0,48,Manhattan,Clinton East,230,Manhattan,Times Sq/Theatre District,1,16.3,0.0,0.5,3.0,0.0,23.3,2.5
+155,156,2024-05-29 16:11:06,2024-05-29 16:29:25,1.0,0.92,1.0,68,Manhattan,East Chelsea,186,Manhattan,Penn Station/Madison Sq West,1,15.6,2.5,0.5,4.42,0.0,26.52,2.5
+156,157,2024-05-28 21:24:13,2024-05-28 21:44:50,2.0,3.4,1.0,68,Manhattan,East Chelsea,237,Manhattan,Upper East Side South,1,21.2,3.5,0.5,5.2,0.0,31.4,2.5
+157,158,2024-05-28 19:26:35,2024-05-28 19:33:01,1.0,0.99,1.0,234,Manhattan,Union Sq,170,Manhattan,Murray Hill,1,8.6,2.5,0.5,3.02,0.0,18.12,2.5
+158,159,2024-05-28 17:12:58,2024-05-28 18:17:39,1.0,16.3,3.0,148,Manhattan,Lower East Side,1,EWR,Newark Airport,1,95.8,2.5,0.0,0.0,21.5,120.8,0.0
+159,160,2024-05-27 07:19:57,2024-05-27 07:41:32,1.0,16.93,1.0,132,Queens,JFK Airport,108,Brooklyn,Gravesend,2,63.2,0.0,0.5,0.0,0.0,66.45,0.0
+160,161,2024-05-27 05:17:50,2024-05-27 05:37:55,1.0,12.14,1.0,230,Manhattan,Times Sq/Theatre District,138,Queens,LaGuardia Airport,1,47.1,6.0,0.5,12.81,6.94,76.85,2.5
+161,162,2024-05-25 17:50:43,2024-05-25 18:08:18,1.0,2.9,1.0,239,Manhattan,Upper West Side South,229,Manhattan,Sutton Place/Turtle Bay North,1,17.0,2.5,0.5,0.0,0.0,21.0,2.5
+162,163,2024-05-24 20:03:13,2024-05-24 20:15:02,1.0,1.5,1.0,144,Manhattan,Little Italy/NoLiTa,231,Manhattan,TriBeCa/Civic Center,4,12.1,3.5,0.5,0.0,0.0,17.1,2.5
+163,164,2024-05-24 17:49:59,2024-05-24 18:00:35,1.0,2.13,1.0,162,Manhattan,Midtown East,79,Manhattan,East Village,1,12.1,2.5,0.5,4.65,0.0,23.25,2.5
+164,165,2024-05-24 17:44:41,2024-05-24 17:47:40,1.0,1.05,1.0,246,Manhattan,West Chelsea/Hudson Yards,68,Manhattan,East Chelsea,1,6.5,2.5,0.5,1.0,0.0,14.0,2.5
+165,166,2024-05-24 09:59:09,2024-05-24 10:07:14,3.0,3.17,1.0,238,Manhattan,Upper West Side North,50,Manhattan,Clinton West,1,15.6,0.0,0.5,4.9,0.0,24.5,2.5
+166,167,2024-05-23 23:09:46,2024-05-23 23:09:58,1.0,0.02,2.0,161,Manhattan,Midtown Center,161,Manhattan,Midtown Center,2,70.0,0.0,0.5,0.0,0.0,74.0,2.5
+167,168,2024-05-22 22:51:47,2024-05-22 22:59:11,1.0,1.1,1.0,114,Manhattan,Greenwich Village South,231,Manhattan,TriBeCa/Civic Center,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+168,169,2024-05-22 20:48:45,2024-05-22 21:02:53,1.0,2.0,1.0,236,Manhattan,Upper East Side North,229,Manhattan,Sutton Place/Turtle Bay North,1,14.9,3.5,0.5,3.95,0.0,23.85,2.5
+169,170,2024-05-22 18:52:29,2024-05-22 19:04:58,2.0,0.8,1.0,170,Manhattan,Murray Hill,230,Manhattan,Times Sq/Theatre District,1,11.4,2.5,0.5,0.0,0.0,17.9,2.5
+170,171,2024-05-22 17:48:34,2024-05-22 18:05:57,1.0,1.7,1.0,161,Manhattan,Midtown Center,113,Manhattan,Greenwich Village North,1,14.9,5.0,0.5,1.08,0.0,22.48,2.5
+171,172,2024-05-22 13:43:38,2024-05-22 14:23:48,1.0,3.5,1.0,125,Manhattan,Hudson Sq,237,Manhattan,Upper East Side South,1,32.4,2.5,0.5,7.25,0.0,43.65,2.5
+172,173,2024-05-22 13:26:23,2024-05-22 13:32:55,1.0,0.88,1.0,170,Manhattan,Murray Hill,237,Manhattan,Upper East Side South,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+173,174,2024-05-22 07:25:28,2024-05-22 07:29:05,1.0,0.86,1.0,162,Manhattan,Midtown East,107,Manhattan,Gramercy,1,6.5,0.0,0.5,2.62,0.0,13.12,2.5
+174,175,2024-05-21 21:39:38,2024-05-21 21:47:12,0.0,1.9,1.0,142,Manhattan,Lincoln Square East,238,Manhattan,Upper West Side North,2,10.7,3.5,0.5,0.0,0.0,15.7,2.5
+175,176,2024-05-21 11:58:23,2024-05-21 12:41:02,1.0,1.81,1.0,186,Manhattan,Penn Station/Madison Sq West,233,Manhattan,UN/Turtle Bay South,1,33.1,0.0,0.5,7.42,0.0,44.52,2.5
+176,177,2024-05-20 17:55:48,2024-05-20 18:11:14,1.0,0.95,1.0,230,Manhattan,Times Sq/Theatre District,162,Manhattan,Midtown East,1,13.5,2.5,0.5,5.0,0.0,25.0,2.5
+177,178,2024-05-19 18:38:59,2024-05-19 19:12:11,1.0,3.62,1.0,68,Manhattan,East Chelsea,87,Manhattan,Financial District North,1,30.3,0.0,0.5,8.57,0.0,42.87,2.5
+178,179,2024-05-19 16:45:08,2024-05-19 17:16:09,1.0,9.19,1.0,138,Queens,LaGuardia Airport,161,Manhattan,Midtown Center,1,41.5,5.0,0.5,11.49,6.94,70.68,2.5
+179,180,2024-05-19 16:23:20,2024-05-19 16:49:48,1.0,8.8,1.0,138,Queens,LaGuardia Airport,141,Manhattan,Lenox Hill West,1,36.6,9.25,0.5,10.0,6.94,64.29,2.5
+180,181,2024-05-19 12:14:50,2024-05-19 12:29:14,1.0,1.44,1.0,90,Manhattan,Flatiron,170,Manhattan,Murray Hill,1,14.2,0.0,0.5,3.64,0.0,21.84,2.5
+181,182,2024-05-19 10:23:09,2024-05-19 10:31:12,1.0,1.11,1.0,162,Manhattan,Midtown East,162,Manhattan,Midtown East,1,9.3,0.0,0.5,2.66,0.0,15.96,2.5
+182,183,2024-05-18 11:05:11,2024-05-18 11:38:45,1.0,12.94,1.0,138,Queens,LaGuardia Airport,87,Manhattan,Financial District North,2,52.0,5.0,0.5,0.0,0.0,62.75,2.5
+183,184,2024-05-18 10:09:11,2024-05-18 10:13:46,1.0,0.6,1.0,90,Manhattan,Flatiron,234,Manhattan,Union Sq,1,6.5,2.5,0.5,1.0,0.0,11.5,2.5
+184,185,2024-05-17 22:26:44,2024-05-17 22:38:04,2.0,2.2,1.0,237,Manhattan,Upper East Side South,137,Manhattan,Kips Bay,1,13.5,3.5,0.5,2.0,0.0,20.5,2.5
+185,186,2024-05-17 21:02:12,2024-05-17 21:16:22,4.0,2.7,1.0,230,Manhattan,Times Sq/Theatre District,238,Manhattan,Upper West Side North,1,15.6,1.0,0.5,5.15,0.0,25.75,2.5
+186,187,2024-05-17 20:06:40,2024-05-17 20:12:32,4.0,0.71,1.0,48,Manhattan,Clinton East,246,Manhattan,West Chelsea/Hudson Yards,1,7.2,1.0,0.5,2.0,0.0,14.2,2.5
+187,188,2024-05-16 12:56:42,2024-05-16 13:19:08,2.0,2.54,1.0,161,Manhattan,Midtown Center,249,Manhattan,West Village,1,20.5,0.0,0.5,5.0,0.0,29.5,2.5
+188,189,2024-05-15 13:21:31,2024-05-15 13:28:10,0.0,0.8,1.0,50,Manhattan,Clinton West,230,Manhattan,Times Sq/Theatre District,2,7.9,2.5,0.5,0.0,0.0,11.9,2.5
+189,190,2024-05-15 12:25:55,2024-05-15 12:34:06,1.0,0.71,1.0,162,Manhattan,Midtown East,229,Manhattan,Sutton Place/Turtle Bay North,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+190,191,2024-05-15 09:20:28,2024-05-15 09:39:10,2.0,5.59,1.0,100,Manhattan,Garment District,88,Manhattan,Financial District South,1,26.8,0.0,0.5,6.16,0.0,36.96,2.5
+191,192,2024-05-15 01:33:34,2024-05-15 02:12:03,1.0,22.9,4.0,132,Queens,JFK Airport,265,,Outside of NYC,2,98.2,2.75,0.5,0.0,6.94,109.39,0.0
+192,193,2024-05-14 23:10:15,2024-05-14 23:48:02,1.0,6.56,1.0,142,Manhattan,Lincoln Square East,129,Queens,Jackson Heights,1,37.3,1.0,0.5,6.0,0.0,48.3,2.5
+193,194,2024-05-14 21:31:06,2024-05-14 21:41:16,2.0,1.9,1.0,48,Manhattan,Clinton East,113,Manhattan,Greenwich Village North,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+194,195,2024-05-14 19:23:13,2024-05-14 19:30:51,1.0,0.94,1.0,237,Manhattan,Upper East Side South,140,Manhattan,Lenox Hill East,1,8.6,2.5,0.5,3.02,0.0,18.12,2.5
+195,196,2024-05-14 18:35:23,2024-05-14 18:47:47,1.0,1.86,1.0,43,Manhattan,Central Park,236,Manhattan,Upper East Side North,1,14.2,2.5,0.5,4.14,0.0,24.84,2.5
+196,197,2024-05-14 10:35:27,2024-05-14 10:38:52,0.0,0.0,1.0,249,Manhattan,West Village,68,Manhattan,East Chelsea,1,5.1,2.5,0.5,1.8,0.0,10.9,2.5
+197,198,2024-05-13 15:24:08,2024-05-13 15:30:27,2.0,0.6,1.0,162,Manhattan,Midtown East,237,Manhattan,Upper East Side South,1,7.2,2.5,0.5,2.2,0.0,13.4,2.5
+198,199,2024-05-13 09:42:10,2024-05-13 09:48:09,1.0,0.3,1.0,249,Manhattan,West Village,249,Manhattan,West Village,1,6.5,2.5,0.5,2.1,0.0,12.6,2.5
+199,200,2024-05-13 07:00:21,2024-05-13 07:05:09,1.0,1.78,1.0,143,Manhattan,Lincoln Square West,246,Manhattan,West Chelsea/Hudson Yards,1,9.3,0.0,0.5,2.0,0.0,15.3,2.5
+200,201,2024-05-12 21:17:18,2024-05-12 21:26:10,2.0,0.82,1.0,161,Manhattan,Midtown Center,229,Manhattan,Sutton Place/Turtle Bay North,2,9.3,1.0,0.5,0.0,0.0,14.3,2.5
+201,202,2024-05-12 14:32:05,2024-05-12 14:44:54,1.0,2.66,1.0,229,Manhattan,Sutton Place/Turtle Bay North,79,Manhattan,East Village,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+202,203,2024-05-12 01:56:01,2024-05-12 02:08:29,1.0,2.15,1.0,163,Manhattan,Midtown North,234,Manhattan,Union Sq,1,14.2,1.0,0.5,3.84,0.0,23.04,2.5
+203,204,2024-05-10 15:24:07,2024-05-10 15:35:57,1.0,0.65,1.0,137,Manhattan,Kips Bay,170,Manhattan,Murray Hill,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+204,205,2024-05-10 00:13:36,2024-05-10 00:15:18,1.0,0.3,1.0,48,Manhattan,Clinton East,48,Manhattan,Clinton East,1,4.4,1.0,0.5,1.88,0.0,11.28,2.5
+205,206,2024-05-09 14:57:18,2024-05-09 15:08:18,1.0,1.41,1.0,170,Manhattan,Murray Hill,113,Manhattan,Greenwich Village North,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+206,207,2024-05-09 09:59:53,2024-05-09 10:08:30,1.0,1.21,1.0,234,Manhattan,Union Sq,158,Manhattan,Meatpacking/West Village West,1,9.3,0.0,0.5,2.0,0.0,15.3,2.5
+207,208,2024-05-08 18:20:18,2024-05-08 18:24:42,1.0,1.02,1.0,238,Manhattan,Upper West Side North,142,Manhattan,Lincoln Square East,1,7.2,2.5,0.5,2.74,0.0,16.44,2.5
+208,209,2024-05-08 13:45:01,2024-05-08 14:31:07,2.0,16.47,2.0,132,Queens,JFK Airport,230,Manhattan,Times Sq/Theatre District,1,70.0,0.0,0.5,16.19,6.94,98.88,2.5
+209,210,2024-05-07 20:35:38,2024-05-07 20:39:39,2.0,0.53,1.0,170,Manhattan,Murray Hill,161,Manhattan,Midtown Center,1,5.8,1.0,0.5,2.16,0.0,12.96,2.5
+210,211,2024-05-07 19:42:49,2024-05-07 20:16:14,2.0,10.1,1.0,132,Queens,JFK Airport,37,Brooklyn,Bushwick South,1,44.3,2.5,0.5,3.0,0.0,53.05,0.0
+211,212,2024-05-07 16:26:07,2024-05-07 16:31:47,1.0,0.64,1.0,237,Manhattan,Upper East Side South,237,Manhattan,Upper East Side South,1,7.2,2.5,0.5,2.74,0.0,16.44,2.5
+212,213,2024-05-07 13:01:23,2024-05-07 13:22:03,1.0,1.9,1.0,186,Manhattan,Penn Station/Madison Sq West,113,Manhattan,Greenwich Village North,1,18.4,0.0,0.5,4.48,0.0,26.88,2.5
+213,214,2024-05-07 09:44:21,2024-05-07 10:03:00,1.0,2.54,1.0,141,Manhattan,Lenox Hill West,230,Manhattan,Times Sq/Theatre District,1,18.4,0.0,0.5,4.48,0.0,26.88,2.5
+214,215,2024-05-05 16:56:39,2024-05-05 17:04:24,1.0,0.91,1.0,236,Manhattan,Upper East Side North,262,Manhattan,Yorkville East,1,8.6,0.0,0.5,1.0,0.0,13.6,2.5
+215,216,2024-05-05 12:56:08,2024-05-05 12:57:58,1.0,0.49,1.0,237,Manhattan,Upper East Side South,237,Manhattan,Upper East Side South,1,5.1,0.0,0.5,1.82,0.0,10.92,2.5
+216,217,2024-05-05 12:41:18,2024-05-05 12:46:12,2.0,0.66,1.0,141,Manhattan,Lenox Hill West,236,Manhattan,Upper East Side North,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+217,218,2024-05-04 20:01:31,2024-05-04 20:55:49,1.0,19.33,2.0,158,Manhattan,Meatpacking/West Village West,132,Queens,JFK Airport,1,70.0,0.0,0.5,18.5,0.0,92.5,2.5
+218,219,2024-05-04 13:58:06,2024-05-04 14:46:22,1.0,9.03,1.0,186,Manhattan,Penn Station/Madison Sq West,80,Brooklyn,East Williamsburg,1,51.3,0.0,0.5,13.82,0.0,69.12,2.5
+219,220,2024-05-04 12:41:27,2024-05-04 12:50:25,1.0,1.62,1.0,140,Manhattan,Lenox Hill East,236,Manhattan,Upper East Side North,1,10.7,0.0,0.5,4.0,0.0,18.7,2.5
+220,221,2024-05-04 09:21:34,2024-05-04 09:35:50,1.0,5.06,1.0,237,Manhattan,Upper East Side South,79,Manhattan,East Village,1,23.3,0.0,0.5,3.0,0.0,30.3,2.5
+221,222,2024-05-03 22:51:37,2024-05-03 23:08:41,1.0,2.47,1.0,234,Manhattan,Union Sq,87,Manhattan,Financial District North,1,16.3,1.0,0.5,3.0,0.0,24.3,2.5
+222,223,2024-05-03 17:01:56,2024-05-03 17:58:27,2.0,16.37,2.0,132,Queens,JFK Airport,234,Manhattan,Union Sq,1,70.0,5.0,0.5,17.19,6.94,104.88,2.5
+223,224,2024-05-03 15:40:01,2024-05-03 16:28:24,1.0,5.31,1.0,261,Manhattan,World Trade Center,170,Manhattan,Murray Hill,2,44.3,0.0,0.5,0.0,0.0,48.3,2.5
+224,225,2024-05-02 20:35:31,2024-05-02 20:52:02,1.0,2.3,1.0,140,Manhattan,Lenox Hill East,143,Manhattan,Lincoln Square West,1,16.3,1.0,0.5,4.69,0.0,25.99,2.5
+225,226,2024-05-02 17:55:38,2024-05-02 18:02:12,1.0,1.0,1.0,170,Manhattan,Murray Hill,234,Manhattan,Union Sq,1,7.9,5.0,0.5,2.85,0.0,17.25,2.5
+226,227,2024-05-02 17:36:28,2024-05-02 17:46:02,1.0,1.48,1.0,234,Manhattan,Union Sq,158,Manhattan,Meatpacking/West Village West,2,10.7,2.5,0.5,0.0,0.0,17.2,2.5
+227,228,2024-05-01 19:47:18,2024-05-01 20:03:47,1.0,2.26,1.0,170,Manhattan,Murray Hill,237,Manhattan,Upper East Side South,1,16.3,2.5,0.5,5.7,0.0,28.5,2.5
+228,229,2024-05-01 19:38:04,2024-05-01 20:50:34,4.0,23.07,4.0,132,Queens,JFK Airport,265,,Outside of NYC,1,117.8,2.5,0.0,28.32,20.32,171.69,0.0
+229,230,2024-05-01 19:02:05,2024-05-01 19:11:00,1.0,1.45,1.0,237,Manhattan,Upper East Side South,239,Manhattan,Upper West Side South,1,10.0,2.5,0.5,2.48,0.0,18.98,2.5
+230,231,2024-05-01 15:27:19,2024-05-01 15:44:06,1.0,1.84,1.0,236,Manhattan,Upper East Side North,142,Manhattan,Lincoln Square East,1,15.6,0.0,0.5,3.92,0.0,23.52,2.5
+231,232,2024-05-01 09:37:43,2024-05-01 10:39:10,2.0,18.34,2.0,132,Queens,JFK Airport,48,Manhattan,Clinton East,1,70.0,0.0,0.5,10.0,6.94,92.69,2.5
+232,233,2024-05-01 07:54:29,2024-05-01 08:19:53,2.0,4.6,1.0,230,Manhattan,Times Sq/Theatre District,261,Manhattan,World Trade Center,1,25.4,0.0,0.5,5.88,0.0,35.28,2.5
+233,234,2024-04-30 10:45:27,2024-04-30 11:14:34,1.0,1.97,1.0,234,Manhattan,Union Sq,231,Manhattan,TriBeCa/Civic Center,1,24.0,0.0,0.5,5.6,0.0,33.6,2.5
+234,235,2024-04-30 08:30:29,2024-04-30 08:39:17,1.0,0.8,1.0,162,Manhattan,Midtown East,230,Manhattan,Times Sq/Theatre District,1,9.3,2.5,0.5,0.0,0.0,13.3,2.5
+235,236,2024-04-29 16:53:13,2024-04-29 17:09:04,1.0,1.78,1.0,262,Manhattan,Yorkville East,239,Manhattan,Upper West Side South,2,15.6,2.5,0.5,0.0,0.0,22.1,2.5
+236,237,2024-04-29 08:57:03,2024-04-29 09:05:36,1.0,1.32,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,1,10.0,0.0,0.5,2.8,0.0,16.8,2.5
+237,238,2024-04-28 03:40:01,2024-04-28 03:47:52,2.0,1.04,1.0,164,Manhattan,Midtown South,233,Manhattan,UN/Turtle Bay South,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+238,239,2024-04-28 02:27:55,2024-04-28 02:36:47,1.0,1.85,1.0,90,Manhattan,Flatiron,231,Manhattan,TriBeCa/Civic Center,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+239,240,2024-04-27 14:55:26,2024-04-27 15:16:29,1.0,3.4,1.0,141,Manhattan,Lenox Hill West,68,Manhattan,East Chelsea,1,21.2,2.5,0.5,5.0,0.0,30.2,2.5
+240,241,2024-04-26 12:37:48,2024-04-26 12:44:43,1.0,0.52,1.0,161,Manhattan,Midtown Center,162,Manhattan,Midtown East,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+241,242,2024-04-26 06:08:05,2024-04-26 06:10:09,1.0,0.65,1.0,229,Manhattan,Sutton Place/Turtle Bay North,140,Manhattan,Lenox Hill East,1,5.1,0.0,0.5,1.82,0.0,10.92,2.5
+242,243,2024-04-25 09:06:40,2024-04-25 10:25:52,1.0,7.5,99.0,82,Queens,Elmhurst,137,Manhattan,Kips Bay,1,26.5,0.0,0.5,0.0,0.0,28.0,0.0
+243,244,2024-04-25 06:52:40,2024-04-25 07:54:10,1.0,10.0,99.0,61,Brooklyn,Crown Heights North,246,Manhattan,West Chelsea/Hudson Yards,1,29.5,0.0,0.5,0.0,0.0,31.0,0.0
+244,245,2024-04-24 19:46:57,2024-04-24 20:01:53,1.0,1.8,1.0,249,Manhattan,West Village,4,Manhattan,Alphabet City,1,14.2,2.5,0.5,3.1,0.0,23.8,2.5
+245,246,2024-04-24 18:36:46,2024-04-24 18:45:17,1.0,0.98,1.0,148,Manhattan,Lower East Side,79,Manhattan,East Village,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+246,247,2024-04-24 16:57:38,2024-04-24 17:59:29,1.0,17.83,2.0,186,Manhattan,Penn Station/Madison Sq West,132,Queens,JFK Airport,2,70.0,5.0,0.5,0.0,6.94,85.94,2.5
+247,248,2024-04-23 17:54:18,2024-04-23 18:27:20,1.0,3.0,1.0,263,Manhattan,Yorkville West,186,Manhattan,Penn Station/Madison Sq West,1,25.4,5.0,0.5,6.4,0.0,38.3,2.5
+248,249,2024-04-23 13:09:15,2024-04-23 13:31:42,1.0,2.5,1.0,100,Manhattan,Garment District,239,Manhattan,Upper West Side South,1,21.2,2.5,0.0,6.15,0.0,30.85,2.5
+249,250,2024-04-22 15:44:36,2024-04-22 16:02:24,1.0,2.1,1.0,263,Manhattan,Yorkville West,170,Manhattan,Murray Hill,1,15.6,2.5,0.5,2.0,0.0,21.6,2.5
+250,251,2024-04-22 15:25:36,2024-04-22 15:30:10,1.0,0.74,1.0,234,Manhattan,Union Sq,68,Manhattan,East Chelsea,2,6.5,0.0,0.5,0.0,0.0,10.5,2.5
+251,252,2024-04-21 05:30:15,2024-04-21 05:44:41,2.0,2.81,1.0,211,Manhattan,SoHo,246,Manhattan,West Chelsea/Hudson Yards,2,16.3,1.0,0.5,0.0,0.0,21.3,2.5
+252,253,2024-04-21 00:24:46,2024-04-21 00:34:18,1.0,1.4,1.0,79,Manhattan,East Village,234,Manhattan,Union Sq,1,10.7,3.5,0.5,0.0,0.0,15.7,2.5
+253,254,2024-04-20 19:29:18,2024-04-20 19:34:56,1.0,1.48,1.0,151,Manhattan,Manhattan Valley,239,Manhattan,Upper West Side South,2,-8.6,0.0,-0.5,0.0,0.0,-12.6,-2.5
+254,255,2024-04-19 20:15:15,2024-04-19 20:30:59,1.0,1.75,1.0,107,Manhattan,Gramercy,148,Manhattan,Lower East Side,1,14.9,1.0,0.5,3.98,0.0,23.88,2.5
+255,256,2024-04-18 22:16:46,2024-04-18 22:25:28,1.0,3.85,1.0,138,Queens,LaGuardia Airport,223,Queens,Steinway,1,16.3,6.0,0.5,7.14,0.0,32.69,0.0
+256,257,2024-04-18 17:25:32,2024-04-18 17:33:00,1.0,1.17,1.0,68,Manhattan,East Chelsea,158,Manhattan,Meatpacking/West Village West,2,-9.3,-2.5,-0.5,0.0,0.0,-15.8,-2.5
+257,258,2024-04-18 16:34:43,2024-04-18 16:59:39,1.0,7.14,1.0,138,Queens,LaGuardia Airport,255,Brooklyn,Williamsburg (North Side),1,33.1,7.5,0.5,8.42,0.0,52.27,0.0
+258,259,2024-04-18 13:36:34,2024-04-18 13:49:34,1.0,1.75,1.0,163,Manhattan,Midtown North,239,Manhattan,Upper West Side South,1,14.2,0.0,0.5,3.0,0.0,21.2,2.5
+259,260,2024-04-17 21:20:19,2024-04-17 21:30:29,1.0,3.0,1.0,79,Manhattan,East Village,87,Manhattan,Financial District North,1,14.9,1.0,0.5,4.97,0.0,24.87,2.5
+260,261,2024-04-17 10:30:54,2024-04-17 10:39:55,1.0,1.11,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,10.7,0.0,0.5,3.0,0.0,17.7,2.5
+261,262,2024-04-16 16:22:40,2024-04-16 16:41:27,1.0,1.62,1.0,107,Manhattan,Gramercy,100,Manhattan,Garment District,1,17.0,2.5,0.5,2.0,0.0,25.5,2.5
+262,263,2024-04-16 16:20:48,2024-04-16 16:36:22,1.0,1.08,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,14.2,2.5,0.5,2.0,0.0,22.7,2.5
+263,264,2024-04-16 13:40:23,2024-04-16 13:54:52,1.0,1.47,1.0,142,Manhattan,Lincoln Square East,230,Manhattan,Times Sq/Theatre District,1,13.5,0.0,0.5,4.38,0.0,21.88,2.5
+264,265,2024-04-16 12:34:43,2024-04-16 12:42:33,1.0,0.85,1.0,113,Manhattan,Greenwich Village North,144,Manhattan,Little Italy/NoLiTa,1,8.6,0.0,0.5,1.0,0.0,13.6,2.5
+265,266,2024-04-16 11:19:55,2024-04-16 11:41:33,1.0,4.45,1.0,170,Manhattan,Murray Hill,87,Manhattan,Financial District North,1,24.7,0.0,0.5,5.74,0.0,34.44,2.5
+266,267,2024-04-16 06:51:31,2024-04-16 06:58:08,1.0,1.82,1.0,236,Manhattan,Upper East Side North,162,Manhattan,Midtown East,1,10.0,0.0,0.5,2.1,0.0,16.1,2.5
+267,268,2024-04-15 22:09:22,2024-04-15 22:16:45,1.0,1.14,1.0,161,Manhattan,Midtown Center,50,Manhattan,Clinton West,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+268,269,2024-04-15 22:08:21,2024-04-15 22:21:51,1.0,3.18,1.0,237,Manhattan,Upper East Side South,249,Manhattan,West Village,1,16.3,1.0,0.5,1.7,0.0,23.0,2.5
+269,270,2024-04-15 12:43:53,2024-04-15 13:01:54,1.0,2.95,1.0,238,Manhattan,Upper West Side North,116,Manhattan,Hamilton Heights,2,19.1,0.0,0.5,0.0,0.0,23.1,2.5
+270,271,2024-04-15 11:33:46,2024-04-15 11:56:57,1.0,15.02,4.0,138,Queens,LaGuardia Airport,265,,Outside of NYC,1,66.7,5.0,0.5,14.64,0.0,89.59,0.0
+271,272,2024-04-15 11:07:37,2024-04-15 11:11:17,1.0,0.21,1.0,141,Manhattan,Lenox Hill West,141,Manhattan,Lenox Hill West,4,5.1,0.0,0.5,0.0,0.0,9.1,2.5
+272,273,2024-04-14 18:28:29,2024-04-14 18:30:21,4.0,0.49,1.0,263,Manhattan,Yorkville West,263,Manhattan,Yorkville West,1,4.4,0.0,0.5,1.68,0.0,10.08,2.5
+273,274,2024-04-14 17:56:36,2024-04-14 17:56:54,1.0,0.26,1.0,228,Brooklyn,Sunset Park West,228,Brooklyn,Sunset Park West,4,-3.7,0.0,-0.5,0.0,0.0,-5.2,0.0
+274,275,2024-04-14 14:32:14,2024-04-14 14:49:00,1.0,2.0,1.0,113,Manhattan,Greenwich Village North,186,Manhattan,Penn Station/Madison Sq West,1,13.5,2.5,0.5,3.5,0.0,21.0,2.5
+275,276,2024-04-13 19:15:24,2024-04-13 19:21:11,2.0,0.9,1.0,113,Manhattan,Greenwich Village North,114,Manhattan,Greenwich Village South,1,7.2,0.0,0.5,2.0,0.0,13.2,2.5
+276,277,2024-04-13 14:35:32,2024-04-13 14:58:55,2.0,6.3,1.0,141,Manhattan,Lenox Hill West,231,Manhattan,TriBeCa/Civic Center,1,31.7,0.0,0.5,3.5,0.0,39.2,2.5
+277,278,2024-04-13 09:40:30,2024-04-13 09:59:21,1.0,4.1,1.0,263,Manhattan,Yorkville West,186,Manhattan,Penn Station/Madison Sq West,1,21.2,2.5,0.5,5.0,0.0,30.2,2.5
+278,279,2024-04-13 01:21:09,2024-04-13 01:45:39,2.0,5.1,1.0,100,Manhattan,Garment District,256,Brooklyn,Williamsburg (South Side),1,27.5,3.5,0.5,0.0,0.0,32.5,2.5
+279,280,2024-04-12 12:22:58,2024-04-12 13:01:31,1.0,10.13,1.0,186,Manhattan,Penn Station/Madison Sq West,192,Queens,Queensboro Hill,1,46.4,0.0,0.5,14.34,6.94,71.68,2.5
+280,281,2024-04-11 10:41:37,2024-04-11 12:29:44,1.0,12.8,99.0,10,Queens,Baisley Park,33,Brooklyn,Brooklyn Heights,1,45.5,0.0,0.5,0.0,0.0,47.0,0.0
+281,282,2024-04-10 20:47:12,2024-04-10 20:50:50,1.0,0.92,1.0,236,Manhattan,Upper East Side North,263,Manhattan,Yorkville West,1,6.5,1.0,0.5,1.0,0.0,12.5,2.5
+282,283,2024-04-10 15:50:12,2024-04-10 16:05:11,1.0,4.0,1.0,138,Queens,LaGuardia Airport,95,Queens,Forest Hills,1,19.8,5.0,0.5,6.58,0.0,34.63,0.0
+283,284,2024-04-10 13:41:45,2024-04-10 13:45:45,2.0,0.57,1.0,237,Manhattan,Upper East Side South,140,Manhattan,Lenox Hill East,1,5.8,0.0,0.5,1.47,0.0,11.27,2.5
+284,285,2024-04-10 10:07:42,2024-04-10 10:23:06,1.0,2.16,1.0,141,Manhattan,Lenox Hill West,162,Manhattan,Midtown East,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+285,286,2024-04-09 21:38:42,2024-04-09 21:45:12,1.0,2.14,1.0,162,Manhattan,Midtown East,226,Queens,Sunnyside,4,10.7,1.0,0.5,0.0,0.0,15.7,2.5
+286,287,2024-04-09 12:15:43,2024-04-09 12:45:34,1.0,2.2,1.0,158,Manhattan,Meatpacking/West Village West,161,Manhattan,Midtown Center,1,25.4,2.5,0.5,5.85,0.0,35.25,2.5
+287,288,2024-04-09 12:00:59,2024-04-09 12:16:14,1.0,1.49,1.0,170,Manhattan,Murray Hill,229,Manhattan,Sutton Place/Turtle Bay North,2,14.9,0.0,0.5,0.0,0.0,18.9,2.5
+288,289,2024-04-09 10:27:32,2024-04-09 10:48:29,1.0,1.9,1.0,140,Manhattan,Lenox Hill East,162,Manhattan,Midtown East,1,17.7,2.5,0.5,2.17,0.0,23.87,2.5
+289,290,2024-04-08 20:36:21,2024-04-08 20:47:29,1.0,1.18,1.0,230,Manhattan,Times Sq/Theatre District,162,Manhattan,Midtown East,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+290,291,2024-04-07 17:18:10,2024-04-07 17:56:42,1.0,4.8,1.0,13,Manhattan,Battery Park City,163,Manhattan,Midtown North,1,31.0,2.5,0.5,3.0,0.0,38.0,2.5
+291,292,2024-04-07 13:58:13,2024-04-07 14:31:54,2.0,5.28,1.0,68,Manhattan,East Chelsea,33,Brooklyn,Brooklyn Heights,1,32.4,0.0,0.5,7.28,0.0,43.68,2.5
+292,293,2024-04-06 16:18:51,2024-04-06 16:36:01,1.0,1.72,1.0,236,Manhattan,Upper East Side North,163,Manhattan,Midtown North,1,16.3,0.0,0.5,4.06,0.0,24.36,2.5
+293,294,2024-04-06 15:04:24,2024-04-06 15:52:37,5.0,16.98,2.0,164,Manhattan,Midtown South,132,Queens,JFK Airport,1,70.0,0.0,0.5,16.19,6.94,97.13,2.5
+294,295,2024-04-05 18:37:13,2024-04-05 18:49:22,2.0,1.3,1.0,264,Unknown,,264,Unknown,,2,12.8,2.5,0.5,0.0,0.0,16.8,0.0
+295,296,2024-04-05 16:26:31,2024-04-05 16:52:22,1.0,3.52,1.0,237,Manhattan,Upper East Side South,211,Manhattan,SoHo,1,24.7,2.5,0.5,0.0,0.0,31.2,2.5
+296,297,2024-04-05 15:51:17,2024-04-05 16:33:42,2.0,6.51,1.0,246,Manhattan,West Chelsea/Hudson Yards,116,Manhattan,Hamilton Heights,1,40.1,0.0,0.5,4.0,0.0,48.1,2.5
+297,298,2024-04-04 12:01:18,2024-04-04 12:40:29,1.0,4.14,1.0,238,Manhattan,Upper West Side North,234,Manhattan,Union Sq,1,33.8,0.0,0.5,6.0,0.0,43.8,2.5
+298,299,2024-04-03 22:56:16,2024-04-03 23:13:47,1.0,4.94,1.0,79,Manhattan,East Village,65,Brooklyn,Downtown Brooklyn/MetroTech,1,24.0,1.0,0.5,1.0,0.0,30.0,2.5
+299,300,2024-04-03 16:41:12,2024-04-03 16:53:25,1.0,1.96,1.0,142,Manhattan,Lincoln Square East,151,Manhattan,Manhattan Valley,1,13.5,2.5,0.5,5.0,0.0,25.0,2.5
+300,301,2024-04-03 15:12:01,2024-04-03 16:29:31,2.0,17.77,2.0,132,Queens,JFK Airport,48,Manhattan,Clinton East,1,70.0,0.0,0.5,16.19,6.94,98.88,2.5
+301,302,2024-04-02 15:08:04,2024-04-02 15:18:01,1.0,1.2,1.0,143,Manhattan,Lincoln Square West,163,Manhattan,Midtown North,1,10.7,0.0,0.5,2.0,0.0,16.7,2.5
+302,303,2024-04-02 13:28:51,2024-04-02 13:38:22,1.0,1.08,1.0,231,Manhattan,TriBeCa/Civic Center,144,Manhattan,Little Italy/NoLiTa,1,10.0,0.0,0.5,3.5,0.0,17.5,2.5
+303,304,2024-04-02 10:33:38,2024-04-02 10:40:47,1.0,0.93,1.0,163,Manhattan,Midtown North,142,Manhattan,Lincoln Square East,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+304,305,2024-04-01 15:00:36,2024-04-01 15:19:21,1.0,1.68,1.0,140,Manhattan,Lenox Hill East,142,Manhattan,Lincoln Square East,1,17.7,0.0,0.5,2.0,0.0,23.7,2.5
+305,306,2024-04-01 12:37:33,2024-04-01 13:04:28,1.0,8.6,1.0,70,Queens,East Elmhurst,263,Manhattan,Yorkville West,1,38.7,7.5,0.5,14.7,11.19,73.59,2.5
+306,307,2024-04-01 07:38:27,2024-04-01 07:48:27,1.0,2.67,1.0,107,Manhattan,Gramercy,140,Manhattan,Lenox Hill East,1,13.5,0.0,0.5,5.25,0.0,22.75,2.5
+307,308,2024-03-31 15:33:09,2024-03-31 15:43:34,4.0,1.3,1.0,142,Manhattan,Lincoln Square East,230,Manhattan,Times Sq/Theatre District,2,10.7,0.0,0.5,0.0,0.0,14.7,2.5
+308,309,2024-03-31 15:22:17,2024-03-31 15:28:07,1.0,0.87,1.0,170,Manhattan,Murray Hill,107,Manhattan,Gramercy,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+309,310,2024-03-31 11:43:52,2024-03-31 12:01:22,1.0,2.65,1.0,142,Manhattan,Lincoln Square East,262,Manhattan,Yorkville East,1,17.7,0.0,0.5,4.34,0.0,26.04,2.5
+310,311,2024-03-30 15:52:06,2024-03-30 15:58:50,1.0,1.22,1.0,249,Manhattan,West Village,211,Manhattan,SoHo,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+311,312,2024-03-29 21:40:18,2024-03-29 22:01:57,1.0,5.3,1.0,239,Manhattan,Upper West Side South,79,Manhattan,East Village,1,26.1,3.5,0.5,6.2,0.0,37.3,2.5
+312,313,2024-03-29 16:51:33,2024-03-29 17:17:39,1.0,2.91,1.0,143,Manhattan,Lincoln Square West,137,Manhattan,Kips Bay,1,23.3,2.5,0.5,5.96,0.0,35.76,2.5
+313,314,2024-03-29 14:10:51,2024-03-29 14:28:42,1.0,3.07,1.0,239,Manhattan,Upper West Side South,186,Manhattan,Penn Station/Madison Sq West,1,18.4,0.0,0.5,4.48,0.0,26.88,2.5
+314,315,2024-03-29 11:43:16,2024-03-29 11:48:03,1.0,0.72,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,6.5,0.0,0.5,2.1,0.0,12.6,2.5
+315,316,2024-03-29 08:13:52,2024-03-29 08:51:33,2.0,16.84,2.0,132,Queens,JFK Airport,162,Manhattan,Midtown East,2,70.0,0.0,0.5,0.0,6.94,82.69,2.5
+316,317,2024-03-28 20:47:42,2024-03-28 20:59:05,2.0,3.7,1.0,88,Manhattan,Financial District South,79,Manhattan,East Village,1,17.7,3.5,0.5,4.5,0.0,27.2,2.5
+317,318,2024-03-27 20:26:56,2024-03-27 20:42:10,2.0,8.68,1.0,263,Manhattan,Yorkville West,93,Queens,Flushing Meadows-Corona Park,2,33.8,1.0,0.5,0.0,0.0,38.8,2.5
+318,319,2024-03-27 15:18:24,2024-03-27 15:31:27,1.0,1.4,1.0,107,Manhattan,Gramercy,186,Manhattan,Penn Station/Madison Sq West,2,13.5,2.5,0.5,0.0,0.0,17.5,2.5
+319,320,2024-03-26 08:31:20,2024-03-26 09:03:34,1.0,7.93,1.0,70,Queens,East Elmhurst,41,Manhattan,Central Harlem,1,37.3,5.0,0.5,0.0,6.94,52.49,0.0
+320,321,2024-03-26 00:29:57,2024-03-26 00:37:03,1.0,2.19,1.0,158,Manhattan,Meatpacking/West Village West,48,Manhattan,Clinton East,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+321,322,2024-03-25 14:27:03,2024-03-25 14:41:12,1.0,2.46,1.0,246,Manhattan,West Chelsea/Hudson Yards,142,Manhattan,Lincoln Square East,1,15.6,0.0,0.5,3.92,0.0,23.52,2.5
+322,323,2024-03-25 07:33:51,2024-03-25 07:49:54,1.0,2.69,1.0,239,Manhattan,Upper West Side South,229,Manhattan,Sutton Place/Turtle Bay North,1,17.7,0.0,0.5,5.42,0.0,27.12,2.5
+323,324,2024-03-24 12:57:41,2024-03-24 13:00:54,1.0,0.83,1.0,163,Manhattan,Midtown North,237,Manhattan,Upper East Side South,2,5.8,0.0,0.5,0.0,0.0,9.8,2.5
+324,325,2024-03-24 08:03:08,2024-03-24 08:06:29,1.0,0.56,1.0,246,Manhattan,West Chelsea/Hudson Yards,68,Manhattan,East Chelsea,1,5.1,0.0,0.5,2.0,0.0,11.1,2.5
+325,326,2024-03-23 23:59:40,2024-03-24 00:23:18,3.0,9.7,1.0,70,Queens,East Elmhurst,113,Manhattan,Greenwich Village North,1,40.1,10.25,0.5,15.0,6.94,73.79,2.5
+326,327,2024-03-23 16:58:27,2024-03-23 17:02:14,2.0,0.46,1.0,239,Manhattan,Upper West Side South,143,Manhattan,Lincoln Square West,1,5.8,0.0,0.5,1.96,0.0,11.76,2.5
+327,328,2024-03-23 16:40:47,2024-03-23 17:11:30,2.0,3.85,1.0,137,Manhattan,Kips Bay,239,Manhattan,Upper West Side South,1,27.5,0.0,0.5,2.0,0.0,33.5,2.5
+328,329,2024-03-23 16:09:48,2024-03-23 16:15:16,1.0,0.63,1.0,164,Manhattan,Midtown South,90,Manhattan,Flatiron,1,6.5,0.0,0.5,2.1,0.0,12.6,2.5
+329,330,2024-03-23 12:25:27,2024-03-23 12:55:53,4.0,3.51,1.0,231,Manhattan,TriBeCa/Civic Center,230,Manhattan,Times Sq/Theatre District,1,26.8,0.0,0.5,6.16,0.0,36.96,2.5
+330,331,2024-03-23 07:23:30,2024-03-23 08:07:08,1.0,20.56,1.0,132,Queens,JFK Airport,189,Brooklyn,Prospect Heights,1,77.9,0.0,0.5,15.88,0.0,97.03,0.0
+331,332,2024-03-22 20:10:44,2024-03-22 20:42:57,1.0,10.21,1.0,138,Queens,LaGuardia Airport,225,Brooklyn,Stuyvesant Heights,1,45.7,6.0,0.5,13.74,0.0,68.69,0.0
+332,333,2024-03-22 19:10:46,2024-03-22 19:16:36,1.0,1.45,1.0,246,Manhattan,West Chelsea/Hudson Yards,48,Manhattan,Clinton East,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+333,334,2024-03-22 13:10:23,2024-03-22 13:20:30,1.0,1.23,1.0,48,Manhattan,Clinton East,143,Manhattan,Lincoln Square West,1,10.7,0.0,0.5,1.0,0.0,15.7,2.5
+334,335,2024-03-21 23:12:04,2024-03-21 23:21:35,1.0,4.92,1.0,132,Queens,JFK Airport,203,Queens,Rosedale,1,20.5,1.0,0.5,0.0,0.0,24.75,0.0
+335,336,2024-03-21 18:28:48,2024-03-21 18:41:27,0.0,0.6,1.0,186,Manhattan,Penn Station/Madison Sq West,230,Manhattan,Times Sq/Theatre District,1,12.1,5.0,0.5,2.0,0.0,20.6,2.5
+336,337,2024-03-21 06:49:58,2024-03-21 06:52:02,1.0,0.73,1.0,107,Manhattan,Gramercy,137,Manhattan,Kips Bay,1,5.1,0.0,0.5,1.82,0.0,10.92,2.5
+337,338,2024-03-20 23:12:03,2024-03-20 23:24:13,2.0,3.17,1.0,142,Manhattan,Lincoln Square East,41,Manhattan,Central Harlem,1,15.6,1.0,0.5,4.12,0.0,24.72,2.5
+338,339,2024-03-20 14:00:05,2024-03-20 14:07:29,2.0,1.08,1.0,142,Manhattan,Lincoln Square East,161,Manhattan,Midtown Center,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+339,340,2024-03-20 13:38:53,2024-03-20 13:48:35,1.0,1.1,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,1,10.7,0.0,0.5,2.65,0.0,17.35,2.5
+340,341,2024-03-19 18:05:37,2024-03-19 18:29:13,1.0,2.25,1.0,233,Manhattan,UN/Turtle Bay South,48,Manhattan,Clinton East,1,20.5,2.5,0.5,4.05,0.0,31.05,2.5
+341,342,2024-03-19 16:32:34,2024-03-19 16:41:36,1.0,1.12,1.0,142,Manhattan,Lincoln Square East,238,Manhattan,Upper West Side North,2,10.0,2.5,0.5,0.0,0.0,16.5,2.5
+342,343,2024-03-19 00:47:11,2024-03-19 00:56:15,3.0,1.2,1.0,231,Manhattan,TriBeCa/Civic Center,114,Manhattan,Greenwich Village South,1,9.3,3.5,0.5,2.85,0.0,17.15,2.5
+343,344,2024-03-18 08:49:30,2024-03-18 09:02:10,1.0,1.9,1.0,143,Manhattan,Lincoln Square West,140,Manhattan,Lenox Hill East,1,12.1,2.5,0.5,3.22,0.0,19.32,2.5
+344,345,2024-03-16 16:36:29,2024-03-16 16:45:01,0.0,0.0,1.0,230,Manhattan,Times Sq/Theatre District,264,Unknown,,2,8.6,2.5,0.5,0.0,0.0,12.6,2.5
+345,346,2024-03-16 16:33:44,2024-03-16 16:41:51,2.0,0.9,1.0,141,Manhattan,Lenox Hill West,141,Manhattan,Lenox Hill West,1,9.3,2.5,0.5,2.65,0.0,15.95,2.5
+346,347,2024-03-15 20:45:10,2024-03-15 21:25:57,1.0,10.43,1.0,162,Manhattan,Midtown East,188,Brooklyn,Prospect-Lefferts Gardens,1,49.2,1.0,0.5,10.84,0.0,65.04,2.5
+347,348,2024-03-15 19:27:58,2024-03-15 19:50:24,2.0,4.03,1.0,141,Manhattan,Lenox Hill West,114,Manhattan,Greenwich Village South,1,21.9,2.5,0.5,5.68,0.0,34.08,2.5
+348,349,2024-03-15 19:22:14,2024-03-15 19:29:10,3.0,1.35,1.0,246,Manhattan,West Chelsea/Hudson Yards,48,Manhattan,Clinton East,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+349,350,2024-03-14 18:56:18,2024-03-14 19:34:21,1.0,14.79,1.0,148,Manhattan,Lower East Side,250,Bronx,Westchester Village/Unionport,4,-57.6,-2.5,-0.5,0.0,-6.94,-71.04,-2.5
+350,351,2024-03-14 17:41:23,2024-03-14 17:44:45,1.0,0.6,1.0,262,Manhattan,Yorkville East,140,Manhattan,Lenox Hill East,2,5.8,5.0,0.5,0.0,0.0,12.3,2.5
+351,352,2024-03-13 20:18:30,2024-03-13 20:18:35,1.0,0.0,1.0,193,Queens,Queensbridge/Ravenswood,193,Queens,Queensbridge/Ravenswood,3,-3.0,-1.0,-0.5,0.0,0.0,-5.5,0.0
+352,353,2024-03-13 18:53:05,2024-03-13 19:25:40,1.0,3.29,1.0,113,Manhattan,Greenwich Village North,141,Manhattan,Lenox Hill West,1,28.2,2.5,0.5,2.0,0.0,36.7,2.5
+353,354,2024-03-13 16:43:53,2024-03-13 16:52:26,1.0,0.8,1.0,107,Manhattan,Gramercy,100,Manhattan,Garment District,2,8.6,5.0,0.5,0.0,0.0,15.1,2.5
+354,355,2024-03-13 14:06:12,2024-03-13 14:12:01,1.0,0.3,1.0,229,Manhattan,Sutton Place/Turtle Bay North,141,Manhattan,Lenox Hill West,1,5.8,2.5,0.5,2.0,0.0,11.8,2.5
+355,356,2024-03-12 22:23:44,2024-03-12 22:51:46,1.0,11.14,1.0,138,Queens,LaGuardia Airport,40,Brooklyn,Carroll Gardens,1,45.7,6.0,0.5,8.0,0.0,62.95,0.0
+356,357,2024-03-12 20:26:16,2024-03-12 20:31:25,1.0,0.87,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,1,7.9,1.0,0.5,1.29,0.0,14.19,2.5
+357,358,2024-03-12 17:43:27,2024-03-12 18:01:48,1.0,1.4,1.0,142,Manhattan,Lincoln Square East,162,Manhattan,Midtown East,1,16.3,2.5,0.5,4.56,0.0,27.36,2.5
+358,359,2024-03-12 10:35:39,2024-03-12 10:53:49,5.0,0.68,1.0,162,Manhattan,Midtown East,141,Manhattan,Lenox Hill West,2,15.6,0.0,0.5,0.0,0.0,19.6,2.5
+359,360,2024-03-12 10:15:39,2024-03-12 10:23:01,1.0,1.0,1.0,90,Manhattan,Flatiron,246,Manhattan,West Chelsea/Hudson Yards,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+360,361,2024-03-12 08:14:15,2024-03-12 08:24:20,3.0,1.3,1.0,229,Manhattan,Sutton Place/Turtle Bay North,141,Manhattan,Lenox Hill West,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+361,362,2024-03-11 15:46:17,2024-03-11 15:56:16,1.0,1.43,1.0,170,Manhattan,Murray Hill,90,Manhattan,Flatiron,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+362,363,2024-03-11 13:38:11,2024-03-11 13:53:59,5.0,1.17,1.0,45,Manhattan,Chinatown,148,Manhattan,Lower East Side,1,14.2,0.0,0.5,3.64,0.0,21.84,2.5
+363,364,2024-03-10 21:40:54,2024-03-10 21:48:52,1.0,1.3,1.0,170,Manhattan,Murray Hill,246,Manhattan,West Chelsea/Hudson Yards,1,9.3,3.5,0.5,2.0,0.0,16.3,2.5
+364,365,2024-03-10 10:21:00,2024-03-10 10:29:35,1.0,1.19,1.0,13,Manhattan,Battery Park City,231,Manhattan,TriBeCa/Civic Center,1,10.0,0.0,0.5,2.8,0.0,16.8,2.5
+365,366,2024-03-09 14:39:49,2024-03-09 14:54:47,1.0,1.28,1.0,48,Manhattan,Clinton East,162,Manhattan,Midtown East,1,14.2,0.0,0.5,1.0,0.0,19.2,2.5
+366,367,2024-03-08 01:23:03,2024-03-08 01:33:01,1.0,3.01,1.0,186,Manhattan,Penn Station/Madison Sq West,87,Manhattan,Financial District North,2,14.9,1.0,0.5,0.0,0.0,19.9,2.5
+367,368,2024-03-07 20:37:27,2024-03-07 20:52:50,1.0,3.04,1.0,162,Manhattan,Midtown East,146,Queens,Long Island City/Queens Plaza,1,14.9,1.0,0.5,3.98,0.0,23.88,2.5
+368,369,2024-03-06 12:49:14,2024-03-06 12:56:30,1.0,1.19,1.0,238,Manhattan,Upper West Side North,236,Manhattan,Upper East Side North,1,9.3,0.0,0.5,2.66,0.0,15.96,2.5
+369,370,2024-03-05 22:14:50,2024-03-05 22:17:57,2.0,0.85,1.0,163,Manhattan,Midtown North,142,Manhattan,Lincoln Square East,1,6.5,1.0,0.5,2.3,0.0,13.8,2.5
+370,371,2024-03-05 18:26:00,2024-03-05 18:30:01,1.0,2.0,5.0,132,Queens,JFK Airport,132,Queens,JFK Airport,1,87.0,0.0,0.0,17.6,0.0,105.6,0.0
+371,372,2024-03-05 17:20:01,2024-03-05 17:41:13,1.0,3.4,1.0,263,Manhattan,Yorkville West,170,Manhattan,Murray Hill,4,-20.5,-2.5,-0.5,0.0,0.0,-27.0,-2.5
+372,373,2024-03-05 15:13:50,2024-03-05 15:16:28,1.0,0.12,1.0,186,Manhattan,Penn Station/Madison Sq West,68,Manhattan,East Chelsea,1,4.4,0.0,0.5,0.0,0.0,8.4,2.5
+373,374,2024-03-05 08:54:11,2024-03-05 09:04:45,1.0,0.8,1.0,161,Manhattan,Midtown Center,164,Manhattan,Midtown South,1,9.3,2.5,0.5,1.5,0.0,14.8,2.5
+374,375,2024-03-05 08:41:17,2024-03-05 08:47:30,1.0,0.7,1.0,114,Manhattan,Greenwich Village South,113,Manhattan,Greenwich Village North,1,7.2,2.5,0.5,2.2,0.0,13.4,2.5
+375,376,2024-03-04 23:58:50,2024-03-05 00:02:45,5.0,0.96,1.0,142,Manhattan,Lincoln Square East,230,Manhattan,Times Sq/Theatre District,1,6.5,1.0,0.5,3.45,0.0,14.95,2.5
+376,377,2024-03-04 19:44:27,2024-03-04 20:04:12,1.0,2.95,1.0,146,Queens,Long Island City/Queens Plaza,230,Manhattan,Times Sq/Theatre District,1,20.5,2.5,0.5,5.4,0.0,32.4,2.5
+377,378,2024-03-03 22:05:00,2024-03-03 22:10:39,0.0,1.4,1.0,263,Manhattan,Yorkville West,141,Manhattan,Lenox Hill West,1,8.6,3.5,0.5,2.7,0.0,16.3,2.5
+378,379,2024-03-03 19:04:35,2024-03-03 19:17:59,1.0,2.46,1.0,79,Manhattan,East Village,229,Manhattan,Sutton Place/Turtle Bay North,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+379,380,2024-03-03 14:22:59,2024-03-03 14:32:55,1.0,1.32,1.0,237,Manhattan,Upper East Side South,142,Manhattan,Lincoln Square East,1,11.4,0.0,0.5,3.85,0.0,19.25,2.5
+380,381,2024-03-03 11:19:01,2024-03-03 11:29:22,3.0,2.2,1.0,230,Manhattan,Times Sq/Theatre District,264,Unknown,,1,12.8,2.5,0.5,3.36,0.0,20.16,2.5
+381,382,2024-03-03 01:34:51,2024-03-03 01:39:47,1.0,0.54,1.0,114,Manhattan,Greenwich Village South,114,Manhattan,Greenwich Village South,1,6.5,1.0,0.5,2.3,0.0,13.8,2.5
+382,383,2024-03-02 15:47:13,2024-03-02 16:02:33,1.0,1.35,1.0,229,Manhattan,Sutton Place/Turtle Bay North,237,Manhattan,Upper East Side South,1,14.2,0.0,0.5,3.64,0.0,21.84,2.5
+383,384,2024-03-01 23:51:58,2024-03-01 23:56:41,1.0,0.6,1.0,90,Manhattan,Flatiron,158,Manhattan,Meatpacking/West Village West,1,6.5,3.5,0.5,2.3,0.0,13.8,2.5
+384,385,2024-03-01 12:06:06,2024-03-01 12:12:48,1.0,0.95,1.0,163,Manhattan,Midtown North,237,Manhattan,Upper East Side South,1,8.6,0.0,0.5,1.0,0.0,13.6,2.5
+385,386,2024-02-29 17:34:32,2024-02-29 17:41:01,1.0,0.95,1.0,233,Manhattan,UN/Turtle Bay South,170,Manhattan,Murray Hill,1,7.9,2.5,0.5,1.0,0.0,15.4,2.5
+386,387,2024-02-29 17:33:16,2024-02-29 17:52:01,1.0,2.19,1.0,234,Manhattan,Union Sq,237,Manhattan,Upper East Side South,1,17.7,2.5,0.5,3.63,0.0,27.83,2.5
+387,388,2024-02-29 12:32:43,2024-02-29 12:40:26,2.0,0.48,1.0,230,Manhattan,Times Sq/Theatre District,100,Manhattan,Garment District,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+388,389,2024-02-28 14:15:19,2024-02-28 14:23:05,1.0,0.5,1.0,234,Manhattan,Union Sq,234,Manhattan,Union Sq,2,7.9,2.5,0.5,0.0,0.0,11.9,2.5
+389,390,2024-02-26 20:53:40,2024-02-26 20:59:03,1.0,0.1,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,6.5,3.5,0.5,1.15,0.0,12.65,2.5
+390,391,2024-02-25 16:38:08,2024-02-25 16:47:39,3.0,1.51,1.0,230,Manhattan,Times Sq/Theatre District,239,Manhattan,Upper West Side South,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+391,392,2024-02-24 17:46:45,2024-02-24 18:09:36,2.0,7.6,1.0,236,Manhattan,Upper East Side North,87,Manhattan,Financial District North,1,31.7,0.0,0.5,3.0,0.0,38.7,2.5
+392,393,2024-02-23 16:42:22,2024-02-23 17:36:49,1.0,20.1,2.0,236,Manhattan,Upper East Side North,132,Queens,JFK Airport,1,70.0,7.5,0.5,17.15,6.94,103.09,2.5
+393,394,2024-02-22 23:35:29,2024-02-22 23:44:10,1.0,1.92,1.0,143,Manhattan,Lincoln Square West,100,Manhattan,Garment District,1,11.4,1.0,0.5,4.92,0.0,21.32,2.5
+394,395,2024-02-22 21:37:19,2024-02-22 21:55:40,1.0,3.53,1.0,161,Manhattan,Midtown Center,238,Manhattan,Upper West Side North,1,21.2,1.0,0.5,3.93,0.0,30.13,2.5
+395,396,2024-02-21 22:34:23,2024-02-21 22:49:36,1.0,2.8,1.0,249,Manhattan,West Village,50,Manhattan,Clinton West,1,15.6,3.5,0.5,4.1,0.0,24.7,2.5
+396,397,2024-02-21 21:01:10,2024-02-21 21:06:47,0.0,0.8,1.0,234,Manhattan,Union Sq,107,Manhattan,Gramercy,1,7.2,3.5,0.5,2.4,0.0,14.6,2.5
+397,398,2024-02-21 09:15:23,2024-02-21 10:05:09,1.0,9.4,99.0,42,Manhattan,Central Harlem North,144,Manhattan,Little Italy/NoLiTa,1,35.5,0.0,0.5,0.0,0.0,37.0,0.0
+398,399,2024-02-20 19:57:32,2024-02-20 20:05:27,1.0,1.43,1.0,48,Manhattan,Clinton East,90,Manhattan,Flatiron,1,9.3,1.0,0.5,2.86,0.0,17.16,2.5
+399,400,2024-02-20 18:17:07,2024-02-20 18:33:46,1.0,1.4,1.0,229,Manhattan,Sutton Place/Turtle Bay North,264,Unknown,,1,14.9,5.0,0.5,20.0,0.0,41.4,2.5
+400,401,2024-02-20 14:47:44,2024-02-20 15:27:49,1.0,4.62,1.0,234,Manhattan,Union Sq,239,Manhattan,Upper West Side South,1,35.9,0.0,0.5,9.97,0.0,49.87,2.5
+401,402,2024-02-20 12:07:11,2024-02-20 12:27:31,1.0,7.89,1.0,132,Queens,JFK Airport,76,Brooklyn,East New York,1,31.7,0.0,0.5,6.99,0.0,41.94,0.0
+402,403,2024-02-19 20:20:03,2024-02-19 20:39:36,1.0,3.33,1.0,170,Manhattan,Murray Hill,143,Manhattan,Lincoln Square West,1,20.5,1.0,0.5,5.1,0.0,30.6,2.5
+403,404,2024-02-18 16:40:48,2024-02-18 16:47:37,2.0,0.93,1.0,161,Manhattan,Midtown Center,142,Manhattan,Lincoln Square East,1,8.6,0.0,0.5,1.0,0.0,13.6,2.5
+404,405,2024-02-18 16:05:09,2024-02-18 16:10:30,1.0,0.7,1.0,162,Manhattan,Midtown East,229,Manhattan,Sutton Place/Turtle Bay North,1,6.5,2.5,0.5,2.1,0.0,12.6,2.5
+405,406,2024-02-18 15:54:20,2024-02-18 15:58:47,1.0,0.5,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,2,5.8,2.5,0.5,0.0,0.0,9.8,2.5
+406,407,2024-02-18 15:46:42,2024-02-18 15:56:26,1.0,1.56,1.0,236,Manhattan,Upper East Side North,161,Manhattan,Midtown Center,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+407,408,2024-02-18 01:59:58,2024-02-18 02:29:10,1.0,6.9,1.0,249,Manhattan,West Village,7,Queens,Astoria,2,33.8,1.0,0.5,0.0,0.0,38.8,2.5
+408,409,2024-02-18 01:22:31,2024-02-18 01:43:22,2.0,5.01,1.0,249,Manhattan,West Village,262,Manhattan,Yorkville East,1,24.0,1.0,0.5,5.8,0.0,34.8,2.5
+409,410,2024-02-17 23:34:03,2024-02-17 23:41:01,2.0,1.01,1.0,186,Manhattan,Penn Station/Madison Sq West,246,Manhattan,West Chelsea/Hudson Yards,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+410,411,2024-02-17 15:02:44,2024-02-17 15:20:49,1.0,2.36,1.0,164,Manhattan,Midtown South,50,Manhattan,Clinton West,1,18.4,0.0,0.5,4.48,0.0,26.88,2.5
+411,412,2024-02-17 10:00:32,2024-02-17 10:19:25,2.0,2.37,1.0,50,Manhattan,Clinton West,237,Manhattan,Upper East Side South,1,17.7,0.0,0.5,1.08,0.0,22.78,2.5
+412,413,2024-02-17 01:42:57,2024-02-17 01:45:25,2.0,0.84,1.0,90,Manhattan,Flatiron,246,Manhattan,West Chelsea/Hudson Yards,1,5.8,1.0,0.5,2.0,0.0,12.8,2.5
+413,414,2024-02-15 21:46:53,2024-02-15 22:12:45,2.0,7.67,1.0,113,Manhattan,Greenwich Village North,166,Manhattan,Morningside Heights,1,35.9,1.0,0.5,6.14,0.0,47.04,2.5
+414,415,2024-02-15 17:54:34,2024-02-15 18:23:04,1.0,6.46,1.0,162,Manhattan,Midtown East,25,Brooklyn,Boerum Hill,1,31.0,2.5,0.5,7.5,0.0,45.0,2.5
+415,416,2024-02-15 11:11:19,2024-02-15 11:15:33,1.0,0.74,1.0,234,Manhattan,Union Sq,186,Manhattan,Penn Station/Madison Sq West,1,5.8,0.0,0.5,2.94,0.0,12.74,2.5
+416,417,2024-02-15 09:50:50,2024-02-15 10:03:48,1.0,1.44,1.0,161,Manhattan,Midtown Center,186,Manhattan,Penn Station/Madison Sq West,1,12.8,0.0,0.5,2.0,0.0,18.8,2.5
+417,418,2024-02-15 09:26:42,2024-02-15 09:40:16,1.0,3.6,1.0,140,Manhattan,Lenox Hill East,164,Manhattan,Midtown South,1,19.1,2.5,0.5,2.31,0.0,25.41,2.5
+418,419,2024-02-15 07:43:40,2024-02-15 07:51:56,1.0,1.53,1.0,234,Manhattan,Union Sq,233,Manhattan,UN/Turtle Bay South,1,10.0,0.0,0.5,1.0,0.0,15.0,2.5
+419,420,2024-02-14 22:59:13,2024-02-14 23:05:09,1.0,0.71,1.0,48,Manhattan,Clinton East,48,Manhattan,Clinton East,1,7.2,1.0,0.5,1.22,0.0,13.42,2.5
+420,421,2024-02-14 16:19:42,2024-02-14 16:22:03,1.0,0.41,1.0,239,Manhattan,Upper West Side South,143,Manhattan,Lincoln Square West,2,5.1,2.5,0.5,0.0,0.0,11.6,2.5
+421,422,2024-02-13 23:32:23,2024-02-13 23:35:46,1.0,0.5,1.0,230,Manhattan,Times Sq/Theatre District,230,Manhattan,Times Sq/Theatre District,1,5.8,1.0,0.5,3.24,0.0,14.04,2.5
+422,423,2024-02-13 17:15:15,2024-02-13 17:21:20,3.0,0.87,1.0,163,Manhattan,Midtown North,43,Manhattan,Central Park,2,7.9,2.5,0.5,0.0,0.0,14.4,2.5
+423,424,2024-02-12 20:37:07,2024-02-12 21:08:17,2.0,18.81,2.0,132,Queens,JFK Airport,231,Manhattan,TriBeCa/Civic Center,1,70.0,0.0,0.5,7.58,0.0,83.33,2.5
+424,425,2024-02-12 19:42:44,2024-02-12 19:52:16,1.0,1.49,1.0,125,Manhattan,Hudson Sq,232,Manhattan,Two Bridges/Seward Park,1,11.4,2.5,0.5,2.68,0.0,20.58,2.5
+425,426,2024-02-12 16:04:34,2024-02-12 16:25:28,2.0,2.25,1.0,113,Manhattan,Greenwich Village North,163,Manhattan,Midtown North,2,18.4,0.0,0.5,0.0,0.0,22.4,2.5
+426,427,2024-02-12 13:09:08,2024-02-12 13:19:17,2.0,4.31,1.0,239,Manhattan,Upper West Side South,50,Manhattan,Clinton West,1,19.1,0.0,0.5,4.62,0.0,27.72,2.5
+427,428,2024-02-12 12:45:28,2024-02-12 12:50:24,1.0,0.63,1.0,141,Manhattan,Lenox Hill West,263,Manhattan,Yorkville West,1,6.5,0.0,0.5,2.1,0.0,12.6,2.5
+428,429,2024-02-11 07:11:32,2024-02-11 07:32:20,1.0,16.66,1.0,50,Manhattan,Clinton West,138,Queens,LaGuardia Airport,1,61.8,0.0,0.5,18.18,6.94,90.92,2.5
+429,430,2024-02-11 02:42:01,2024-02-11 02:53:35,1.0,2.64,1.0,79,Manhattan,East Village,237,Manhattan,Upper East Side South,1,14.2,1.0,0.5,3.84,0.0,23.04,2.5
+430,431,2024-02-10 19:20:46,2024-02-10 19:49:15,1.0,4.6,1.0,113,Manhattan,Greenwich Village North,142,Manhattan,Lincoln Square East,1,24.0,2.5,0.5,8.4,0.0,36.4,2.5
+431,432,2024-02-10 18:20:47,2024-02-10 18:34:58,1.0,1.62,1.0,161,Manhattan,Midtown Center,234,Manhattan,Union Sq,1,13.5,0.0,0.5,3.5,0.0,21.0,2.5
+432,433,2024-02-09 15:40:58,2024-02-09 15:58:37,1.0,2.14,1.0,161,Manhattan,Midtown Center,239,Manhattan,Upper West Side South,1,16.3,0.0,0.5,4.06,0.0,24.36,2.5
+433,434,2024-02-07 15:43:00,2024-02-07 16:10:10,1.0,4.33,1.0,161,Manhattan,Midtown Center,232,Manhattan,Two Bridges/Seward Park,1,27.5,0.0,0.5,4.0,0.0,35.5,2.5
+434,435,2024-02-06 12:01:16,2024-02-06 12:05:12,1.0,0.68,1.0,113,Manhattan,Greenwich Village North,90,Manhattan,Flatiron,1,5.8,0.0,0.5,1.96,0.0,11.76,2.5
+435,436,2024-02-06 05:35:23,2024-02-06 05:56:43,1.0,0.0,1.0,216,Queens,South Ozone Park,250,Bronx,Westchester Village/Unionport,1,37.5,0.0,0.5,0.0,6.94,45.94,0.0
+436,437,2024-02-05 18:05:31,2024-02-05 18:27:19,2.0,5.17,1.0,162,Manhattan,Midtown East,45,Manhattan,Chinatown,1,26.1,2.5,0.5,6.52,0.0,39.12,2.5
+437,438,2024-02-05 11:46:45,2024-02-05 11:54:28,1.0,0.87,1.0,162,Manhattan,Midtown East,100,Manhattan,Garment District,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+438,439,2024-02-04 17:51:39,2024-02-04 18:12:42,1.0,2.8,1.0,230,Manhattan,Times Sq/Theatre District,264,Unknown,,1,19.8,2.5,0.5,2.0,0.0,25.8,2.5
+439,440,2024-02-04 17:10:49,2024-02-04 17:15:41,1.0,0.54,1.0,231,Manhattan,TriBeCa/Civic Center,87,Manhattan,Financial District North,1,5.8,0.0,0.5,1.96,0.0,11.76,2.5
+440,441,2024-02-04 14:09:28,2024-02-04 14:15:06,1.0,1.18,1.0,164,Manhattan,Midtown South,161,Manhattan,Midtown Center,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+441,442,2024-02-04 12:46:02,2024-02-04 12:53:17,1.0,1.16,1.0,125,Manhattan,Hudson Sq,113,Manhattan,Greenwich Village North,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+442,443,2024-02-04 00:48:15,2024-02-04 01:08:19,2.0,4.2,1.0,114,Manhattan,Greenwich Village South,143,Manhattan,Lincoln Square West,1,22.6,3.5,0.5,3.0,0.0,30.6,2.5
+443,444,2024-02-03 23:03:42,2024-02-03 23:13:47,1.0,1.14,1.0,164,Manhattan,Midtown South,107,Manhattan,Gramercy,1,10.7,1.0,0.5,3.14,0.0,18.84,2.5
+444,445,2024-02-03 16:08:51,2024-02-03 16:36:55,2.0,9.65,1.0,138,Queens,LaGuardia Airport,239,Manhattan,Upper West Side South,1,40.1,5.0,0.5,14.45,6.94,72.24,2.5
+445,446,2024-02-02 09:15:34,2024-02-02 09:22:42,1.0,1.94,1.0,107,Manhattan,Gramercy,229,Manhattan,Sutton Place/Turtle Bay North,1,10.0,0.0,0.5,0.0,0.0,14.0,2.5
+446,447,2024-02-02 08:07:24,2024-02-02 08:22:07,1.0,2.01,1.0,107,Manhattan,Gramercy,68,Manhattan,East Chelsea,1,14.9,0.0,0.5,1.32,0.0,20.22,2.5
+447,448,2024-02-01 23:53:00,2024-02-01 23:58:23,1.0,1.29,1.0,162,Manhattan,Midtown East,107,Manhattan,Gramercy,1,7.9,1.0,0.5,1.29,0.0,14.19,2.5
+448,449,2024-02-01 23:45:05,2024-02-02 00:11:06,1.0,5.13,1.0,231,Manhattan,TriBeCa/Civic Center,143,Manhattan,Lincoln Square West,1,28.2,1.0,0.5,8.3,0.0,41.5,2.5
+449,450,2024-02-01 23:35:14,2024-02-01 23:49:52,1.0,3.41,1.0,68,Manhattan,East Chelsea,261,Manhattan,World Trade Center,1,17.7,1.0,0.5,30.0,0.0,52.7,2.5
+450,451,2024-02-01 21:45:04,2024-02-01 22:03:29,4.0,2.37,1.0,163,Manhattan,Midtown North,141,Manhattan,Lenox Hill West,1,17.7,1.0,0.5,5.67,0.0,28.37,2.5
+451,452,2024-01-31 22:00:04,2024-01-31 22:11:27,0.0,1.2,1.0,158,Manhattan,Meatpacking/West Village West,113,Manhattan,Greenwich Village North,1,10.7,3.5,0.5,3.1,0.0,18.8,2.5
+452,453,2024-01-31 15:19:43,2024-01-31 15:34:53,1.0,2.14,1.0,68,Manhattan,East Chelsea,107,Manhattan,Gramercy,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+453,454,2024-01-31 12:19:54,2024-01-31 12:38:18,1.0,0.93,1.0,162,Manhattan,Midtown East,230,Manhattan,Times Sq/Theatre District,1,15.6,0.0,0.5,3.92,0.0,23.52,2.5
+454,455,2024-01-30 18:47:14,2024-01-30 18:53:12,1.0,0.49,1.0,233,Manhattan,UN/Turtle Bay South,137,Manhattan,Kips Bay,1,7.2,2.5,0.5,1.37,0.0,15.07,2.5
+455,456,2024-01-30 06:36:32,2024-01-30 07:14:42,1.0,0.0,99.0,165,Brooklyn,Midwood,162,Manhattan,Midtown East,1,41.5,0.0,0.5,0.0,6.94,49.94,0.0
+456,457,2024-01-30 00:49:36,2024-01-30 01:23:56,1.0,17.48,2.0,132,Queens,JFK Airport,234,Manhattan,Union Sq,1,70.0,0.0,0.5,20.23,6.94,102.92,2.5
+457,458,2024-01-29 15:02:45,2024-01-29 15:03:48,1.0,0.18,1.0,90,Manhattan,Flatiron,90,Manhattan,Flatiron,2,3.7,0.0,0.5,0.0,0.0,7.7,2.5
+458,459,2024-01-29 09:58:44,2024-01-29 10:20:47,1.0,2.4,1.0,236,Manhattan,Upper East Side North,170,Manhattan,Murray Hill,1,19.8,2.5,0.5,7.1,0.0,30.9,2.5
+459,460,2024-01-28 19:49:36,2024-01-28 20:08:37,1.0,4.93,1.0,209,Manhattan,Seaport,164,Manhattan,Midtown South,1,25.4,0.0,0.5,5.88,0.0,35.28,2.5
+460,461,2024-01-28 19:47:22,2024-01-28 20:01:09,2.0,2.42,1.0,141,Manhattan,Lenox Hill West,170,Manhattan,Murray Hill,1,14.9,0.0,0.5,3.0,0.0,21.9,2.5
+461,462,2024-01-28 18:00:22,2024-01-28 18:05:05,1.0,1.26,1.0,233,Manhattan,UN/Turtle Bay South,141,Manhattan,Lenox Hill West,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+462,463,2024-01-28 06:50:18,2024-01-28 07:00:27,1.0,2.8,1.0,262,Manhattan,Yorkville East,24,Manhattan,Bloomingdale,1,14.2,2.5,0.5,4.5,0.0,22.7,2.5
+463,464,2024-01-28 00:51:53,2024-01-28 01:26:09,2.0,20.21,2.0,132,Queens,JFK Airport,261,Manhattan,World Trade Center,1,70.0,0.0,0.5,14.8,0.0,90.55,2.5
+464,465,2024-01-27 23:41:27,2024-01-27 23:47:10,1.0,0.79,1.0,163,Manhattan,Midtown North,161,Manhattan,Midtown Center,1,7.2,1.0,0.5,2.44,0.0,14.64,2.5
+465,466,2024-01-27 00:52:49,2024-01-27 00:52:55,1.0,0.0,5.0,170,Manhattan,Murray Hill,170,Manhattan,Murray Hill,1,15.0,0.0,0.0,3.7,0.0,22.2,2.5
+466,467,2024-01-26 18:30:07,2024-01-26 18:37:34,1.0,1.28,1.0,68,Manhattan,East Chelsea,234,Manhattan,Union Sq,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+467,468,2024-01-25 18:01:11,2024-01-25 18:30:35,1.0,2.79,1.0,239,Manhattan,Upper West Side South,141,Manhattan,Lenox Hill West,1,25.4,2.5,0.5,2.5,0.0,34.4,2.5
+468,469,2024-01-24 06:46:40,2024-01-24 07:05:55,1.0,9.35,1.0,164,Manhattan,Midtown South,138,Queens,LaGuardia Airport,1,37.3,5.0,0.5,10.65,6.94,63.89,2.5
+469,470,2024-01-23 22:28:56,2024-01-23 22:46:20,1.0,2.5,1.0,48,Manhattan,Clinton East,239,Manhattan,Upper West Side South,1,15.6,3.5,0.5,3.0,0.0,23.6,2.5
+470,471,2024-01-23 20:35:05,2024-01-23 20:56:08,1.0,3.39,1.0,144,Manhattan,Little Italy/NoLiTa,230,Manhattan,Times Sq/Theatre District,1,21.2,1.0,0.5,5.24,0.0,31.44,2.5
+471,472,2024-01-23 16:58:21,2024-01-23 17:06:36,1.0,0.93,1.0,230,Manhattan,Times Sq/Theatre District,68,Manhattan,East Chelsea,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+472,473,2024-01-22 11:47:49,2024-01-22 12:42:54,2.0,20.83,2.0,132,Queens,JFK Airport,88,Manhattan,Financial District South,1,70.0,0.0,0.5,11.36,0.0,87.11,2.5
+473,474,2024-01-20 22:15:51,2024-01-20 22:20:10,1.0,0.48,1.0,162,Manhattan,Midtown East,229,Manhattan,Sutton Place/Turtle Bay North,1,5.8,1.0,0.5,1.5,0.0,12.3,2.5
+474,475,2024-01-20 17:07:21,2024-01-20 17:31:06,2.0,6.45,1.0,234,Manhattan,Union Sq,231,Manhattan,TriBeCa/Civic Center,1,31.0,0.0,0.5,7.0,0.0,42.0,2.5
+475,476,2024-01-20 13:31:30,2024-01-20 14:03:25,2.0,17.14,2.0,132,Queens,JFK Airport,233,Manhattan,UN/Turtle Bay South,1,70.0,0.0,0.5,8.27,6.94,90.96,2.5
+476,477,2024-01-20 04:01:46,2024-01-20 04:19:44,1.0,4.56,1.0,50,Manhattan,Clinton West,148,Manhattan,Lower East Side,2,21.9,1.0,0.5,0.0,0.0,26.9,2.5
+477,478,2024-01-19 22:20:12,2024-01-19 22:50:12,1.0,3.6,1.0,186,Manhattan,Penn Station/Madison Sq West,263,Manhattan,Yorkville West,1,23.3,3.5,0.5,5.65,0.0,33.95,2.5
+478,479,2024-01-19 19:39:22,2024-01-19 19:43:40,1.0,0.64,1.0,144,Manhattan,Little Italy/NoLiTa,114,Manhattan,Greenwich Village South,1,5.8,2.5,0.5,1.7,0.0,14.0,2.5
+479,480,2024-01-19 10:22:29,2024-01-19 10:39:57,1.0,4.46,1.0,262,Manhattan,Yorkville East,79,Manhattan,East Village,1,22.6,0.0,0.5,2.0,0.0,28.6,2.5
+480,481,2024-01-18 21:52:46,2024-01-18 22:03:21,1.0,2.49,1.0,163,Manhattan,Midtown North,75,Manhattan,East Harlem South,1,13.5,1.0,0.5,4.0,0.0,22.5,2.5
+481,482,2024-01-18 14:28:42,2024-01-18 14:51:38,2.0,2.6,1.0,142,Manhattan,Lincoln Square East,162,Manhattan,Midtown East,2,20.5,2.5,0.5,0.0,0.0,24.5,2.5
+482,483,2024-01-17 16:34:24,2024-01-17 16:50:02,1.0,1.61,1.0,161,Manhattan,Midtown Center,186,Manhattan,Penn Station/Madison Sq West,2,14.9,2.5,0.5,0.0,0.0,21.4,2.5
+483,484,2024-01-17 10:08:06,2024-01-17 10:12:29,1.0,0.51,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,6.5,0.0,0.5,3.15,0.0,13.65,2.5
+484,485,2024-01-16 18:31:29,2024-01-16 18:44:49,1.0,2.7,1.0,161,Manhattan,Midtown Center,239,Manhattan,Upper West Side South,1,16.3,5.0,0.5,2.5,0.0,25.3,2.5
+485,486,2024-01-16 08:50:34,2024-01-16 09:18:11,1.0,1.6,1.0,140,Manhattan,Lenox Hill East,237,Manhattan,Upper East Side South,1,23.3,2.5,0.5,3.5,0.0,30.8,2.5
+486,487,2024-01-16 08:09:16,2024-01-16 08:28:25,1.0,0.95,1.0,237,Manhattan,Upper East Side South,162,Manhattan,Midtown East,1,16.3,0.0,0.5,3.04,0.0,23.34,2.5
+487,488,2024-01-16 07:06:38,2024-01-16 07:11:42,1.0,1.2,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,1,7.9,2.5,0.5,1.19,0.0,13.09,2.5
+488,489,2024-01-15 13:33:11,2024-01-15 13:41:08,1.0,1.25,1.0,90,Manhattan,Flatiron,114,Manhattan,Greenwich Village South,1,9.3,0.0,0.5,2.66,0.0,15.96,2.5
+489,490,2024-01-14 00:47:34,2024-01-14 00:55:39,2.0,1.51,1.0,114,Manhattan,Greenwich Village South,107,Manhattan,Gramercy,1,10.0,1.0,0.5,3.0,0.0,18.0,2.5
+490,491,2024-01-13 15:31:48,2024-01-13 15:44:06,1.0,2.24,1.0,236,Manhattan,Upper East Side North,230,Manhattan,Times Sq/Theatre District,1,14.2,0.0,0.5,3.64,0.0,21.84,2.5
+491,492,2024-01-13 08:10:30,2024-01-13 08:13:05,1.0,0.66,1.0,140,Manhattan,Lenox Hill East,141,Manhattan,Lenox Hill West,2,5.1,0.0,0.5,0.0,0.0,9.1,2.5
+492,493,2024-01-12 23:16:59,2024-01-12 23:45:29,1.0,5.71,1.0,148,Manhattan,Lower East Side,239,Manhattan,Upper West Side South,1,29.6,1.0,0.5,6.92,0.0,41.52,2.5
+493,494,2024-01-12 20:38:31,2024-01-12 20:45:38,1.0,1.23,1.0,231,Manhattan,TriBeCa/Civic Center,249,Manhattan,West Village,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+494,495,2024-01-12 15:08:58,2024-01-12 15:45:39,1.0,9.33,1.0,138,Queens,LaGuardia Airport,61,Brooklyn,Crown Heights North,1,43.6,5.0,0.5,7.78,0.0,59.63,0.0
+495,496,2024-01-12 13:20:45,2024-01-12 13:31:58,2.0,2.19,1.0,148,Manhattan,Lower East Side,162,Manhattan,Midtown East,1,12.8,0.0,0.5,3.36,0.0,20.16,2.5
+496,497,2024-01-12 08:49:27,2024-01-12 08:57:05,1.0,1.32,1.0,236,Manhattan,Upper East Side North,141,Manhattan,Lenox Hill West,1,9.3,0.0,0.5,2.66,0.0,15.96,2.5
+497,498,2024-01-11 18:34:38,2024-01-11 18:43:07,1.0,1.31,1.0,90,Manhattan,Flatiron,114,Manhattan,Greenwich Village South,1,9.3,2.5,0.5,1.58,0.0,17.38,2.5
+498,499,2024-01-11 17:10:27,2024-01-11 17:29:15,1.0,2.68,1.0,142,Manhattan,Lincoln Square East,236,Manhattan,Upper East Side North,1,17.7,2.5,0.5,4.84,0.0,29.04,2.5
+499,500,2024-01-11 08:42:41,2024-01-11 09:07:52,1.0,4.4,99.0,213,Bronx,Soundview/Castle Hill,174,Bronx,Norwood,1,25.5,0.0,0.5,0.0,0.0,27.0,0.0
+500,501,2024-01-11 08:24:46,2024-01-11 08:33:35,1.0,0.72,1.0,162,Manhattan,Midtown East,161,Manhattan,Midtown Center,1,9.3,0.0,0.5,5.0,0.0,18.3,2.5
+501,502,2024-01-11 08:00:34,2024-01-11 08:07:21,1.0,0.7,1.0,161,Manhattan,Midtown Center,163,Manhattan,Midtown North,1,7.2,2.5,0.5,2.8,0.0,14.0,2.5
+502,503,2024-01-10 18:17:47,2024-01-10 18:21:51,1.0,0.81,1.0,68,Manhattan,East Chelsea,249,Manhattan,West Village,1,6.5,2.5,0.5,0.0,0.0,13.0,2.5
+503,504,2024-01-09 20:35:15,2024-01-09 20:58:34,1.0,3.71,1.0,246,Manhattan,West Chelsea/Hudson Yards,237,Manhattan,Upper East Side South,2,23.3,1.0,0.5,0.0,0.0,28.3,2.5
+504,505,2024-01-09 13:30:59,2024-01-09 13:34:53,1.0,0.7,1.0,238,Manhattan,Upper West Side North,151,Manhattan,Manhattan Valley,2,6.5,2.5,0.5,0.0,0.0,10.5,2.5
+505,506,2024-01-09 12:26:50,2024-01-09 12:31:36,1.0,0.53,1.0,238,Manhattan,Upper West Side North,238,Manhattan,Upper West Side North,1,6.5,0.0,0.5,2.62,0.0,13.12,2.5
+506,507,2024-01-09 08:56:25,2024-01-09 09:17:53,1.0,2.23,1.0,143,Manhattan,Lincoln Square West,162,Manhattan,Midtown East,1,19.1,0.0,0.5,4.62,0.0,27.72,2.5
+507,508,2024-01-06 23:23:07,2024-01-06 23:27:56,1.0,0.74,1.0,137,Manhattan,Kips Bay,234,Manhattan,Union Sq,2,7.2,1.0,0.5,0.0,0.0,12.2,2.5
+508,509,2024-01-06 22:41:50,2024-01-06 22:43:24,1.0,0.04,1.0,238,Manhattan,Upper West Side North,238,Manhattan,Upper West Side North,2,3.7,1.0,0.5,0.0,0.0,6.2,0.0
+509,510,2024-01-06 21:50:37,2024-01-06 22:17:53,1.0,14.5,1.0,132,Queens,JFK Airport,226,Queens,Sunnyside,2,55.5,1.0,0.5,0.0,0.0,59.75,0.0
+510,511,2024-01-06 18:54:58,2024-01-06 19:00:11,1.0,0.74,1.0,238,Manhattan,Upper West Side North,238,Manhattan,Upper West Side North,1,6.5,0.0,0.5,2.0,0.0,12.5,2.5
+511,512,2024-01-06 10:14:25,2024-01-06 10:35:03,1.0,5.0,1.0,48,Manhattan,Clinton East,12,Manhattan,Battery Park,2,26.1,0.0,0.5,0.0,0.0,30.1,2.5
+512,513,2024-01-05 21:54:31,2024-01-05 21:56:55,1.0,0.56,1.0,230,Manhattan,Times Sq/Theatre District,142,Manhattan,Lincoln Square East,1,5.1,1.0,0.5,2.02,0.0,12.12,2.5
+513,514,2024-01-05 18:39:29,2024-01-05 18:52:35,1.0,2.61,1.0,141,Manhattan,Lenox Hill West,239,Manhattan,Upper West Side South,1,14.9,2.5,0.5,2.14,0.0,23.54,2.5
+514,515,2024-01-05 13:11:30,2024-01-05 13:42:03,1.0,4.5,1.0,186,Manhattan,Penn Station/Madison Sq West,75,Manhattan,East Harlem South,2,28.9,2.5,0.5,0.0,0.0,32.9,2.5
+515,516,2024-01-04 21:16:56,2024-01-04 21:37:13,1.0,3.43,1.0,142,Manhattan,Lincoln Square East,113,Manhattan,Greenwich Village North,1,20.5,1.0,0.5,5.1,0.0,30.6,2.5
+516,517,2024-01-04 20:52:19,2024-01-04 21:03:31,1.0,2.0,1.0,239,Manhattan,Upper West Side South,141,Manhattan,Lenox Hill West,1,13.5,1.0,0.5,0.0,0.0,18.5,2.5
+517,518,2024-01-03 08:43:41,2024-01-03 08:50:24,1.0,0.95,1.0,100,Manhattan,Garment District,246,Manhattan,West Chelsea/Hudson Yards,1,8.6,0.0,0.5,2.52,0.0,15.12,2.5
+518,519,2024-01-02 21:03:07,2024-01-02 21:21:52,4.0,6.35,5.0,163,Manhattan,Midtown North,265,,Outside of NYC,2,50.0,0.0,0.0,0.0,12.75,63.75,0.0
+519,520,2024-01-02 10:54:31,2024-01-02 11:02:58,1.0,1.03,1.0,262,Manhattan,Yorkville East,237,Manhattan,Upper East Side South,2,9.3,0.0,0.5,0.0,0.0,13.3,2.5
+520,521,2024-01-01 16:49:46,2024-01-01 16:54:35,1.0,0.8,1.0,249,Manhattan,West Village,113,Manhattan,Greenwich Village North,2,6.5,0.0,0.5,0.0,0.0,10.5,2.5
+521,522,2024-01-01 03:43:58,2024-01-01 03:50:47,2.0,1.84,1.0,127,Manhattan,Inwood,20,Bronx,Belmont,2,10.0,1.0,0.5,0.0,0.0,12.5,0.0
+522,523,2024-01-01 00:38:50,2024-01-01 01:07:11,1.0,3.18,1.0,90,Manhattan,Flatiron,141,Manhattan,Lenox Hill West,1,24.7,1.0,0.5,1.0,0.0,30.7,2.5
+523,524,2023-05-31 12:33:32,2023-05-31 12:50:18,1.0,1.82,1.0,163,Manhattan,Midtown North,68,Manhattan,East Chelsea,1,15.6,0.0,0.5,3.92,0.0,23.52,2.5
+524,525,2023-05-30 14:38:14,2023-05-30 15:08:23,1.0,5.74,1.0,90,Manhattan,Flatiron,24,Manhattan,Bloomingdale,1,33.8,0.0,0.5,7.56,0.0,45.36,2.5
+525,526,2023-05-29 20:33:43,2023-05-29 20:39:54,1.0,1.2,1.0,186,Manhattan,Penn Station/Madison Sq West,161,Manhattan,Midtown Center,1,7.9,1.0,0.5,1.94,0.0,14.84,2.5
+526,527,2023-05-29 19:53:59,2023-05-29 20:13:41,1.0,3.9,1.0,186,Manhattan,Penn Station/Madison Sq West,263,Manhattan,Yorkville West,1,21.9,0.0,0.5,5.18,0.0,31.08,2.5
+527,528,2023-05-29 10:51:45,2023-05-29 10:58:54,3.0,1.3,1.0,209,Manhattan,Seaport,232,Manhattan,Two Bridges/Seward Park,1,9.3,2.5,0.5,1.07,0.0,14.37,2.5
+528,529,2023-05-28 19:02:49,2023-05-28 19:03:21,0.0,0.0,1.0,163,Manhattan,Midtown North,163,Manhattan,Midtown North,4,3.0,2.5,0.5,0.0,0.0,7.0,2.5
+529,530,2023-05-28 18:59:27,2023-05-28 19:11:01,1.0,1.7,1.0,137,Manhattan,Kips Bay,68,Manhattan,East Chelsea,1,12.1,2.5,0.5,3.2,0.0,19.3,2.5
+530,531,2023-05-28 13:15:35,2023-05-28 13:23:22,1.0,4.89,1.0,143,Manhattan,Lincoln Square West,152,Manhattan,Manhattanville,1,19.8,0.0,0.5,2.38,0.0,26.18,2.5
+531,532,2023-05-28 01:36:27,2023-05-28 01:41:28,3.0,1.54,1.0,79,Manhattan,East Village,170,Manhattan,Murray Hill,1,8.6,1.0,0.5,2.72,0.0,16.32,2.5
+532,533,2023-05-27 23:44:37,2023-05-27 23:53:44,1.0,1.8,1.0,249,Manhattan,West Village,231,Manhattan,TriBeCa/Civic Center,1,11.4,1.0,0.5,1.0,0.0,17.4,2.5
+533,534,2023-05-27 20:57:01,2023-05-27 21:08:06,4.0,1.64,1.0,114,Manhattan,Greenwich Village South,234,Manhattan,Union Sq,1,12.1,1.0,0.5,2.0,0.0,19.1,2.5
+534,535,2023-05-27 00:44:15,2023-05-27 00:59:19,1.0,3.02,1.0,148,Manhattan,Lower East Side,255,Brooklyn,Williamsburg (North Side),1,17.7,1.0,0.5,4.54,0.0,27.24,2.5
+535,536,2023-05-26 21:44:25,2023-05-26 21:55:12,1.0,1.37,1.0,232,Manhattan,Two Bridges/Seward Park,4,Manhattan,Alphabet City,4,-11.4,-1.0,-0.5,0.0,0.0,-16.4,-2.5
+536,537,2023-05-26 20:57:17,2023-05-26 21:13:36,2.0,2.6,1.0,79,Manhattan,East Village,264,Unknown,,1,17.0,3.5,0.5,4.4,0.0,26.4,2.5
+537,538,2023-05-26 18:53:39,2023-05-26 19:05:40,1.0,2.21,1.0,163,Manhattan,Midtown North,262,Manhattan,Yorkville East,1,13.5,2.5,0.5,4.0,0.0,24.0,2.5
+538,539,2023-05-26 15:39:43,2023-05-26 15:47:27,1.0,1.17,1.0,239,Manhattan,Upper West Side South,163,Manhattan,Midtown North,1,9.3,0.0,0.5,3.32,0.0,16.62,2.5
+539,540,2023-05-26 13:13:48,2023-05-26 13:22:28,1.0,1.39,1.0,143,Manhattan,Lincoln Square West,163,Manhattan,Midtown North,1,10.0,0.0,0.5,2.1,0.0,16.1,2.5
+540,541,2023-05-25 18:46:25,2023-05-25 19:18:42,1.0,7.47,4.0,132,Queens,JFK Airport,265,,Outside of NYC,1,40.1,2.5,0.5,8.82,0.0,54.67,0.0
+541,542,2023-05-25 11:21:13,2023-05-25 11:26:30,1.0,0.7,1.0,263,Manhattan,Yorkville West,75,Manhattan,East Harlem South,2,7.2,2.5,0.5,0.0,0.0,11.2,2.5
+542,543,2023-05-25 08:23:48,2023-05-25 08:32:18,1.0,0.87,1.0,100,Manhattan,Garment District,170,Manhattan,Murray Hill,1,8.6,0.0,0.5,1.26,0.0,13.86,2.5
+543,544,2023-05-24 12:31:39,2023-05-24 12:38:47,1.0,1.38,1.0,75,Manhattan,East Harlem South,74,Manhattan,East Harlem North,2,9.3,0.0,0.5,0.0,0.0,10.8,0.0
+544,545,2023-05-23 22:35:12,2023-05-23 22:53:07,1.0,3.63,1.0,186,Manhattan,Penn Station/Madison Sq West,236,Manhattan,Upper East Side North,1,19.8,1.0,0.5,4.96,0.0,29.76,2.5
+545,546,2023-05-22 18:37:49,2023-05-22 18:38:31,1.0,0.0,1.0,163,Manhattan,Midtown North,163,Manhattan,Midtown North,3,3.0,5.0,0.5,0.0,0.0,9.5,2.5
+546,547,2023-05-22 16:06:20,2023-05-22 17:05:36,1.0,21.25,2.0,132,Queens,JFK Airport,87,Manhattan,Financial District North,1,70.0,5.0,0.5,17.11,6.55,104.41,2.5
+547,548,2023-05-22 10:08:50,2023-05-22 10:23:52,1.0,2.82,1.0,43,Manhattan,Central Park,48,Manhattan,Clinton East,1,17.0,0.0,0.5,1.0,0.0,22.0,2.5
+548,549,2023-05-21 19:54:32,2023-05-21 20:04:13,1.0,0.99,1.0,114,Manhattan,Greenwich Village South,148,Manhattan,Lower East Side,1,10.0,0.0,0.5,3.0,0.0,17.0,2.5
+549,550,2023-05-21 16:31:04,2023-05-21 16:38:49,2.0,0.8,1.0,90,Manhattan,Flatiron,246,Manhattan,West Chelsea/Hudson Yards,1,7.2,2.5,0.5,0.0,0.0,11.2,2.5
+550,551,2023-05-21 14:01:30,2023-05-21 14:20:33,2.0,2.21,1.0,231,Manhattan,TriBeCa/Civic Center,234,Manhattan,Union Sq,1,18.4,0.0,0.5,2.24,0.0,24.64,2.5
+551,552,2023-05-21 13:23:52,2023-05-21 13:49:00,1.0,2.49,1.0,233,Manhattan,UN/Turtle Bay South,113,Manhattan,Greenwich Village North,1,21.9,0.0,0.5,5.18,0.0,31.08,2.5
+552,553,2023-05-20 19:06:02,2023-05-20 19:20:13,1.0,3.0,1.0,237,Manhattan,Upper East Side South,151,Manhattan,Manhattan Valley,1,14.2,2.5,0.5,3.6,0.0,21.8,2.5
+553,554,2023-05-20 16:47:57,2023-05-20 16:58:51,1.0,1.6,1.0,236,Manhattan,Upper East Side North,140,Manhattan,Lenox Hill East,1,11.4,2.5,0.5,1.5,0.0,16.9,2.5
+554,555,2023-05-20 16:32:19,2023-05-20 16:43:53,1.0,1.35,1.0,68,Manhattan,East Chelsea,90,Manhattan,Flatiron,1,12.1,0.0,0.5,4.03,0.0,20.13,2.5
+555,556,2023-05-20 01:25:58,2023-05-20 01:32:02,1.0,1.08,1.0,249,Manhattan,West Village,211,Manhattan,SoHo,1,7.9,1.0,0.5,2.58,0.0,15.48,2.5
+556,557,2023-05-19 16:45:42,2023-05-19 17:02:58,1.0,1.96,1.0,261,Manhattan,World Trade Center,211,Manhattan,SoHo,1,17.0,2.5,0.5,4.7,0.0,28.2,2.5
+557,558,2023-05-18 17:02:55,2023-05-18 17:07:43,1.0,0.5,1.0,249,Manhattan,West Village,158,Manhattan,Meatpacking/West Village West,3,6.5,5.0,0.5,0.0,0.0,13.0,2.5
+558,559,2023-05-18 15:19:11,2023-05-18 15:22:39,1.0,0.79,1.0,164,Manhattan,Midtown South,234,Manhattan,Union Sq,1,5.8,0.0,0.5,1.0,0.0,10.8,2.5
+559,560,2023-05-17 19:44:42,2023-05-17 20:29:12,1.0,22.04,2.0,132,Queens,JFK Airport,142,Manhattan,Lincoln Square East,1,70.0,5.0,0.5,17.11,6.55,104.41,2.5
+560,561,2023-05-17 18:21:45,2023-05-17 18:46:55,1.0,1.9,1.0,162,Manhattan,Midtown East,142,Manhattan,Lincoln Square East,1,19.8,5.0,0.5,5.25,0.0,31.55,2.5
+561,562,2023-05-17 17:59:45,2023-05-17 18:05:14,1.0,0.48,1.0,234,Manhattan,Union Sq,186,Manhattan,Penn Station/Madison Sq West,1,6.5,2.5,0.5,2.5,0.0,15.5,2.5
+562,563,2023-05-16 23:30:29,2023-05-16 23:37:00,1.0,1.0,5.0,80,Brooklyn,East Williamsburg,17,Brooklyn,Bedford,1,50.0,0.0,0.0,0.0,0.0,51.0,0.0
+563,564,2023-05-16 22:35:25,2023-05-16 22:45:26,1.0,1.4,1.0,237,Manhattan,Upper East Side South,230,Manhattan,Times Sq/Theatre District,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+564,565,2023-05-16 20:59:02,2023-05-16 21:03:57,1.0,0.67,1.0,234,Manhattan,Union Sq,186,Manhattan,Penn Station/Madison Sq West,2,6.5,1.0,0.5,0.0,0.0,11.5,2.5
+565,566,2023-05-16 10:04:02,2023-05-16 10:37:23,1.0,6.7,1.0,166,Manhattan,Morningside Heights,234,Manhattan,Union Sq,1,35.9,2.5,0.5,9.98,0.0,49.88,2.5
+566,567,2023-05-15 21:30:11,2023-05-15 21:44:50,1.0,2.62,1.0,107,Manhattan,Gramercy,50,Manhattan,Clinton West,1,15.6,1.0,0.5,4.12,0.0,24.72,2.5
+567,568,2023-05-15 11:23:55,2023-05-15 11:44:11,2.0,2.1,1.0,249,Manhattan,West Village,249,Manhattan,West Village,1,17.7,2.5,0.5,4.3,0.0,26.0,2.5
+568,569,2023-05-14 02:33:58,2023-05-14 02:44:24,1.0,2.8,1.0,262,Manhattan,Yorkville East,161,Manhattan,Midtown Center,1,13.5,3.5,0.5,3.7,0.0,22.2,2.5
+569,570,2023-05-13 18:27:30,2023-05-13 18:38:38,1.0,1.0,1.0,43,Manhattan,Central Park,48,Manhattan,Clinton East,1,10.7,2.5,0.5,2.0,0.0,16.7,2.5
+570,571,2023-05-13 15:27:35,2023-05-13 15:35:08,1.0,3.45,1.0,132,Queens,JFK Airport,218,Queens,Springfield Gardens North,2,16.3,0.0,0.5,0.0,0.0,19.55,0.0
+571,572,2023-05-13 12:54:08,2023-05-13 13:03:43,1.0,1.2,1.0,114,Manhattan,Greenwich Village South,107,Manhattan,Gramercy,1,10.0,2.5,0.5,2.1,0.0,16.1,2.5
+572,573,2023-05-13 00:30:38,2023-05-13 00:38:40,1.0,1.38,1.0,148,Manhattan,Lower East Side,249,Manhattan,West Village,1,10.0,1.0,0.5,3.0,0.0,18.0,2.5
+573,574,2023-05-11 21:04:29,2023-05-11 21:18:59,1.0,2.0,1.0,161,Manhattan,Midtown Center,68,Manhattan,East Chelsea,1,14.9,3.5,0.5,3.95,0.0,23.85,2.5
+574,575,2023-05-10 23:59:47,2023-05-11 00:11:54,1.0,2.3,1.0,141,Manhattan,Lenox Hill West,100,Manhattan,Garment District,1,12.8,3.5,0.5,5.3,0.0,23.1,2.5
+575,576,2023-05-10 20:41:10,2023-05-10 20:52:31,1.0,1.16,1.0,163,Manhattan,Midtown North,186,Manhattan,Penn Station/Madison Sq West,1,11.4,1.0,0.5,3.28,0.0,19.68,2.5
+576,577,2023-05-10 19:54:24,2023-05-10 20:00:40,1.0,0.88,1.0,237,Manhattan,Upper East Side South,237,Manhattan,Upper East Side South,2,7.9,2.5,0.5,0.0,0.0,14.4,2.5
+577,578,2023-05-10 14:47:55,2023-05-10 14:57:44,1.0,1.16,1.0,163,Manhattan,Midtown North,142,Manhattan,Lincoln Square East,2,10.7,0.0,0.5,0.0,0.0,14.7,2.5
+578,579,2023-05-09 22:59:13,2023-05-09 23:08:52,2.0,1.32,1.0,249,Manhattan,West Village,125,Manhattan,Hudson Sq,2,10.7,1.0,0.5,0.0,0.0,15.7,2.5
+579,580,2023-05-09 14:10:16,2023-05-09 14:32:08,1.0,4.16,1.0,68,Manhattan,East Chelsea,43,Manhattan,Central Park,1,23.3,0.0,0.5,5.46,0.0,32.76,2.5
+580,581,2023-05-09 09:51:16,2023-05-09 09:52:01,4.0,0.27,1.0,262,Manhattan,Yorkville East,263,Manhattan,Yorkville West,1,3.7,0.0,0.5,1.54,0.0,9.24,2.5
+581,582,2023-05-08 15:41:19,2023-05-08 15:50:27,1.0,1.5,1.0,229,Manhattan,Sutton Place/Turtle Bay North,262,Manhattan,Yorkville East,1,10.0,2.5,0.5,2.1,0.0,16.1,2.5
+582,583,2023-05-08 13:27:14,2023-05-08 13:52:21,1.0,3.72,1.0,141,Manhattan,Lenox Hill West,249,Manhattan,West Village,1,24.0,0.0,0.5,8.4,0.0,36.4,2.5
+583,584,2023-05-06 22:51:59,2023-05-06 23:33:54,1.0,6.15,1.0,234,Manhattan,Union Sq,181,Brooklyn,Park Slope,1,38.7,1.0,0.5,8.74,0.0,52.44,2.5
+584,585,2023-05-06 16:50:17,2023-05-06 17:02:55,2.0,2.31,1.0,236,Manhattan,Upper East Side North,151,Manhattan,Manhattan Valley,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+585,586,2023-05-06 15:04:08,2023-05-06 15:16:49,5.0,2.4,1.0,43,Manhattan,Central Park,75,Manhattan,East Harlem South,1,14.9,0.0,0.5,2.0,0.0,20.9,2.5
+586,587,2023-05-05 18:15:15,2023-05-05 18:36:08,2.0,2.02,1.0,68,Manhattan,East Chelsea,79,Manhattan,East Village,1,19.1,2.5,0.5,5.12,0.0,30.72,2.5
+587,588,2023-05-05 05:58:53,2023-05-05 06:02:41,1.0,0.95,1.0,163,Manhattan,Midtown North,48,Manhattan,Clinton East,1,6.5,1.0,0.5,3.45,0.0,14.95,2.5
+588,589,2023-05-04 22:27:44,2023-05-04 22:34:44,1.0,1.01,1.0,163,Manhattan,Midtown North,229,Manhattan,Sutton Place/Turtle Bay North,1,8.6,1.0,0.5,2.0,0.0,15.6,2.5
+589,590,2023-05-04 21:42:53,2023-05-04 22:05:58,1.0,9.79,1.0,138,Queens,LaGuardia Airport,189,Brooklyn,Prospect Heights,1,40.8,6.0,0.5,5.0,0.0,55.05,0.0
+590,591,2023-05-04 21:39:33,2023-05-04 21:43:29,1.0,0.72,1.0,236,Manhattan,Upper East Side North,262,Manhattan,Yorkville East,2,5.8,1.0,0.5,0.0,0.0,10.8,2.5
+591,592,2023-05-04 18:43:00,2023-05-04 18:51:57,1.0,1.6,1.0,137,Manhattan,Kips Bay,113,Manhattan,Greenwich Village North,2,10.7,2.5,0.5,0.0,0.0,17.2,2.5
+592,593,2023-05-04 17:55:58,2023-05-04 18:14:30,1.0,1.21,1.0,90,Manhattan,Flatiron,246,Manhattan,West Chelsea/Hudson Yards,1,16.3,2.5,0.5,5.7,0.0,28.5,2.5
+593,594,2023-05-04 16:26:44,2023-05-04 16:32:28,1.0,0.98,1.0,237,Manhattan,Upper East Side South,263,Manhattan,Yorkville West,1,7.9,2.5,0.5,1.0,0.0,15.4,2.5
+594,595,2023-05-04 14:09:34,2023-05-04 14:33:15,1.0,1.74,1.0,237,Manhattan,Upper East Side South,143,Manhattan,Lincoln Square West,2,20.5,0.0,0.5,0.0,0.0,24.5,2.5
+595,596,2023-05-04 13:02:26,2023-05-04 13:11:44,2.0,1.15,1.0,261,Manhattan,World Trade Center,13,Manhattan,Battery Park City,1,10.0,0.0,0.5,2.8,0.0,16.8,2.5
+596,597,2023-05-04 13:00:17,2023-05-04 13:09:38,1.0,1.35,1.0,262,Manhattan,Yorkville East,239,Manhattan,Upper West Side South,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+597,598,2023-05-03 16:22:12,2023-05-03 16:37:35,2.0,1.5,1.0,237,Manhattan,Upper East Side South,263,Manhattan,Yorkville West,1,14.2,5.0,0.5,4.1,0.0,24.8,2.5
+598,599,2023-05-03 16:12:29,2023-05-03 16:28:15,1.0,2.2,1.0,141,Manhattan,Lenox Hill West,74,Manhattan,East Harlem North,1,16.3,5.0,0.5,1.0,0.0,23.8,2.5
+599,600,2023-05-03 15:31:12,2023-05-03 15:54:14,1.0,3.37,1.0,48,Manhattan,Clinton East,141,Manhattan,Lenox Hill West,1,21.9,0.0,0.5,5.18,0.0,31.08,2.5
+600,601,2023-05-03 14:24:49,2023-05-03 14:37:55,1.0,2.04,1.0,231,Manhattan,TriBeCa/Civic Center,164,Manhattan,Midtown South,1,13.5,0.0,0.5,3.5,0.0,21.0,2.5
+601,602,2023-05-03 11:09:50,2023-05-03 11:29:30,1.0,6.58,1.0,162,Manhattan,Midtown East,231,Manhattan,TriBeCa/Civic Center,1,31.0,0.0,0.5,7.0,0.0,42.0,2.5
+602,603,2023-05-02 18:56:00,2023-05-02 19:00:50,5.0,1.23,1.0,246,Manhattan,West Chelsea/Hudson Yards,48,Manhattan,Clinton East,1,7.9,2.5,0.5,1.0,0.0,15.4,2.5
+603,604,2023-05-01 17:05:58,2023-05-01 17:14:16,1.0,1.35,1.0,142,Manhattan,Lincoln Square East,237,Manhattan,Upper East Side South,1,10.0,2.5,0.5,2.0,0.0,18.5,2.5
+604,605,2023-05-01 11:48:02,2023-05-01 11:56:08,1.0,1.25,1.0,238,Manhattan,Upper West Side North,143,Manhattan,Lincoln Square West,1,9.3,0.0,0.5,2.66,0.0,15.96,2.5
+605,606,2023-05-01 06:36:13,2023-05-01 06:40:37,1.0,0.54,1.0,100,Manhattan,Garment District,230,Manhattan,Times Sq/Theatre District,1,6.5,0.0,0.5,1.0,0.0,11.5,2.5
+606,607,2023-04-30 21:06:26,2023-04-30 21:26:04,1.0,6.07,1.0,138,Queens,LaGuardia Airport,237,Manhattan,Upper East Side South,1,27.5,6.0,0.5,4.0,0.0,43.25,2.5
+607,608,2023-04-30 18:56:44,2023-04-30 19:38:02,0.0,12.1,1.0,132,Queens,JFK Airport,138,Queens,LaGuardia Airport,1,51.3,6.75,0.5,1.0,0.0,60.55,0.0
+608,609,2023-04-30 15:55:08,2023-04-30 16:14:19,1.0,1.9,1.0,236,Manhattan,Upper East Side North,163,Manhattan,Midtown North,1,17.7,2.5,0.5,4.34,0.0,26.04,2.5
+609,610,2023-04-30 11:02:15,2023-04-30 11:20:19,0.0,3.7,1.0,234,Manhattan,Union Sq,236,Manhattan,Upper East Side North,1,20.5,2.5,0.5,4.9,0.0,29.4,2.5
+610,611,2023-04-30 08:46:47,2023-04-30 08:56:05,1.0,1.65,1.0,186,Manhattan,Penn Station/Madison Sq West,114,Manhattan,Greenwich Village South,2,10.7,0.0,0.5,0.0,0.0,14.7,2.5
+611,612,2023-04-29 09:02:58,2023-04-29 09:32:55,1.0,9.76,1.0,132,Queens,JFK Airport,36,Brooklyn,Bushwick North,2,42.2,0.0,0.5,0.0,0.0,43.7,0.0
+612,613,2023-04-28 22:21:38,2023-04-28 22:24:45,3.0,0.59,1.0,231,Manhattan,TriBeCa/Civic Center,249,Manhattan,West Village,1,5.8,1.0,0.5,2.16,0.0,12.96,2.5
+613,614,2023-04-27 21:27:22,2023-04-27 21:53:24,3.0,10.5,1.0,138,Queens,LaGuardia Airport,125,Manhattan,Hudson Sq,2,43.6,1.0,0.5,0.0,6.55,55.15,2.5
+614,615,2023-04-27 18:49:00,2023-04-27 19:46:15,1.0,29.2,2.0,249,Manhattan,West Village,132,Queens,JFK Airport,1,70.0,7.5,0.5,15.0,6.55,100.55,2.5
+615,616,2023-04-27 15:27:15,2023-04-27 16:27:46,1.0,24.29,1.0,132,Queens,JFK Airport,227,Brooklyn,Sunset Park East,1,93.3,0.0,0.5,10.0,0.0,106.55,0.0
+616,617,2023-04-26 18:37:52,2023-04-26 18:42:39,2.0,0.73,1.0,238,Manhattan,Upper West Side North,151,Manhattan,Manhattan Valley,1,7.2,2.5,0.5,2.74,0.0,16.44,2.5
+617,618,2023-04-25 22:12:32,2023-04-25 22:29:34,1.0,6.43,1.0,233,Manhattan,UN/Turtle Bay South,13,Manhattan,Battery Park City,1,28.2,1.0,0.5,4.98,0.0,38.18,2.5
+618,619,2023-04-25 20:57:44,2023-04-25 21:08:09,1.0,1.4,1.0,230,Manhattan,Times Sq/Theatre District,229,Manhattan,Sutton Place/Turtle Bay North,1,10.0,3.5,0.5,3.0,0.0,18.0,2.5
+619,620,2023-04-25 19:50:38,2023-04-25 19:53:53,1.0,0.52,1.0,230,Manhattan,Times Sq/Theatre District,48,Manhattan,Clinton East,1,5.8,2.5,0.5,2.0,0.0,14.3,2.5
+620,621,2023-04-25 18:58:08,2023-04-25 19:03:00,1.0,0.83,1.0,162,Manhattan,Midtown East,107,Manhattan,Gramercy,1,7.2,2.5,0.5,2.74,0.0,16.44,2.5
+621,622,2023-04-25 17:31:27,2023-04-25 17:59:13,5.0,3.12,1.0,170,Manhattan,Murray Hill,231,Manhattan,TriBeCa/Civic Center,1,25.4,2.5,0.5,7.98,0.0,39.88,2.5
+622,623,2023-04-24 21:05:32,2023-04-24 21:31:34,1.0,4.41,1.0,170,Manhattan,Murray Hill,151,Manhattan,Manhattan Valley,1,26.1,1.0,0.5,6.22,0.0,37.32,2.5
+623,624,2023-04-24 09:26:07,2023-04-24 10:19:52,1.0,18.26,1.0,138,Queens,LaGuardia Airport,89,Brooklyn,Flatbush/Ditmas Park,1,77.9,5.0,0.5,17.23,0.0,103.38,0.0
+624,625,2023-04-23 17:14:32,2023-04-23 17:39:08,1.0,3.69,1.0,162,Manhattan,Midtown East,145,Queens,Long Island City/Hunters Point,1,24.7,0.0,0.5,5.74,0.0,34.44,2.5
+625,626,2023-04-23 01:19:20,2023-04-23 01:28:27,1.0,1.04,1.0,48,Manhattan,Clinton East,170,Manhattan,Murray Hill,1,10.0,1.0,0.5,3.75,0.0,18.75,2.5
+626,627,2023-04-22 21:53:03,2023-04-22 22:04:03,1.0,1.02,1.0,113,Manhattan,Greenwich Village North,79,Manhattan,East Village,1,11.4,1.0,0.5,2.0,0.0,18.4,2.5
+627,628,2023-04-22 10:51:43,2023-04-22 11:19:42,1.0,5.14,1.0,236,Manhattan,Upper East Side North,236,Manhattan,Upper East Side North,1,29.6,0.0,0.5,6.72,0.0,40.32,2.5
+628,629,2023-04-22 00:21:10,2023-04-22 00:33:18,1.0,2.15,1.0,232,Manhattan,Two Bridges/Seward Park,170,Manhattan,Murray Hill,1,14.2,1.0,0.5,1.0,0.0,20.2,2.5
+629,630,2023-04-21 17:22:46,2023-04-21 17:32:32,1.0,1.3,1.0,143,Manhattan,Lincoln Square West,230,Manhattan,Times Sq/Theatre District,1,9.3,5.0,0.5,2.0,0.0,17.8,2.5
+630,631,2023-04-21 13:21:47,2023-04-21 13:45:38,2.0,10.57,1.0,65,Brooklyn,Downtown Brooklyn/MetroTech,138,Queens,LaGuardia Airport,1,40.8,5.0,0.5,9.46,0.0,56.76,0.0
+631,632,2023-04-20 21:56:08,2023-04-20 22:23:44,1.0,8.61,1.0,138,Queens,LaGuardia Airport,225,Brooklyn,Stuyvesant Heights,1,38.7,6.0,0.5,2.0,0.0,49.95,0.0
+632,633,2023-04-20 13:11:00,2023-04-20 13:48:57,1.0,1.71,1.0,186,Manhattan,Penn Station/Madison Sq West,161,Manhattan,Midtown Center,1,30.3,0.0,0.5,6.86,0.0,41.16,2.5
+633,634,2023-04-20 10:31:37,2023-04-20 10:46:54,1.0,0.51,1.0,164,Manhattan,Midtown South,170,Manhattan,Murray Hill,2,13.5,0.0,0.5,0.0,0.0,17.5,2.5
+634,635,2023-04-19 19:17:12,2023-04-19 19:23:51,1.0,1.21,1.0,90,Manhattan,Flatiron,114,Manhattan,Greenwich Village South,1,8.6,2.5,0.5,0.76,0.0,15.86,2.5
+635,636,2023-04-19 17:56:13,2023-04-19 18:13:51,1.0,2.96,1.0,239,Manhattan,Upper West Side South,42,Manhattan,Central Harlem North,1,18.4,2.5,0.5,2.49,0.0,27.39,2.5
+636,637,2023-04-19 13:54:02,2023-04-19 14:02:43,2.0,1.5,1.0,75,Manhattan,East Harlem South,237,Manhattan,Upper East Side South,1,10.0,2.5,0.5,2.0,0.0,16.0,2.5
+637,638,2023-04-18 21:38:19,2023-04-18 21:48:05,1.0,1.77,1.0,162,Manhattan,Midtown East,236,Manhattan,Upper East Side North,1,12.1,1.0,0.5,2.56,0.0,19.66,2.5
+638,639,2023-04-18 10:56:42,2023-04-18 11:03:37,1.0,0.65,1.0,161,Manhattan,Midtown Center,161,Manhattan,Midtown Center,1,7.9,0.0,0.5,2.98,0.0,14.88,2.5
+639,640,2023-04-17 21:50:24,2023-04-17 21:59:15,1.0,1.9,1.0,144,Manhattan,Little Italy/NoLiTa,90,Manhattan,Flatiron,1,11.4,3.5,0.5,3.25,0.0,19.65,2.5
+640,641,2023-04-17 14:06:11,2023-04-17 14:18:23,1.0,1.64,1.0,234,Manhattan,Union Sq,211,Manhattan,SoHo,1,12.1,0.0,0.5,4.03,0.0,20.13,2.5
+641,642,2023-04-17 12:50:37,2023-04-17 13:11:49,1.0,1.25,1.0,140,Manhattan,Lenox Hill East,263,Manhattan,Yorkville West,2,18.4,0.0,0.5,0.0,0.0,22.4,2.5
+642,643,2023-04-17 08:17:12,2023-04-17 08:26:59,1.0,1.0,1.0,162,Manhattan,Midtown East,161,Manhattan,Midtown Center,1,9.3,2.5,0.5,4.0,0.0,17.3,2.5
+643,644,2023-04-17 08:15:16,2023-04-17 08:29:26,3.0,4.66,1.0,48,Manhattan,Clinton East,152,Manhattan,Manhattanville,1,22.6,0.0,0.5,5.32,0.0,31.92,2.5
+644,645,2023-04-16 19:07:56,2023-04-16 19:28:07,3.0,2.2,1.0,246,Manhattan,West Chelsea/Hudson Yards,137,Manhattan,Kips Bay,1,19.1,2.5,0.5,3.0,0.0,26.1,2.5
+645,646,2023-04-15 23:34:36,2023-04-15 23:42:05,4.0,1.87,1.0,68,Manhattan,East Chelsea,50,Manhattan,Clinton West,2,10.7,1.0,0.5,0.0,0.0,15.7,2.5
+646,647,2023-04-15 20:41:46,2023-04-15 21:14:47,2.0,13.24,1.0,68,Manhattan,East Chelsea,14,Brooklyn,Bay Ridge,1,55.5,1.0,0.5,0.0,6.55,67.05,2.5
+647,648,2023-04-15 14:45:04,2023-04-15 14:49:22,1.0,0.8,1.0,75,Manhattan,East Harlem South,236,Manhattan,Upper East Side North,2,6.5,2.5,0.5,0.0,0.0,10.5,2.5
+648,649,2023-04-15 12:37:49,2023-04-15 12:59:58,1.0,10.1,1.0,230,Manhattan,Times Sq/Theatre District,138,Queens,LaGuardia Airport,1,41.5,7.5,0.5,10.0,6.55,67.05,2.5
+649,650,2023-04-14 19:06:25,2023-04-14 19:21:09,1.0,3.6,1.0,140,Manhattan,Lenox Hill East,24,Manhattan,Bloomingdale,1,18.4,5.0,0.5,6.23,0.0,31.13,2.5
+650,651,2023-04-14 17:55:13,2023-04-14 18:06:52,1.0,1.85,1.0,238,Manhattan,Upper West Side North,236,Manhattan,Upper East Side North,1,13.5,2.5,0.5,4.0,0.0,24.0,2.5
+651,652,2023-04-14 16:56:39,2023-04-14 17:11:00,1.0,2.9,1.0,162,Manhattan,Midtown East,43,Manhattan,Central Park,1,16.3,2.5,0.5,4.56,0.0,27.36,2.5
+652,653,2023-04-13 13:57:11,2023-04-13 14:00:20,2.0,0.7,1.0,233,Manhattan,UN/Turtle Bay South,229,Manhattan,Sutton Place/Turtle Bay North,1,5.8,2.5,0.5,1.0,0.0,10.8,2.5
+653,654,2023-04-13 09:26:56,2023-04-13 09:41:18,1.0,1.22,1.0,140,Manhattan,Lenox Hill East,43,Manhattan,Central Park,1,13.5,0.0,0.5,3.5,0.0,21.0,2.5
+654,655,2023-04-12 13:40:52,2023-04-12 13:46:15,2.0,0.8,1.0,166,Manhattan,Morningside Heights,151,Manhattan,Manhattan Valley,1,7.2,0.0,0.5,1.74,0.0,10.44,0.0
+655,656,2023-04-11 22:21:25,2023-04-11 22:36:45,1.0,3.63,1.0,234,Manhattan,Union Sq,141,Manhattan,Lenox Hill West,1,18.4,1.0,0.5,1.0,0.0,24.4,2.5
+656,657,2023-04-11 19:06:25,2023-04-11 19:13:27,1.0,1.58,1.0,142,Manhattan,Lincoln Square East,238,Manhattan,Upper West Side North,2,10.0,2.5,0.5,0.0,0.0,16.5,2.5
+657,658,2023-04-11 17:11:54,2023-04-11 17:19:49,1.0,1.52,1.0,170,Manhattan,Murray Hill,79,Manhattan,East Village,1,10.0,2.5,0.5,3.3,0.0,19.8,2.5
+658,659,2023-04-10 19:44:02,2023-04-10 19:48:26,1.0,0.56,1.0,163,Manhattan,Midtown North,142,Manhattan,Lincoln Square East,1,5.8,2.5,0.5,1.5,0.0,13.8,2.5
+659,660,2023-04-09 22:05:06,2023-04-09 22:09:28,1.0,0.76,1.0,263,Manhattan,Yorkville West,236,Manhattan,Upper East Side North,1,6.5,1.0,0.5,1.72,0.0,13.22,2.5
+660,661,2023-04-09 09:19:21,2023-04-09 09:25:55,1.0,1.8,1.0,114,Manhattan,Greenwich Village South,186,Manhattan,Penn Station/Madison Sq West,1,9.3,2.5,0.5,2.65,0.0,15.95,2.5
+661,662,2023-04-08 21:28:34,2023-04-08 21:39:48,2.0,2.4,1.0,48,Manhattan,Clinton East,249,Manhattan,West Village,1,12.1,3.5,0.5,3.4,0.0,20.5,2.5
+662,663,2023-04-08 18:15:22,2023-04-08 18:47:09,5.0,2.25,1.0,162,Manhattan,Midtown East,48,Manhattan,Clinton East,2,26.8,0.0,0.5,0.0,0.0,30.8,2.5
+663,664,2023-04-07 23:45:20,2023-04-07 23:58:48,1.0,2.5,1.0,234,Manhattan,Union Sq,142,Manhattan,Lincoln Square East,1,15.6,3.5,0.5,2.0,0.0,22.6,2.5
+664,665,2023-04-07 19:59:20,2023-04-07 20:07:29,1.0,1.68,1.0,151,Manhattan,Manhattan Valley,239,Manhattan,Upper West Side South,2,10.7,2.5,0.5,0.0,0.0,17.2,2.5
+665,666,2023-04-07 15:48:48,2023-04-07 16:00:35,4.0,2.73,1.0,50,Manhattan,Clinton West,249,Manhattan,West Village,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+666,667,2023-04-07 10:17:20,2023-04-07 10:20:47,1.0,0.6,1.0,239,Manhattan,Upper West Side South,238,Manhattan,Upper West Side North,1,5.8,0.0,0.5,1.96,0.0,11.76,2.5
+667,668,2023-04-07 00:22:17,2023-04-07 00:26:11,1.0,1.1,1.0,229,Manhattan,Sutton Place/Turtle Bay North,137,Manhattan,Kips Bay,1,7.2,3.5,0.5,1.22,0.0,13.42,2.5
+668,669,2023-04-06 21:43:06,2023-04-06 21:46:30,1.0,1.89,1.0,238,Manhattan,Upper West Side North,166,Manhattan,Morningside Heights,1,9.3,1.0,0.5,3.54,0.0,15.34,0.0
+669,670,2023-04-06 14:49:56,2023-04-06 14:56:29,1.0,1.19,1.0,90,Manhattan,Flatiron,113,Manhattan,Greenwich Village North,4,8.6,0.0,0.5,0.0,0.0,12.6,2.5
+670,671,2023-04-06 13:20:40,2023-04-06 13:56:40,2.0,17.7,2.0,132,Queens,JFK Airport,74,Manhattan,East Harlem North,2,70.0,0.0,0.5,0.0,0.0,73.25,0.0
+671,672,2023-04-05 21:07:46,2023-04-05 21:33:10,1.0,6.24,1.0,148,Manhattan,Lower East Side,239,Manhattan,Upper West Side South,1,31.7,1.0,0.5,9.18,0.0,45.88,2.5
+672,673,2023-04-05 20:32:19,2023-04-05 20:39:01,1.0,1.39,1.0,48,Manhattan,Clinton East,90,Manhattan,Flatiron,1,9.3,1.0,0.5,1.0,0.0,15.3,2.5
+673,674,2023-04-05 19:03:48,2023-04-05 19:08:18,2.0,0.91,1.0,87,Manhattan,Financial District North,231,Manhattan,TriBeCa/Civic Center,1,6.5,2.5,0.5,2.6,0.0,15.6,2.5
+674,675,2023-04-05 07:30:26,2023-04-05 07:36:10,1.0,0.8,1.0,229,Manhattan,Sutton Place/Turtle Bay North,162,Manhattan,Midtown East,1,6.5,2.5,0.5,2.1,0.0,12.6,2.5
+675,676,2023-04-04 17:03:39,2023-04-04 17:19:34,1.0,1.92,1.0,234,Manhattan,Union Sq,229,Manhattan,Sutton Place/Turtle Bay North,1,15.6,2.5,0.5,4.42,0.0,26.52,2.5
+676,677,2023-04-03 22:03:11,2023-04-03 22:11:31,2.0,1.37,1.0,236,Manhattan,Upper East Side North,140,Manhattan,Lenox Hill East,1,10.0,1.0,0.5,3.0,0.0,18.0,2.5
+677,678,2023-04-03 19:24:44,2023-04-03 19:28:46,1.0,0.56,1.0,142,Manhattan,Lincoln Square East,48,Manhattan,Clinton East,2,5.8,2.5,0.5,0.0,0.0,12.3,2.5
+678,679,2023-04-03 17:00:58,2023-04-03 17:17:38,1.0,2.7,1.0,143,Manhattan,Lincoln Square West,262,Manhattan,Yorkville East,1,16.3,5.0,0.5,4.0,0.0,26.8,2.5
+679,680,2023-04-03 08:24:05,2023-04-03 08:42:09,1.0,2.15,1.0,234,Manhattan,Union Sq,229,Manhattan,Sutton Place/Turtle Bay North,1,17.0,0.0,0.5,1.0,0.0,22.0,2.5
+680,681,2023-04-02 17:50:42,2023-04-02 18:00:17,2.0,1.44,1.0,186,Manhattan,Penn Station/Madison Sq West,107,Manhattan,Gramercy,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+681,682,2023-04-02 17:27:58,2023-04-02 17:40:57,2.0,1.44,1.0,148,Manhattan,Lower East Side,113,Manhattan,Greenwich Village North,2,12.8,0.0,0.5,0.0,0.0,16.8,2.5
+682,683,2023-04-02 15:55:02,2023-04-02 16:27:55,1.0,10.36,1.0,138,Queens,LaGuardia Airport,243,Manhattan,Washington Heights North,1,45.0,6.0,0.5,9.0,6.55,69.3,0.0
+683,684,2023-04-02 13:25:42,2023-04-02 13:39:27,1.0,2.73,1.0,261,Manhattan,World Trade Center,68,Manhattan,East Chelsea,1,16.3,0.0,0.5,4.06,0.0,24.36,2.5
+684,685,2023-04-01 18:45:54,2023-04-01 18:54:21,1.0,1.66,1.0,246,Manhattan,West Chelsea/Hudson Yards,48,Manhattan,Clinton East,1,10.7,0.0,0.5,0.0,0.0,14.7,2.5
+685,686,2023-04-01 13:32:44,2023-04-01 13:36:24,1.0,1.0,1.0,229,Manhattan,Sutton Place/Turtle Bay North,141,Manhattan,Lenox Hill West,3,6.5,2.5,0.5,0.0,0.0,10.5,2.5
+686,687,2023-04-01 03:07:04,2023-04-01 03:18:11,2.0,1.71,1.0,148,Manhattan,Lower East Side,231,Manhattan,TriBeCa/Civic Center,1,12.8,1.0,0.5,1.0,0.0,18.8,2.5
+687,688,2023-03-31 17:18:01,2023-03-31 17:24:35,1.0,0.69,1.0,233,Manhattan,UN/Turtle Bay South,237,Manhattan,Upper East Side South,1,7.2,2.5,0.5,1.5,0.0,15.2,2.5
+688,689,2023-03-31 14:01:15,2023-03-31 14:19:22,1.0,2.1,1.0,230,Manhattan,Times Sq/Theatre District,237,Manhattan,Upper East Side South,2,15.6,2.5,0.5,0.0,0.0,19.6,2.5
+689,690,2023-03-30 18:52:27,2023-03-30 19:11:45,1.0,2.78,1.0,170,Manhattan,Murray Hill,263,Manhattan,Yorkville West,1,19.1,2.5,0.5,5.12,0.0,30.72,2.5
+690,691,2023-03-30 16:04:14,2023-03-30 16:13:48,1.0,1.1,1.0,161,Manhattan,Midtown Center,237,Manhattan,Upper East Side South,1,10.7,5.0,0.5,3.44,0.0,20.64,2.5
+691,692,2023-03-30 15:59:15,2023-03-30 16:11:14,1.0,0.56,1.0,161,Manhattan,Midtown Center,161,Manhattan,Midtown Center,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+692,693,2023-03-30 15:10:08,2023-03-30 15:45:05,1.0,5.13,1.0,13,Manhattan,Battery Park City,161,Manhattan,Midtown Center,1,33.8,0.0,0.5,7.56,0.0,45.36,2.5
+693,694,2023-03-30 14:51:57,2023-03-30 15:14:24,1.0,2.36,1.0,186,Manhattan,Penn Station/Madison Sq West,237,Manhattan,Upper East Side South,1,20.5,0.0,0.5,4.9,0.0,29.4,2.5
+694,695,2023-03-30 13:42:00,2023-03-30 13:46:13,0.0,0.4,1.0,170,Manhattan,Murray Hill,170,Manhattan,Murray Hill,2,5.8,2.5,0.5,0.0,0.0,9.8,2.5
+695,696,2023-03-29 08:25:11,2023-03-29 08:37:49,1.0,1.84,1.0,68,Manhattan,East Chelsea,50,Manhattan,Clinton West,1,13.5,0.0,0.5,3.5,0.0,21.0,2.5
+696,697,2023-03-28 20:48:02,2023-03-28 20:53:41,1.0,1.06,1.0,234,Manhattan,Union Sq,170,Manhattan,Murray Hill,1,7.9,1.0,0.5,1.94,0.0,14.84,2.5
+697,698,2023-03-28 15:50:43,2023-03-28 16:10:09,2.0,1.4,1.0,186,Manhattan,Penn Station/Madison Sq West,230,Manhattan,Times Sq/Theatre District,1,13.5,2.5,0.5,3.5,0.0,21.0,2.5
+698,699,2023-03-28 15:41:48,2023-03-28 16:00:12,1.0,1.96,1.0,161,Manhattan,Midtown Center,236,Manhattan,Upper East Side North,1,17.0,0.0,0.5,2.0,0.0,23.0,2.5
+699,700,2023-03-28 11:58:18,2023-03-28 12:02:00,1.0,0.3,1.0,236,Manhattan,Upper East Side North,236,Manhattan,Upper East Side North,2,5.1,2.5,0.5,0.0,0.0,9.1,2.5
+700,701,2023-03-27 18:33:36,2023-03-27 18:36:44,1.0,0.53,1.0,142,Manhattan,Lincoln Square East,43,Manhattan,Central Park,1,5.1,2.5,0.5,1.16,0.0,12.76,2.5
+701,702,2023-03-26 21:37:22,2023-03-26 22:06:37,2.0,16.87,2.0,132,Queens,JFK Airport,164,Manhattan,Midtown South,1,70.0,0.0,0.5,12.08,6.55,92.63,2.5
+702,703,2023-03-26 01:27:43,2023-03-26 01:43:43,1.0,3.22,1.0,148,Manhattan,Lower East Side,157,Queens,Maspeth,1,18.4,1.0,0.5,5.0,0.0,28.4,2.5
+703,704,2023-03-25 20:10:38,2023-03-25 20:21:09,1.0,1.51,1.0,148,Manhattan,Lower East Side,231,Manhattan,TriBeCa/Civic Center,2,11.4,1.0,0.5,0.0,0.0,16.4,2.5
+704,705,2023-03-25 06:08:21,2023-03-25 06:21:15,1.0,3.68,1.0,100,Manhattan,Garment District,112,Brooklyn,Greenpoint,2,17.7,0.0,0.5,0.0,6.55,28.25,2.5
+705,706,2023-03-25 01:18:07,2023-03-25 01:43:48,1.0,0.0,1.0,186,Manhattan,Penn Station/Madison Sq West,116,Manhattan,Hamilton Heights,2,20.5,1.0,0.5,0.0,0.0,25.5,2.5
+706,707,2023-03-25 01:11:29,2023-03-25 01:19:48,1.0,1.23,1.0,107,Manhattan,Gramercy,79,Manhattan,East Village,1,9.3,1.0,0.5,2.86,0.0,17.16,2.5
+707,708,2023-03-24 23:27:20,2023-03-24 23:36:04,1.0,1.1,1.0,4,Manhattan,Alphabet City,211,Manhattan,SoHo,1,7.9,3.5,0.5,2.6,0.0,15.5,2.5
+708,709,2023-03-24 12:10:09,2023-03-24 12:25:21,1.0,1.43,1.0,186,Manhattan,Penn Station/Madison Sq West,161,Manhattan,Midtown Center,2,14.2,0.0,0.5,0.0,0.0,18.2,2.5
+709,710,2023-03-24 10:42:49,2023-03-24 10:54:17,1.0,1.9,1.0,236,Manhattan,Upper East Side North,163,Manhattan,Midtown North,1,12.1,0.0,0.5,1.5,0.0,17.6,2.5
+710,711,2023-03-23 22:56:27,2023-03-24 00:00:01,1.0,20.4,2.0,132,Queens,JFK Airport,211,Manhattan,SoHo,1,70.0,3.75,0.5,15.05,0.0,90.3,2.5
+711,712,2023-03-23 06:03:28,2023-03-23 06:16:22,1.0,8.22,1.0,262,Manhattan,Yorkville East,138,Queens,LaGuardia Airport,1,32.4,6.0,0.5,6.0,6.55,54.95,2.5
+712,713,2023-03-22 15:55:04,2023-03-22 16:28:03,1.0,9.57,1.0,138,Queens,LaGuardia Airport,90,Manhattan,Flatiron,1,43.6,5.0,0.5,10.0,6.55,70.4,2.5
+713,714,2023-03-21 20:58:50,2023-03-21 21:14:00,1.0,4.03,1.0,234,Manhattan,Union Sq,239,Manhattan,Upper West Side South,1,19.1,1.0,0.5,6.03,0.0,30.13,2.5
+714,715,2023-03-21 13:51:17,2023-03-21 14:06:19,1.0,1.46,1.0,234,Manhattan,Union Sq,100,Manhattan,Garment District,2,14.2,0.0,0.5,0.0,0.0,18.2,2.5
+715,716,2023-03-21 12:51:57,2023-03-21 13:00:46,2.0,1.0,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,10.0,2.5,0.5,2.1,0.0,16.1,2.5
+716,717,2023-03-21 10:04:05,2023-03-21 10:17:47,1.0,2.2,1.0,238,Manhattan,Upper West Side North,48,Manhattan,Clinton East,2,14.9,0.0,0.5,0.0,0.0,18.9,2.5
+717,718,2023-03-20 22:07:00,2023-03-20 22:25:03,1.0,4.67,1.0,68,Manhattan,East Chelsea,263,Manhattan,Yorkville West,1,22.6,1.0,0.5,5.52,0.0,33.12,2.5
+718,719,2023-03-20 13:51:54,2023-03-20 14:08:20,1.0,1.71,1.0,237,Manhattan,Upper East Side South,100,Manhattan,Garment District,1,14.9,0.0,0.5,3.78,0.0,22.68,2.5
+719,720,2023-03-19 20:38:27,2023-03-19 20:46:51,1.0,1.76,1.0,68,Manhattan,East Chelsea,249,Manhattan,West Village,1,10.7,1.0,0.5,3.14,0.0,18.84,2.5
+720,721,2023-03-19 07:23:47,2023-03-19 07:52:42,2.0,2.57,1.0,162,Manhattan,Midtown East,186,Manhattan,Penn Station/Madison Sq West,2,25.4,0.0,0.5,0.0,0.0,29.4,2.5
+721,722,2023-03-18 22:20:54,2023-03-18 22:35:58,3.0,1.31,1.0,100,Manhattan,Garment District,234,Manhattan,Union Sq,1,14.2,1.0,0.5,2.0,0.0,21.2,2.5
+722,723,2023-03-18 21:59:02,2023-03-18 22:34:59,1.0,19.06,2.0,132,Queens,JFK Airport,262,Manhattan,Yorkville East,1,70.0,0.0,0.5,0.1,6.55,81.9,2.5
+723,724,2023-03-18 12:37:03,2023-03-18 12:42:08,1.0,0.96,1.0,237,Manhattan,Upper East Side South,141,Manhattan,Lenox Hill West,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+724,725,2023-03-18 11:51:05,2023-03-18 12:02:22,3.0,1.6,1.0,161,Manhattan,Midtown Center,234,Manhattan,Union Sq,2,12.1,0.0,0.5,0.0,0.0,16.1,2.5
+725,726,2023-03-17 17:56:45,2023-03-17 18:07:17,1.0,1.29,1.0,262,Manhattan,Yorkville East,236,Manhattan,Upper East Side North,1,11.4,2.5,0.5,3.58,0.0,21.48,2.5
+726,727,2023-03-17 16:12:01,2023-03-17 17:15:31,2.0,17.2,2.0,132,Queens,JFK Airport,164,Manhattan,Midtown South,1,70.0,5.0,0.5,5.0,6.55,91.8,2.5
+727,728,2023-03-17 15:20:46,2023-03-17 15:29:04,1.0,1.0,1.0,186,Manhattan,Penn Station/Madison Sq West,230,Manhattan,Times Sq/Theatre District,1,9.3,0.0,0.5,3.33,0.0,16.63,2.5
+728,729,2023-03-17 15:18:50,2023-03-17 15:47:51,1.0,2.66,1.0,143,Manhattan,Lincoln Square West,170,Manhattan,Murray Hill,2,24.7,0.0,0.5,0.0,0.0,28.7,2.5
+729,730,2023-03-16 21:02:24,2023-03-16 21:26:00,1.0,4.3,1.0,236,Manhattan,Upper East Side North,68,Manhattan,East Chelsea,1,21.9,3.5,0.5,6.75,0.0,33.65,2.5
+730,731,2023-03-16 16:18:29,2023-03-16 17:35:54,3.0,18.68,2.0,132,Queens,JFK Airport,93,Queens,Flushing Meadows-Corona Park,1,70.0,5.0,0.5,17.36,6.55,104.16,2.5
+731,732,2023-03-16 09:07:01,2023-03-16 09:17:15,1.0,1.2,1.0,237,Manhattan,Upper East Side South,236,Manhattan,Upper East Side North,1,10.0,2.5,0.5,2.1,0.0,16.1,2.5
+732,733,2023-03-15 19:23:46,2023-03-15 19:40:59,1.0,2.09,1.0,79,Manhattan,East Village,164,Manhattan,Midtown South,1,16.3,2.5,0.5,4.56,0.0,27.36,2.5
+733,734,2023-03-15 13:24:05,2023-03-15 13:43:24,1.0,3.2,1.0,140,Manhattan,Lenox Hill East,137,Manhattan,Kips Bay,1,19.8,2.5,0.5,4.75,0.0,28.55,2.5
+734,735,2023-03-14 16:12:52,2023-03-14 16:27:34,1.0,2.7,1.0,141,Manhattan,Lenox Hill West,238,Manhattan,Upper West Side North,1,16.3,2.5,0.5,2.5,0.0,25.3,2.5
+735,736,2023-03-14 11:58:40,2023-03-14 12:32:21,1.0,12.12,1.0,138,Queens,LaGuardia Airport,161,Manhattan,Midtown Center,1,54.1,5.0,0.5,13.93,6.55,84.83,2.5
+736,737,2023-03-14 10:47:16,2023-03-14 10:49:44,1.0,0.5,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,1,5.1,2.5,0.5,1.09,0.0,10.19,2.5
+737,738,2023-03-14 09:42:16,2023-03-14 10:13:13,2.0,10.9,1.0,161,Manhattan,Midtown Center,138,Queens,LaGuardia Airport,2,47.1,7.5,0.5,0.0,6.55,62.65,2.5
+738,739,2023-03-13 20:21:13,2023-03-13 20:25:38,1.0,0.72,1.0,151,Manhattan,Manhattan Valley,151,Manhattan,Manhattan Valley,1,5.8,1.0,0.5,1.66,0.0,9.96,0.0
+739,740,2023-03-12 20:03:25,2023-03-12 20:31:42,2.0,10.76,1.0,138,Queens,LaGuardia Airport,230,Manhattan,Times Sq/Theatre District,1,46.4,6.0,0.5,12.59,6.55,76.79,2.5
+740,741,2023-03-12 18:11:38,2023-03-12 18:17:31,5.0,1.07,1.0,151,Manhattan,Manhattan Valley,239,Manhattan,Upper West Side South,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+741,742,2023-03-12 13:28:08,2023-03-12 13:46:15,5.0,3.01,1.0,87,Manhattan,Financial District North,234,Manhattan,Union Sq,1,19.1,0.0,0.5,4.62,0.0,27.72,2.5
+742,743,2023-03-11 17:28:55,2023-03-11 17:37:46,1.0,0.89,1.0,48,Manhattan,Clinton East,163,Manhattan,Midtown North,2,9.3,0.0,0.5,0.0,0.0,13.3,2.5
+743,744,2023-03-11 13:43:49,2023-03-11 13:49:59,1.0,0.98,1.0,186,Manhattan,Penn Station/Madison Sq West,234,Manhattan,Union Sq,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+744,745,2023-03-10 14:06:56,2023-03-10 14:19:31,1.0,1.87,1.0,230,Manhattan,Times Sq/Theatre District,151,Manhattan,Manhattan Valley,1,13.5,0.0,0.5,3.5,0.0,21.0,2.5
+745,746,2023-03-10 11:48:42,2023-03-10 12:00:44,1.0,1.39,1.0,140,Manhattan,Lenox Hill East,162,Manhattan,Midtown East,1,12.1,0.0,0.5,1.0,0.0,17.1,2.5
+746,747,2023-03-10 10:15:15,2023-03-10 10:42:28,2.0,3.72,1.0,50,Manhattan,Clinton West,263,Manhattan,Yorkville West,2,27.5,0.0,0.5,0.0,0.0,31.5,2.5
+747,748,2023-03-10 07:38:09,2023-03-10 07:59:04,1.0,10.07,1.0,263,Manhattan,Yorkville West,231,Manhattan,TriBeCa/Civic Center,1,40.8,0.0,0.5,8.96,0.0,53.76,2.5
+748,749,2023-03-10 05:30:30,2023-03-10 05:50:30,1.0,11.54,1.0,161,Manhattan,Midtown Center,138,Queens,LaGuardia Airport,1,45.7,6.0,0.5,12.81,8.36,76.87,2.5
+749,750,2023-03-09 22:03:59,2023-03-09 22:21:00,2.0,3.1,1.0,107,Manhattan,Gramercy,236,Manhattan,Upper East Side North,1,19.1,1.0,0.5,4.82,0.0,28.92,2.5
+750,751,2023-03-09 13:29:30,2023-03-09 13:45:26,1.0,1.04,1.0,43,Manhattan,Central Park,161,Manhattan,Midtown Center,1,14.2,0.0,0.5,3.64,0.0,21.84,2.5
+751,752,2023-03-09 13:24:10,2023-03-09 13:27:23,1.0,0.35,1.0,236,Manhattan,Upper East Side North,236,Manhattan,Upper East Side North,1,5.1,0.0,0.5,1.82,0.0,10.92,2.5
+752,753,2023-03-09 08:49:08,2023-03-09 09:32:37,3.0,12.3,1.0,138,Queens,LaGuardia Airport,88,Manhattan,Financial District South,1,50.6,8.75,0.5,13.45,6.55,80.85,2.5
+753,754,2023-03-08 18:52:12,2023-03-08 19:19:09,2.0,5.5,1.0,261,Manhattan,World Trade Center,142,Manhattan,Lincoln Square East,1,29.6,2.5,0.5,7.22,0.0,43.32,2.5
+754,755,2023-03-08 17:27:58,2023-03-08 17:39:33,1.0,1.38,1.0,234,Manhattan,Union Sq,68,Manhattan,East Chelsea,1,12.1,2.5,0.5,3.72,0.0,22.32,2.5
+755,756,2023-03-06 23:00:01,2023-03-06 23:07:50,1.0,1.67,1.0,249,Manhattan,West Village,231,Manhattan,TriBeCa/Civic Center,1,10.0,1.0,0.5,3.4,2.0,20.4,2.5
+756,757,2023-03-05 12:45:11,2023-03-05 12:52:43,1.0,0.99,1.0,79,Manhattan,East Village,114,Manhattan,Greenwich Village South,1,8.6,0.0,0.5,3.15,0.0,15.75,2.5
+757,758,2023-03-04 19:00:22,2023-03-04 19:07:12,1.0,1.44,1.0,261,Manhattan,World Trade Center,87,Manhattan,Financial District North,1,9.3,0.0,0.5,0.0,0.0,13.3,2.5
+758,759,2023-03-04 16:43:23,2023-03-04 16:51:45,1.0,1.06,1.0,261,Manhattan,World Trade Center,144,Manhattan,Little Italy/NoLiTa,2,9.3,0.0,0.5,0.0,0.0,13.3,2.5
+759,760,2023-03-04 15:43:22,2023-03-04 15:59:44,1.0,3.3,1.0,246,Manhattan,West Chelsea/Hudson Yards,239,Manhattan,Upper West Side South,1,17.7,2.5,0.5,4.3,0.0,26.0,2.5
+760,761,2023-03-04 14:38:35,2023-03-04 14:46:41,2.0,1.66,1.0,142,Manhattan,Lincoln Square East,43,Manhattan,Central Park,1,10.7,0.0,0.5,2.25,0.0,16.95,2.5
+761,762,2023-03-04 02:49:43,2023-03-04 03:08:52,1.0,5.19,1.0,141,Manhattan,Lenox Hill West,223,Queens,Steinway,1,25.4,1.0,0.5,6.08,0.0,36.48,2.5
+762,763,2023-03-04 00:22:59,2023-03-04 00:31:27,1.0,1.31,1.0,158,Manhattan,Meatpacking/West Village West,79,Manhattan,East Village,1,9.3,1.0,0.5,2.86,0.0,17.16,2.5
+763,764,2023-03-03 23:25:15,2023-03-03 23:34:27,2.0,1.11,1.0,230,Manhattan,Times Sq/Theatre District,229,Manhattan,Sutton Place/Turtle Bay North,1,10.0,1.0,0.5,3.0,0.0,18.0,2.5
+764,765,2023-03-03 18:14:22,2023-03-03 18:38:48,3.0,3.72,1.0,142,Manhattan,Lincoln Square East,113,Manhattan,Greenwich Village North,2,23.3,2.5,0.5,0.0,0.0,29.8,2.5
+765,766,2023-03-03 08:16:32,2023-03-03 08:42:41,4.0,6.19,1.0,161,Manhattan,Midtown Center,13,Manhattan,Battery Park City,1,33.1,0.0,0.5,7.42,0.0,44.52,2.5
+766,767,2023-03-02 17:18:08,2023-03-02 17:22:54,1.0,0.63,1.0,141,Manhattan,Lenox Hill West,236,Manhattan,Upper East Side North,2,6.5,2.5,0.5,0.0,0.0,13.0,2.5
+767,768,2023-03-02 17:12:46,2023-03-02 17:46:16,1.0,5.29,1.0,137,Manhattan,Kips Bay,151,Manhattan,Manhattan Valley,1,32.4,2.5,0.5,7.78,0.0,46.68,2.5
+768,769,2023-03-02 11:02:20,2023-03-02 11:12:13,1.0,1.0,1.0,48,Manhattan,Clinton East,230,Manhattan,Times Sq/Theatre District,1,9.3,2.5,0.5,2.65,0.0,15.95,2.5
+769,770,2023-03-01 22:21:48,2023-03-01 22:23:00,1.0,0.63,1.0,138,Queens,LaGuardia Airport,138,Queens,LaGuardia Airport,2,5.1,6.0,0.5,0.0,0.0,13.85,0.0
+770,771,2023-03-01 13:56:36,2023-03-01 14:17:36,1.0,2.4,1.0,249,Manhattan,West Village,161,Manhattan,Midtown Center,1,16.3,2.5,0.5,6.05,0.0,26.35,2.5
+771,772,2023-02-28 14:56:23,2023-02-28 15:09:34,1.0,2.41,1.0,231,Manhattan,TriBeCa/Civic Center,234,Manhattan,Union Sq,1,14.9,0.0,0.5,2.0,0.0,20.9,2.5
+772,773,2023-02-27 23:39:44,2023-02-28 00:20:09,1.0,8.9,1.0,142,Manhattan,Lincoln Square East,17,Brooklyn,Bedford,1,42.2,3.5,0.5,14.15,0.0,61.35,2.5
+773,774,2023-02-27 17:18:32,2023-02-27 17:28:02,1.0,1.61,1.0,68,Manhattan,East Chelsea,48,Manhattan,Clinton East,1,11.4,2.5,0.5,5.37,0.0,23.27,2.5
+774,775,2023-02-27 16:11:20,2023-02-27 17:27:43,2.0,15.8,1.0,264,Unknown,,227,Brooklyn,Sunset Park East,1,58.3,5.0,0.5,6.6,0.0,72.65,0.0
+775,776,2023-02-26 08:07:04,2023-02-26 08:11:22,1.0,1.3,1.0,229,Manhattan,Sutton Place/Turtle Bay North,141,Manhattan,Lenox Hill West,1,7.9,0.0,0.5,3.57,0.0,15.47,2.5
+776,777,2023-02-26 00:27:08,2023-02-26 00:31:55,1.0,0.6,1.0,107,Manhattan,Gramercy,114,Manhattan,Greenwich Village South,1,5.8,3.5,0.5,2.15,0.0,12.95,2.5
+777,778,2023-02-25 18:27:56,2023-02-25 18:37:59,1.0,1.95,1.0,237,Manhattan,Upper East Side South,262,Manhattan,Yorkville East,1,12.8,0.0,0.5,2.52,0.0,19.32,2.5
+778,779,2023-02-24 21:12:02,2023-02-24 21:27:44,1.0,7.67,1.0,48,Manhattan,Clinton East,244,Manhattan,Washington Heights South,1,31.7,1.0,0.5,7.34,0.0,44.04,2.5
+779,780,2023-02-24 18:40:20,2023-02-24 18:55:07,1.0,1.53,1.0,234,Manhattan,Union Sq,230,Manhattan,Times Sq/Theatre District,1,14.2,2.5,0.5,4.14,0.0,24.84,2.5
+780,781,2023-02-24 10:42:06,2023-02-24 11:02:40,1.0,5.66,1.0,75,Manhattan,East Harlem South,68,Manhattan,East Chelsea,1,28.9,0.0,0.5,8.22,0.0,41.12,2.5
+781,782,2023-02-24 07:27:19,2023-02-24 07:34:35,2.0,1.2,1.0,142,Manhattan,Lincoln Square East,239,Manhattan,Upper West Side South,1,9.3,2.5,0.5,1.0,0.0,14.3,2.5
+782,783,2023-02-24 01:41:00,2023-02-24 02:04:56,1.0,6.0,1.0,90,Manhattan,Flatiron,202,Manhattan,Roosevelt Island,2,27.5,3.5,0.5,0.0,0.0,32.5,2.5
+783,784,2023-02-23 22:50:35,2023-02-23 23:03:08,1.0,2.54,1.0,48,Manhattan,Clinton East,137,Manhattan,Kips Bay,1,14.9,1.0,0.5,4.98,0.0,24.88,2.5
+784,785,2023-02-23 18:36:45,2023-02-23 18:41:30,1.0,0.63,1.0,143,Manhattan,Lincoln Square West,142,Manhattan,Lincoln Square East,1,6.5,2.5,0.5,0.0,0.0,13.0,2.5
+785,786,2023-02-23 10:59:37,2023-02-23 11:21:04,1.0,1.65,1.0,50,Manhattan,Clinton West,43,Manhattan,Central Park,1,16.3,0.0,0.5,5.08,0.0,25.38,2.5
+786,787,2023-02-22 17:45:24,2023-02-22 18:05:54,4.0,2.63,1.0,162,Manhattan,Midtown East,113,Manhattan,Greenwich Village North,1,19.1,2.5,0.5,5.12,0.0,30.72,2.5
+787,788,2023-02-22 13:47:02,2023-02-22 13:58:57,1.0,1.71,1.0,239,Manhattan,Upper West Side South,262,Manhattan,Yorkville East,1,12.8,0.0,0.5,2.52,0.0,19.32,2.5
+788,789,2023-02-22 04:25:16,2023-02-22 04:34:54,5.0,2.29,1.0,48,Manhattan,Clinton East,107,Manhattan,Gramercy,2,12.8,1.0,0.5,0.0,0.0,17.8,2.5
+789,790,2023-02-21 17:04:19,2023-02-21 17:09:54,1.0,1.4,1.0,141,Manhattan,Lenox Hill West,263,Manhattan,Yorkville West,1,8.6,5.0,0.5,3.0,0.0,18.1,2.5
+790,791,2023-02-21 10:15:06,2023-02-21 10:51:25,1.0,10.26,1.0,138,Queens,LaGuardia Airport,163,Manhattan,Midtown North,1,47.8,5.0,0.5,3.0,6.55,67.6,2.5
+791,792,2023-02-19 00:07:51,2023-02-19 00:18:19,2.0,2.1,1.0,114,Manhattan,Greenwich Village South,137,Manhattan,Kips Bay,1,11.4,3.5,0.5,0.0,0.0,16.4,2.5
+792,793,2023-02-18 23:05:11,2023-02-18 23:19:58,1.0,1.31,1.0,48,Manhattan,Clinton East,186,Manhattan,Penn Station/Madison Sq West,1,13.5,1.0,0.5,3.7,0.0,22.2,2.5
+793,794,2023-02-18 17:28:59,2023-02-18 17:40:24,2.0,1.54,1.0,137,Manhattan,Kips Bay,161,Manhattan,Midtown Center,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+794,795,2023-02-17 03:12:59,2023-02-17 03:24:28,3.0,2.15,1.0,141,Manhattan,Lenox Hill West,143,Manhattan,Lincoln Square West,1,13.5,1.0,0.5,3.7,0.0,22.2,2.5
+795,796,2023-02-16 17:28:52,2023-02-16 17:32:40,1.0,0.74,1.0,234,Manhattan,Union Sq,234,Manhattan,Union Sq,1,5.8,2.5,0.5,2.46,0.0,14.76,2.5
+796,797,2023-02-16 16:37:59,2023-02-16 16:52:26,1.0,1.31,1.0,164,Manhattan,Midtown South,162,Manhattan,Midtown East,1,13.5,2.5,0.5,6.0,0.0,26.0,2.5
+797,798,2023-02-15 16:11:58,2023-02-15 16:19:54,1.0,1.3,1.0,237,Manhattan,Upper East Side South,75,Manhattan,East Harlem South,1,9.3,2.5,0.5,3.95,0.0,19.75,2.5
+798,799,2023-02-15 07:16:58,2023-02-15 07:28:42,1.0,1.68,1.0,48,Manhattan,Clinton East,234,Manhattan,Union Sq,1,12.8,0.0,0.5,3.36,0.0,20.16,2.5
+799,800,2023-02-14 19:32:37,2023-02-14 19:45:01,1.0,1.3,1.0,164,Manhattan,Midtown South,162,Manhattan,Midtown East,2,12.1,5.0,0.5,0.0,0.0,18.6,2.5
+800,801,2023-02-14 18:20:56,2023-02-14 18:25:57,1.0,0.85,1.0,141,Manhattan,Lenox Hill West,236,Manhattan,Upper East Side North,1,7.2,2.5,0.5,3.42,0.0,17.12,2.5
+801,802,2023-02-14 08:43:25,2023-02-14 09:22:15,2.0,9.2,1.0,237,Manhattan,Upper East Side South,52,Brooklyn,Cobble Hill,1,45.0,2.5,0.5,12.25,0.0,61.25,2.5
+802,803,2023-02-13 17:29:53,2023-02-13 17:43:58,1.0,3.6,1.0,246,Manhattan,West Chelsea/Hudson Yards,13,Manhattan,Battery Park City,1,18.4,5.0,0.5,4.95,0.0,29.85,2.5
+803,804,2023-02-12 22:08:08,2023-02-12 22:14:45,2.0,1.45,1.0,162,Manhattan,Midtown East,234,Manhattan,Union Sq,2,8.6,1.0,0.5,0.0,0.0,13.6,2.5
+804,805,2023-02-12 10:45:05,2023-02-12 10:58:03,1.0,2.54,1.0,264,Unknown,,233,Manhattan,UN/Turtle Bay South,2,14.9,0.0,0.5,0.0,0.0,18.9,2.5
+805,806,2023-02-12 03:09:50,2023-02-12 03:15:23,1.0,0.17,1.0,79,Manhattan,East Village,79,Manhattan,East Village,4,-6.5,-1.0,-0.5,0.0,0.0,-11.5,-2.5
+806,807,2023-02-12 01:06:35,2023-02-12 01:19:00,1.0,1.3,1.0,107,Manhattan,Gramercy,148,Manhattan,Lower East Side,1,11.4,3.5,0.5,3.3,0.0,19.7,2.5
+807,808,2023-02-11 23:10:02,2023-02-11 23:22:04,2.0,2.11,1.0,236,Manhattan,Upper East Side North,238,Manhattan,Upper West Side North,1,13.5,1.0,0.5,3.7,0.0,22.2,2.5
+808,809,2023-02-11 21:04:21,2023-02-11 21:18:32,1.0,1.38,1.0,79,Manhattan,East Village,249,Manhattan,West Village,1,13.5,1.0,0.5,3.7,0.0,22.2,2.5
+809,810,2023-02-11 18:26:19,2023-02-11 18:33:09,1.0,0.93,1.0,239,Manhattan,Upper West Side South,239,Manhattan,Upper West Side South,2,7.9,0.0,0.5,0.0,0.0,11.9,2.5
+810,811,2023-02-11 17:01:33,2023-02-11 18:04:28,1.0,18.18,2.0,132,Queens,JFK Airport,230,Manhattan,Times Sq/Theatre District,1,70.0,0.0,0.5,16.11,6.55,97.91,2.5
+811,812,2023-02-11 08:55:21,2023-02-11 09:16:10,1.0,16.71,2.0,137,Manhattan,Kips Bay,132,Queens,JFK Airport,1,70.0,0.0,0.5,24.16,6.55,104.71,2.5
+812,813,2023-02-11 02:27:32,2023-02-11 02:33:21,0.0,1.0,1.0,114,Manhattan,Greenwich Village South,249,Manhattan,West Village,1,7.2,3.5,0.5,2.4,0.0,14.6,2.5
+813,814,2023-02-11 01:46:59,2023-02-11 02:00:42,0.0,3.5,1.0,48,Manhattan,Clinton East,140,Manhattan,Lenox Hill East,1,17.7,3.5,0.5,4.5,0.0,27.2,2.5
+814,815,2023-02-10 17:30:32,2023-02-10 17:42:22,1.0,2.09,1.0,233,Manhattan,UN/Turtle Bay South,263,Manhattan,Yorkville West,1,12.8,2.5,0.5,1.0,0.0,20.3,2.5
+815,816,2023-02-10 08:12:56,2023-02-10 08:17:56,1.0,0.89,1.0,234,Manhattan,Union Sq,164,Manhattan,Midtown South,1,7.2,0.0,0.5,2.8,0.0,14.0,2.5
+816,817,2023-02-10 08:06:57,2023-02-10 09:02:32,1.0,12.51,1.0,132,Queens,JFK Airport,17,Brooklyn,Bedford,1,60.4,0.0,0.5,5.0,0.0,68.15,0.0
+817,818,2023-02-10 03:09:28,2023-02-10 03:18:15,1.0,1.9,1.0,186,Manhattan,Penn Station/Madison Sq West,229,Manhattan,Sutton Place/Turtle Bay North,1,10.7,3.5,0.5,3.0,0.0,18.7,2.5
+818,819,2023-02-10 00:37:07,2023-02-10 00:57:49,4.0,4.21,1.0,142,Manhattan,Lincoln Square East,125,Manhattan,Hudson Sq,2,22.6,1.0,0.5,0.0,0.0,27.6,2.5
+819,820,2023-02-09 16:26:44,2023-02-09 16:40:02,1.0,2.0,1.0,237,Manhattan,Upper East Side South,239,Manhattan,Upper West Side South,1,14.2,2.5,0.5,0.0,0.0,20.7,2.5
+820,821,2023-02-09 16:08:18,2023-02-09 16:26:16,1.0,2.99,1.0,236,Manhattan,Upper East Side North,48,Manhattan,Clinton East,2,18.4,2.5,0.5,0.0,0.0,24.9,2.5
+821,822,2023-02-09 10:23:49,2023-02-09 10:28:58,1.0,0.56,1.0,48,Manhattan,Clinton East,163,Manhattan,Midtown North,1,6.5,0.0,0.5,3.0,0.0,13.5,2.5
+822,823,2023-02-08 20:47:15,2023-02-08 20:58:35,3.0,2.81,1.0,231,Manhattan,TriBeCa/Civic Center,68,Manhattan,East Chelsea,1,14.9,1.0,0.5,4.0,0.0,23.9,2.5
+823,824,2023-02-08 14:27:12,2023-02-08 14:37:37,1.0,1.3,1.0,236,Manhattan,Upper East Side North,163,Manhattan,Midtown North,1,10.7,2.5,0.5,5.88,0.0,20.58,2.5
+824,825,2023-02-08 12:37:55,2023-02-08 13:05:12,1.0,3.07,1.0,239,Manhattan,Upper West Side South,170,Manhattan,Murray Hill,1,24.7,0.0,0.5,5.74,0.0,34.44,2.5
+825,826,2023-02-08 11:16:10,2023-02-08 11:22:52,1.0,1.0,1.0,114,Manhattan,Greenwich Village South,158,Manhattan,Meatpacking/West Village West,1,8.6,2.5,0.5,2.5,0.0,15.1,2.5
+826,827,2023-02-08 10:27:33,2023-02-08 10:49:06,1.0,2.26,1.0,164,Manhattan,Midtown South,148,Manhattan,Lower East Side,1,20.5,0.0,0.5,4.9,0.0,29.4,2.5
+827,828,2023-02-07 13:48:23,2023-02-07 13:58:20,1.0,1.5,1.0,231,Manhattan,TriBeCa/Civic Center,114,Manhattan,Greenwich Village South,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+828,829,2023-02-06 17:37:53,2023-02-06 18:00:20,1.0,3.47,1.0,166,Manhattan,Morningside Heights,237,Manhattan,Upper East Side South,1,22.6,2.5,0.5,5.82,0.0,34.92,2.5
+829,830,2023-02-06 08:27:54,2023-02-06 08:45:53,2.0,1.89,1.0,229,Manhattan,Sutton Place/Turtle Bay North,186,Manhattan,Penn Station/Madison Sq West,1,17.0,0.0,0.5,4.2,0.0,25.2,2.5
+830,831,2023-02-06 06:23:11,2023-02-06 06:43:31,1.0,8.1,1.0,68,Manhattan,East Chelsea,244,Manhattan,Washington Heights South,2,35.2,2.5,0.5,0.0,0.0,39.2,2.5
+831,832,2023-02-05 18:39:05,2023-02-05 19:10:29,2.0,10.39,1.0,138,Queens,LaGuardia Airport,61,Brooklyn,Crown Heights North,1,45.0,5.0,0.5,10.0,0.0,62.75,0.0
+832,833,2023-02-05 17:40:31,2023-02-05 17:49:32,1.0,1.1,1.0,234,Manhattan,Union Sq,170,Manhattan,Murray Hill,1,9.3,2.5,0.5,2.66,0.0,15.96,2.5
+833,834,2023-02-05 01:00:57,2023-02-05 01:09:40,1.0,1.7,1.0,79,Manhattan,East Village,170,Manhattan,Murray Hill,1,10.0,3.5,0.5,3.0,0.0,18.0,2.5
+834,835,2023-02-03 21:59:42,2023-02-03 22:06:45,1.0,0.83,1.0,186,Manhattan,Penn Station/Madison Sq West,164,Manhattan,Midtown South,1,7.9,1.0,0.5,2.0,0.0,14.9,2.5
+835,836,2023-02-03 16:32:02,2023-02-03 16:36:47,1.0,0.66,1.0,236,Manhattan,Upper East Side North,237,Manhattan,Upper East Side South,1,6.5,2.5,0.5,2.6,0.0,15.6,2.5
+836,837,2023-02-02 22:55:29,2023-02-02 23:11:08,1.0,2.84,1.0,141,Manhattan,Lenox Hill West,90,Manhattan,Flatiron,1,17.0,1.0,0.5,4.4,0.0,26.4,2.5
+837,838,2023-02-02 13:58:15,2023-02-02 14:41:55,1.0,13.68,3.0,13,Manhattan,Battery Park City,1,EWR,Newark Airport,1,83.2,0.0,0.0,20.19,16.75,121.14,0.0
+838,839,2023-02-01 22:25:56,2023-02-01 22:31:46,2.0,1.17,1.0,238,Manhattan,Upper West Side North,166,Manhattan,Morningside Heights,1,7.9,1.0,0.5,2.08,0.0,12.48,0.0
+839,840,2023-02-01 11:06:21,2023-02-01 11:24:44,0.0,1.9,1.0,162,Manhattan,Midtown East,234,Manhattan,Union Sq,1,14.2,2.5,0.5,3.6,0.0,21.8,2.5
+840,841,2023-02-01 10:16:31,2023-02-01 10:47:09,1.0,4.11,1.0,170,Manhattan,Murray Hill,239,Manhattan,Upper West Side South,1,28.9,0.0,0.5,3.0,0.0,35.9,2.5
+841,842,2023-01-31 21:17:49,2023-01-31 21:30:59,1.0,4.0,1.0,144,Manhattan,Little Italy/NoLiTa,164,Manhattan,Midtown South,1,20.5,3.5,0.5,5.1,0.0,30.6,2.5
+842,843,2023-01-31 16:43:57,2023-01-31 17:40:58,1.0,9.57,1.0,138,Queens,LaGuardia Airport,244,Manhattan,Washington Heights South,1,60.4,7.5,0.5,18.99,6.55,96.19,0.0
+843,844,2023-01-31 12:29:59,2023-01-31 12:52:20,1.0,2.14,1.0,90,Manhattan,Flatiron,231,Manhattan,TriBeCa/Civic Center,1,19.1,0.0,0.5,4.62,0.0,27.72,2.5
+844,845,2023-01-31 11:51:11,2023-01-31 11:58:07,1.0,0.72,1.0,237,Manhattan,Upper East Side South,161,Manhattan,Midtown Center,1,7.9,1.0,0.5,3.23,0.0,16.13,2.5
+845,846,2023-01-31 09:55:20,2023-01-31 10:05:52,1.0,1.23,1.0,161,Manhattan,Midtown Center,48,Manhattan,Clinton East,2,10.7,0.0,0.5,0.0,0.0,14.7,2.5
+846,847,2023-01-31 06:53:40,2023-01-31 06:55:54,1.0,0.46,1.0,140,Manhattan,Lenox Hill East,140,Manhattan,Lenox Hill East,1,5.1,0.0,0.5,1.82,0.0,10.92,2.5
+847,848,2023-01-30 22:40:33,2023-01-30 22:54:39,2.0,2.89,1.0,249,Manhattan,West Village,163,Manhattan,Midtown North,1,16.3,1.0,0.5,4.26,0.0,25.56,2.5
+848,849,2023-01-29 17:52:02,2023-01-29 17:56:43,1.0,1.17,1.0,262,Manhattan,Yorkville East,74,Manhattan,East Harlem North,2,7.2,0.0,0.5,0.0,0.0,11.2,2.5
+849,850,2023-01-29 17:42:24,2023-01-29 17:49:08,1.0,0.9,1.0,43,Manhattan,Central Park,161,Manhattan,Midtown Center,1,7.9,2.5,0.5,2.35,0.0,14.25,2.5
+850,851,2023-01-28 19:32:20,2023-01-29 19:26:23,1.0,5.96,1.0,148,Manhattan,Lower East Side,36,Brooklyn,Bushwick North,1,39.4,0.0,0.5,2.17,0.0,45.57,2.5
+851,852,2023-01-28 18:38:39,2023-01-28 19:05:12,1.0,5.3,1.0,140,Manhattan,Lenox Hill East,144,Manhattan,Little Italy/NoLiTa,1,27.5,2.5,0.5,6.3,0.0,37.8,2.5
+852,853,2023-01-28 11:50:32,2023-01-28 11:57:31,2.0,1.23,1.0,137,Manhattan,Kips Bay,170,Manhattan,Murray Hill,1,9.3,0.0,0.5,3.32,0.0,16.62,2.5
+853,854,2023-01-27 08:51:44,2023-01-27 09:14:15,1.0,8.69,1.0,264,Unknown,,48,Manhattan,Clinton East,1,36.6,5.0,0.5,10.0,6.55,63.4,2.5
+854,855,2023-01-26 21:21:08,2023-01-26 21:24:48,2.0,1.03,1.0,229,Manhattan,Sutton Place/Turtle Bay North,140,Manhattan,Lenox Hill East,1,6.5,1.0,0.5,2.3,0.0,13.8,2.5
+855,856,2023-01-26 14:37:28,2023-01-26 14:45:25,1.0,0.77,1.0,237,Manhattan,Upper East Side South,163,Manhattan,Midtown North,1,8.6,0.0,0.5,3.15,0.0,15.75,2.5
+856,857,2023-01-26 12:19:39,2023-01-26 12:38:05,1.0,3.6,1.0,234,Manhattan,Union Sq,145,Queens,Long Island City/Hunters Point,1,19.8,0.0,0.5,6.07,6.55,36.42,2.5
+857,858,2023-01-26 12:02:27,2023-01-26 12:12:10,1.0,0.66,1.0,162,Manhattan,Midtown East,161,Manhattan,Midtown Center,1,9.3,0.0,0.5,0.08,0.0,13.38,2.5
+858,859,2023-01-26 08:55:47,2023-01-26 09:03:38,1.0,0.9,1.0,170,Manhattan,Murray Hill,164,Manhattan,Midtown South,1,7.9,2.5,0.5,2.35,0.0,14.25,2.5
+859,860,2023-01-25 17:31:49,2023-01-25 17:39:19,1.0,1.26,1.0,141,Manhattan,Lenox Hill West,233,Manhattan,UN/Turtle Bay South,1,9.3,2.5,0.5,3.16,0.0,18.96,2.5
+860,861,2023-01-25 15:03:06,2023-01-25 15:12:06,1.0,1.28,1.0,234,Manhattan,Union Sq,79,Manhattan,East Village,2,10.0,0.0,0.5,0.0,0.0,14.0,2.5
+861,862,2023-01-25 09:10:02,2023-01-25 09:29:55,1.0,4.1,1.0,170,Manhattan,Murray Hill,75,Manhattan,East Harlem South,1,21.2,2.5,0.5,2.0,0.0,27.2,2.5
+862,863,2023-01-24 21:51:39,2023-01-24 22:05:23,1.0,2.4,1.0,161,Manhattan,Midtown Center,224,Manhattan,Stuy Town/Peter Cooper Village,1,14.9,1.0,0.5,4.98,0.0,24.88,2.5
+863,864,2023-01-24 18:44:43,2023-01-24 19:07:13,1.0,2.17,1.0,162,Manhattan,Midtown East,142,Manhattan,Lincoln Square East,1,19.8,2.5,0.5,7.89,0.0,34.19,2.5
+864,865,2023-01-24 16:37:10,2023-01-24 16:50:50,1.0,1.8,1.0,163,Manhattan,Midtown North,170,Manhattan,Murray Hill,1,12.1,5.0,0.5,3.7,0.0,22.3,2.5
+865,866,2023-01-24 09:15:30,2023-01-24 09:24:37,1.0,2.8,1.0,142,Manhattan,Lincoln Square East,166,Manhattan,Morningside Heights,1,13.5,2.5,0.5,0.0,0.0,17.5,2.5
+866,867,2023-01-23 22:07:12,2023-01-23 22:16:46,1.0,2.76,1.0,137,Manhattan,Kips Bay,262,Manhattan,Yorkville East,1,14.2,1.0,0.5,4.0,0.0,23.2,2.5
+867,868,2023-01-23 18:46:58,2023-01-23 19:03:45,1.0,3.1,1.0,100,Manhattan,Garment District,141,Manhattan,Lenox Hill West,1,18.4,2.5,0.5,2.5,0.0,27.4,2.5
+868,869,2023-01-23 17:54:07,2023-01-23 18:03:37,1.0,1.62,1.0,45,Manhattan,Chinatown,79,Manhattan,East Village,1,10.7,2.5,0.5,2.58,0.0,19.78,2.5
+869,870,2023-01-23 14:13:52,2023-01-23 14:15:13,1.0,0.0,1.0,237,Manhattan,Upper East Side South,162,Manhattan,Midtown East,3,3.7,2.5,0.5,0.0,0.0,7.7,2.5
+870,871,2023-01-23 06:37:02,2023-01-23 06:44:30,1.0,1.61,1.0,239,Manhattan,Upper West Side South,237,Manhattan,Upper East Side South,1,10.7,0.0,0.5,2.2,0.0,16.9,2.5
+871,872,2023-01-22 11:46:43,2023-01-22 11:55:20,1.0,1.95,1.0,239,Manhattan,Upper West Side South,263,Manhattan,Yorkville West,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+872,873,2023-01-21 19:38:01,2023-01-21 19:45:02,1.0,0.95,1.0,45,Manhattan,Chinatown,261,Manhattan,World Trade Center,1,7.9,0.0,0.5,2.38,0.0,14.28,2.5
+873,874,2023-01-21 18:54:21,2023-01-21 18:58:00,1.0,0.66,1.0,263,Manhattan,Yorkville West,141,Manhattan,Lenox Hill West,1,5.8,0.0,0.5,3.0,0.0,12.8,2.5
+874,875,2023-01-21 11:15:07,2023-01-21 11:26:48,2.0,2.76,1.0,170,Manhattan,Murray Hill,236,Manhattan,Upper East Side North,1,14.9,0.0,0.5,0.0,0.0,18.9,2.5
+875,876,2023-01-21 01:18:25,2023-01-21 01:37:29,2.0,4.9,1.0,114,Manhattan,Greenwich Village South,238,Manhattan,Upper West Side North,1,24.7,3.5,0.5,5.9,0.0,35.6,2.5
+876,877,2023-01-20 22:58:35,2023-01-20 23:13:06,5.0,4.31,1.0,107,Manhattan,Gramercy,87,Manhattan,Financial District North,1,21.2,1.0,0.5,6.55,0.0,32.75,2.5
+877,878,2023-01-20 18:54:48,2023-01-20 19:00:37,5.0,1.03,1.0,162,Manhattan,Midtown East,137,Manhattan,Kips Bay,1,7.9,2.5,0.5,1.0,0.0,15.4,2.5
+878,879,2023-01-19 12:42:02,2023-01-19 12:53:57,1.0,0.79,1.0,162,Manhattan,Midtown East,161,Manhattan,Midtown Center,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+879,880,2023-01-18 23:42:48,2023-01-18 23:56:55,1.0,3.26,1.0,68,Manhattan,East Chelsea,45,Manhattan,Chinatown,2,17.7,1.0,0.5,0.0,0.0,22.7,2.5
+880,881,2023-01-18 09:46:28,2023-01-18 09:58:40,1.0,1.91,1.0,137,Manhattan,Kips Bay,140,Manhattan,Lenox Hill East,1,12.8,0.0,0.5,3.36,0.0,20.16,2.5
+881,882,2023-01-16 17:08:51,2023-01-16 17:16:18,1.0,1.3,1.0,90,Manhattan,Flatiron,113,Manhattan,Greenwich Village North,1,8.6,0.0,0.5,1.0,0.0,13.6,2.5
+882,883,2023-01-15 18:18:19,2023-01-15 19:01:45,1.0,21.6,2.0,142,Manhattan,Lincoln Square East,132,Queens,JFK Airport,1,70.0,0.0,0.5,8.0,6.55,88.55,2.5
+883,884,2023-01-15 10:21:31,2023-01-15 10:26:38,1.0,0.86,1.0,224,Manhattan,Stuy Town/Peter Cooper Village,234,Manhattan,Union Sq,1,7.2,0.0,0.5,2.24,0.0,13.44,2.5
+884,885,2023-01-14 12:47:06,2023-01-14 12:58:52,1.0,2.5,1.0,41,Manhattan,Central Harlem,236,Manhattan,Upper East Side North,2,13.5,2.5,0.5,0.0,0.0,17.5,2.5
+885,886,2023-01-14 11:46:34,2023-01-14 11:49:03,1.0,0.76,1.0,141,Manhattan,Lenox Hill West,263,Manhattan,Yorkville West,1,5.8,0.0,0.5,1.0,0.0,10.8,2.5
+886,887,2023-01-14 11:22:55,2023-01-14 11:33:30,1.0,1.45,1.0,230,Manhattan,Times Sq/Theatre District,162,Manhattan,Midtown East,1,11.4,0.0,0.5,3.08,0.0,18.48,2.5
+887,888,2023-01-14 02:48:12,2023-01-14 03:04:00,1.0,2.8,1.0,68,Manhattan,East Chelsea,231,Manhattan,TriBeCa/Civic Center,1,17.7,3.5,0.5,4.5,0.0,27.2,2.5
+888,889,2023-01-13 00:45:52,2023-01-13 01:17:27,1.0,18.41,2.0,132,Queens,JFK Airport,79,Manhattan,East Village,1,70.0,0.0,0.5,3.0,0.0,77.0,2.5
+889,890,2023-01-12 20:42:51,2023-01-12 20:46:11,1.0,0.6,1.0,238,Manhattan,Upper West Side North,239,Manhattan,Upper West Side South,1,5.8,3.5,0.5,1.62,0.0,12.42,2.5
+890,891,2023-01-12 19:40:23,2023-01-12 19:53:47,2.0,1.78,1.0,234,Manhattan,Union Sq,48,Manhattan,Clinton East,1,13.5,2.5,0.5,4.0,0.0,24.0,2.5
+891,892,2023-01-12 11:41:55,2023-01-12 12:00:15,1.0,2.18,1.0,238,Manhattan,Upper West Side North,230,Manhattan,Times Sq/Theatre District,1,17.0,0.0,0.5,2.0,0.0,23.0,2.5
+892,893,2023-01-11 18:40:22,2023-01-11 18:54:09,1.0,2.19,1.0,239,Manhattan,Upper West Side South,141,Manhattan,Lenox Hill West,1,14.9,2.5,0.5,4.28,0.0,25.68,2.5
+893,894,2023-01-11 16:57:33,2023-01-11 17:17:00,1.0,4.01,1.0,140,Manhattan,Lenox Hill East,42,Manhattan,Central Harlem North,1,21.2,2.5,0.5,5.54,0.0,33.24,2.5
+894,895,2023-01-11 10:56:22,2023-01-11 11:08:10,1.0,6.0,1.0,229,Manhattan,Sutton Place/Turtle Bay North,88,Manhattan,Financial District South,1,25.4,0.0,0.5,7.35,0.0,36.75,2.5
+895,896,2023-01-10 16:04:29,2023-01-10 16:15:03,1.0,1.07,1.0,162,Manhattan,Midtown East,48,Manhattan,Clinton East,1,10.7,0.0,0.5,2.94,0.0,17.64,2.5
+896,897,2023-01-10 05:51:14,2023-01-10 05:57:05,1.0,1.58,1.0,68,Manhattan,East Chelsea,48,Manhattan,Clinton East,1,9.3,1.0,0.5,2.86,0.0,17.16,2.5
+897,898,2023-01-09 14:22:16,2023-01-09 14:43:56,1.0,5.7,1.0,125,Manhattan,Hudson Sq,141,Manhattan,Lenox Hill West,1,28.9,2.5,0.5,8.2,0.0,41.1,2.5
+898,899,2023-01-09 10:36:31,2023-01-09 10:43:37,1.0,2.38,1.0,140,Manhattan,Lenox Hill East,137,Manhattan,Kips Bay,1,12.1,0.0,0.5,3.22,0.0,19.32,2.5
+899,900,2023-01-09 09:46:04,2023-01-09 09:50:57,1.0,0.87,1.0,236,Manhattan,Upper East Side North,75,Manhattan,East Harlem South,1,7.2,0.0,0.5,2.8,0.0,14.0,2.5
+900,901,2023-01-08 15:57:24,2023-01-08 16:02:47,1.0,0.9,1.0,229,Manhattan,Sutton Place/Turtle Bay North,237,Manhattan,Upper East Side South,2,6.5,2.5,0.5,0.0,0.0,10.5,2.5
+901,902,2023-01-08 12:39:51,2023-01-08 12:57:47,1.0,3.49,1.0,229,Manhattan,Sutton Place/Turtle Bay North,144,Manhattan,Little Italy/NoLiTa,1,19.8,0.0,0.5,4.76,0.0,28.56,2.5
+902,903,2023-01-08 00:51:23,2023-01-08 01:03:08,1.0,2.57,1.0,249,Manhattan,West Village,209,Manhattan,Seaport,1,14.2,1.0,0.5,3.84,0.0,23.04,2.5
+903,904,2023-01-07 19:20:30,2023-01-07 20:12:30,2.0,18.78,2.0,132,Queens,JFK Airport,163,Manhattan,Midtown North,1,70.0,0.0,0.5,8.18,6.55,89.98,2.5
+904,905,2023-01-07 10:28:39,2023-01-07 10:34:48,1.0,1.2,1.0,151,Manhattan,Manhattan Valley,166,Manhattan,Morningside Heights,2,7.9,0.0,0.5,0.0,0.0,9.4,0.0
+905,906,2023-01-07 02:35:29,2023-01-07 02:47:11,1.0,2.0,1.0,148,Manhattan,Lower East Side,170,Manhattan,Murray Hill,1,13.5,3.5,0.5,1.0,0.0,19.5,2.5
+906,907,2023-01-05 13:59:21,2023-01-05 14:04:38,1.0,1.11,1.0,264,Unknown,,264,Unknown,,2,7.9,0.0,0.5,0.0,0.0,11.9,2.5
+907,908,2023-01-05 07:36:11,2023-01-05 07:45:33,1.0,2.72,1.0,238,Manhattan,Upper West Side North,230,Manhattan,Times Sq/Theatre District,1,13.5,0.0,0.5,4.38,0.0,21.88,2.5
+908,909,2023-01-04 15:13:47,2023-01-04 15:20:54,1.0,0.85,1.0,100,Manhattan,Garment District,230,Manhattan,Times Sq/Theatre District,2,7.9,0.0,0.5,0.0,0.0,11.9,2.5
+909,910,2023-01-03 23:25:37,2023-01-03 23:31:54,1.0,1.29,1.0,162,Manhattan,Midtown East,48,Manhattan,Clinton East,1,8.6,1.0,0.5,1.4,0.0,15.0,2.5
+910,911,2023-01-03 20:51:21,2023-01-03 21:10:40,1.0,5.8,1.0,246,Manhattan,West Chelsea/Hudson Yards,152,Manhattan,Manhattanville,2,25.4,5.0,0.5,0.0,0.0,31.9,2.5
+911,912,2023-01-02 12:30:36,2023-01-02 12:38:20,1.0,1.48,1.0,237,Manhattan,Upper East Side South,263,Manhattan,Yorkville West,1,10.0,0.0,0.5,1.4,0.0,15.4,2.5
+912,913,2023-01-02 07:22:43,2023-01-02 07:38:29,1.0,7.11,1.0,141,Manhattan,Lenox Hill West,235,Bronx,University Heights/Morris Heights,2,28.9,0.0,0.5,0.0,0.0,32.9,2.5
+913,914,2023-01-01 18:24:36,2023-01-01 18:37:18,3.0,1.2,1.0,170,Manhattan,Murray Hill,162,Manhattan,Midtown East,1,10.7,2.5,0.5,2.9,0.0,17.6,2.5
+914,915,2023-01-01 14:49:56,2023-01-01 14:53:12,1.0,0.3,1.0,100,Manhattan,Garment District,100,Manhattan,Garment District,3,4.4,2.5,0.5,0.0,0.0,8.4,2.5
+915,916,2023-01-01 03:14:51,2023-01-01 03:31:26,1.0,4.08,1.0,142,Manhattan,Lincoln Square East,74,Manhattan,East Harlem North,1,20.5,1.0,0.5,5.1,0.0,30.6,2.5
